@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b9e17631-824c-3c9e-a28d-09cdf993d815",
+    "name": "nm694752m",
+    "created": "2021-01-18 14:57:49 +0530",
+    "source": "hey",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "14ff34d9-be7e-3f70-ac06-a61c880c7f32",
+    "name": "skandarajev",
+    "created": "2021-01-29 14:42:35 +0530",
+    "source": "Heroebrien",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8846fb3f-5e81-3499-961e-11ab92815f14",
+    "name": "heroebrien\\",
+    "created": "2021-02-01 13:32:17 +0530",
+    "source": "skandarajeev",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
