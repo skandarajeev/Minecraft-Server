@@ -1,453 +1,268 @@
-[13:41:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:41:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:41:08] [main/INFO]: Reloading ResourceManager: Default
-[13:41:09] [Worker-Main-9/INFO]: Loaded 7 recipes
-[13:41:09] [Worker-Main-9/INFO]: Loaded 927 advancements
-[13:41:11] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:41:11] [Server thread/INFO]: Loading properties
-[13:41:11] [Server thread/INFO]: Default game type: SURVIVAL
-[13:41:11] [Server thread/INFO]: Generating keypair
-[13:41:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:41:11] [Server thread/INFO]: Using default channel type
-[13:41:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:41:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:41:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:41:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:41:11] [Server thread/INFO]: Preparing level "world"
-[13:41:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:41:13] [Server thread/INFO]: Preparing spawn area: 0%
-[13:41:13] [Server thread/INFO]: Preparing spawn area: 0%
-[13:41:13] [Server thread/INFO]: Preparing spawn area: 0%
-[13:41:13] [Server thread/INFO]: Preparing spawn area: 7%
-[13:41:14] [Server thread/INFO]: Time elapsed: 2948 ms
-[13:41:14] [Server thread/INFO]: Done (3.044s)! For help, type "help"
-[13:41:15] [Server thread/INFO]: skandarajeev[/26.45.108.84:59261] logged in with entity id 191 at (-265.1014689175877, 74.0, 511.4296037209723)
-[13:41:15] [Server thread/INFO]: skandarajeev joined the game
-[13:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[13:41:26] [Server thread/INFO]: Heroebrien[/26.68.130.165:61647] logged in with entity id 790 at (-262.5000389036235, 74.0, 513.3747230851611)
-[13:41:26] [Server thread/INFO]: Heroebrien joined the game
-[13:42:02] [Server thread/INFO]: nm694752[/26.47.66.184:56027] logged in with entity id 883 at (218.69999998807907, 69.0, -39.30000001192093)
-[13:42:02] [Server thread/INFO]: nm694752 joined the game
-[13:42:04] [Server thread/INFO]: [Heroebrien: Set own game mode to Survival Mode]
-[13:42:17] [Server thread/INFO]: [skandarajeev: Made Heroebrien no longer a server operator]
-[13:42:26] [Server thread/INFO]: <Heroebrien> hey
-[13:42:53] [Server thread/INFO]: <Heroebrien> sleep
-[13:42:53] [Server thread/INFO]: <skandarajeev> Heroebrien
-[13:43:26] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:43:26] [Server thread/INFO]: Heroebrien left the game
-[13:43:34] [Server thread/INFO]: Heroebrien[/26.68.130.165:61663] logged in with entity id 1588 at (-300.5, 64.0, 516.5)
-[13:43:34] [Server thread/INFO]: Heroebrien joined the game
-[13:44:00] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:44:00] [Server thread/INFO]: Heroebrien left the game
-[13:44:07] [Server thread/INFO]: Heroebrien[/26.68.130.165:61677] logged in with entity id 1749 at (-318.1073476700329, 64.0, 513.2653912012873)
-[13:44:07] [Server thread/INFO]: Heroebrien joined the game
-[13:44:07] [Server thread/WARN]: nm694752 moved too quickly! -2.725763166761169,-10.51734186173833,1.0230358818105287
-[13:44:10] [Server thread/INFO]: nm694752 fell from a high place
-[13:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=75, z=-7}
-[13:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=76, z=-9}
-[13:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=77, z=-9}
-[13:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=256, y=77, z=-9}
-[13:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=77, z=-9}
-[13:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=256, y=77, z=-9}
-[13:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=259, y=77, z=-10}
-[13:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=264, y=76, z=-9}
-[13:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=264, y=76, z=-9}
-[13:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=264, y=76, z=-9}
-[13:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=264, y=76, z=-9}
-[13:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=268, y=77, z=-7}
-[13:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=269, y=77, z=-7}
-[13:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=269, y=78, z=-7}
-[13:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=271, y=76, z=-7}
-[13:45:04] [Server thread/INFO]: nm694752 fell from a high place
-[13:45:22] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:45:22] [Server thread/INFO]: Heroebrien left the game
-[13:45:30] [Server thread/INFO]: Heroebrien[/26.68.130.165:61684] logged in with entity id 2280 at (-259.085247000005, 69.55000001192093, 488.3125)
-[13:45:30] [Server thread/INFO]: Heroebrien joined the game
-[13:47:11] [Server thread/INFO]: nm694752 fell from a high place
-[13:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=73, z=-21}
-[13:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=74, z=-20}
-[13:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=253, y=73, z=-19}
-[13:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=253, y=72, z=-15}
-[13:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=71, z=-16}
-[13:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=72, z=-15}
-[13:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=253, y=72, z=-15}
-[13:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=252, y=72, z=-15}
-[13:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=251, y=73, z=-15}
-[13:47:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=250, y=74, z=-14}
-[13:47:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=249, y=74, z=-14}
-[13:47:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=249, y=74, z=-13}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=248, y=74, z=-13}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=247, y=75, z=-12}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=246, y=74, z=-11}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=246, y=74, z=-10}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=246, y=74, z=-10}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=74, z=-10}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-8}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-9}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-8}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-7}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=78, z=-5}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-6}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-7}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=77, z=-6}
-[13:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=78, z=-5}
-[13:47:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=245, y=79, z=-4}
-[13:47:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=244, y=79, z=-4}
-[13:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=243, y=78, z=-7}
-[13:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=251, y=75, z=-7}
-[13:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=251, y=75, z=-8}
-[13:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=252, y=75, z=-8}
-[13:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=253, y=75, z=-7}
-[13:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=252, y=75, z=-7}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=252, y=75, z=-7}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=253, y=75, z=-7}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=75, z=-7}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=75, z=-6}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=75, z=-6}
-[13:48:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=76, z=-9}
-[13:48:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=75, z=-8}
-[13:48:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=75, z=-7}
-[13:48:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=76, z=-9}
-[13:48:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=259, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=78, z=-10}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=78, z=-10}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=78, z=-10}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=78, z=-10}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=262, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=262, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=76, z=-9}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=267, y=75, z=-7}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=267, y=76, z=-7}
-[13:48:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=267, y=75, z=-7}
-[13:48:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=270, y=71, z=-8}
-[13:48:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=269, y=71, z=-8}
-[13:48:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=270, y=71, z=-8}
-[13:48:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=271, y=71, z=-8}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=264, y=74, z=-6}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=263, y=74, z=-7}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=262, y=74, z=-7}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=74, z=-7}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=75, z=-7}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=261, y=76, z=-9}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=260, y=76, z=-9}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=259, y=76, z=-9}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=258, y=75, z=-9}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=257, y=75, z=-9}
-[13:48:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=257, y=76, z=-10}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=257, y=77, z=-10}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=256, y=78, z=-10}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=77, z=-9}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=77, z=-9}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=256, y=78, z=-10}
-[13:48:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=79, z=-10}
-[13:48:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=79, z=-10}
-[13:48:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=255, y=79, z=-10}
-[13:48:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=254, y=79, z=-11}
-[13:48:49] [Server thread/WARN]: nm694752 moved too quickly! -10.099261400303625,-0.3767356137817188,0.029094924086383145
-[13:50:28] [Server thread/INFO]: nm694752 fell from a high place
-[13:51:17] [Server thread/INFO]: nm694752 drowned
-[13:51:45] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:51:45] [Server thread/INFO]: Heroebrien left the game
-[13:51:54] [Server thread/INFO]: Heroebrien[/26.68.130.165:61721] logged in with entity id 3527 at (-301.64952448254746, 71.0, 500.939098085476)
-[13:51:54] [Server thread/INFO]: Heroebrien joined the game
-[13:52:04] [Server thread/WARN]: nm694752 moved too quickly! -4.841803472293577,-8.73024233798131,3.485345122738863
-[13:52:07] [Server thread/INFO]: nm694752 fell from a high place
-[13:52:12] [Server thread/INFO]: <nm694752> i am gayy
-[13:52:26] [Server thread/WARN]: Heroebrien moved too quickly! -7.744400252508171,-1.0,6.641734838879984
-[13:52:37] [Server thread/INFO]: <nm694752> i am gay
-[13:52:40] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:52:40] [Server thread/INFO]: Heroebrien left the game
-[13:52:50] [Server thread/INFO]: Heroebrien[/26.68.130.165:61727] logged in with entity id 3712 at (-311.2016781249926, 70.0, 516.4665401367374)
-[13:52:50] [Server thread/INFO]: Heroebrien joined the game
-[13:52:58] [Server thread/INFO]: <nm694752> are you gay
-[13:53:09] [Server thread/INFO]: <Heroebrien> come down
-[13:53:12] [Server thread/INFO]: nm694752 fell from a high place
-[13:53:14] [Server thread/INFO]: <Heroebrien> surprise for you
-[13:53:22] [Server thread/INFO]: <nm694752> i came down and went straight up
-[13:53:41] [Server thread/INFO]: <nm694752> i will chill with villagers
-[13:54:02] [Server thread/INFO]: <nm694752> i is on villager
-[13:54:13] [Server thread/INFO]: <nm694752> i am gay
-[13:54:17] [Server thread/INFO]: <nm694752> i am gay
-[13:54:19] [Server thread/INFO]: <nm694752> i am gay
-[13:54:22] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:54:22] [Server thread/INFO]: Heroebrien left the game
-[13:54:35] [Server thread/INFO]: Heroebrien[/26.68.130.165:61746] logged in with entity id 3970 at (-254.02314052852188, 71.0625, 495.2000321532041)
-[13:54:35] [Server thread/INFO]: Heroebrien joined the game
-[13:55:19] [Server thread/INFO]: <nm694752> aren come with me
-[13:55:24] [Server thread/INFO]: <nm694752> i am at home
-[13:55:26] [Server thread/INFO]: <nm694752> come fast
-[13:55:59] [Server thread/INFO]: <nm694752> whwre are youw
-[13:56:18] [Server thread/INFO]: <nm694752> come with me
-[13:56:23] [Server thread/INFO]: <Heroebrien> naman where you
-[13:56:30] [Server thread/INFO]: <nm694752> library
-[13:56:55] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[13:56:55] [Server thread/INFO]: Heroebrien left the game
-[13:57:04] [Server thread/INFO]: Heroebrien[/26.68.130.165:61768] logged in with entity id 4391 at (-303.53663257862047, 70.0, 529.109260159328)
-[13:57:04] [Server thread/INFO]: Heroebrien joined the game
-[13:57:23] [Server thread/INFO]: <nm694752> follow me
-[13:57:42] [Server thread/INFO]: <nm694752> i am not stuck
-[13:57:48] [Server thread/WARN]: Heroebrien moved too quickly! 0.23517539669256848,-11.78188408128252,0.0
-[13:57:49] [Server thread/INFO]: <nm694752> come dah
-[13:58:04] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:58:04] [Server thread/INFO]: Heroebrien left the game
-[13:58:12] [Server thread/INFO]: Heroebrien[/26.68.130.165:61775] logged in with entity id 4529 at (-303.38948329681006, 19.127024844169757, 505.3000000119208)
-[13:58:12] [Server thread/INFO]: Heroebrien joined the game
-[13:58:15] [Server thread/INFO]: <nm694752> come fast
-[13:58:17] [Server thread/INFO]: <nm694752> sped
-[13:58:22] [Server thread/INFO]: <nm694752> ok where lava
-[13:58:38] [Server thread/INFO]: <nm694752> no come her
-[13:58:46] [Server thread/INFO]: <nm694752> come here fast
-[13:58:46] [Server thread/INFO]: <nm694752> sped
-[13:59:24] [Server thread/INFO]: nm694752 tried to swim in lava
-[13:59:26] [Server thread/INFO]: Heroebrien tried to swim in lava
-[13:59:40] [Server thread/INFO]: <nm694752> see i didnt throw diamond in lava
-[13:59:45] [Server thread/INFO]: <nm694752> i just fell in lava
-[14:03:21] [Server thread/WARN]: nm694752 moved too quickly! -0.5758672461171273,-18.602824528451222,-1.1491603210795347
-[14:03:29] [Server thread/INFO]: nm694752 fell from a high place
-[14:05:00] [Server thread/INFO]: <Heroebrien> sleep
-[14:06:38] [Server thread/INFO]: <Heroebrien> sleep
-[14:06:39] [Server thread/INFO]: <Heroebrien> sleep
-[14:06:40] [Server thread/INFO]: <Heroebrien> sleep
-[14:06:42] [Server thread/INFO]: <Heroebrien> slep
-[14:06:43] [Server thread/INFO]: <Heroebrien> slep
-[14:06:44] [Server thread/INFO]: <Heroebrien> slep
-[14:06:45] [Server thread/INFO]: <Heroebrien> slep
-[14:06:47] [Server thread/INFO]: <Heroebrien> slep
-[14:06:47] [Server thread/INFO]: <Heroebrien> slep
-[14:06:48] [Server thread/INFO]: <Heroebrien> slep
-[14:06:49] [Server thread/INFO]: <Heroebrien> sle
-[14:06:50] [Server thread/INFO]: <Heroebrien> sle
-[14:06:51] [Server thread/INFO]: <Heroebrien> pp
-[14:06:52] [Server thread/INFO]: <Heroebrien> pp
-[14:06:53] [Server thread/INFO]: <Heroebrien> pp
-[14:06:53] [Server thread/INFO]: <Heroebrien> pp
-[14:06:54] [Server thread/INFO]: <Heroebrien> p
-[14:06:54] [Server thread/INFO]: <Heroebrien> p
-[14:06:55] [Server thread/INFO]: <Heroebrien> p
-[14:06:55] [Server thread/INFO]: <Heroebrien> p
-[14:06:56] [Server thread/INFO]: <Heroebrien> p
-[14:06:56] [Server thread/INFO]: <Heroebrien> ppp
-[14:06:57] [Server thread/INFO]: <Heroebrien> p
-[14:06:57] [Server thread/INFO]: <Heroebrien> p
-[14:06:57] [Server thread/INFO]: <Heroebrien> p
-[14:06:58] [Server thread/INFO]: <Heroebrien> p
-[14:06:58] [Server thread/INFO]: <Heroebrien> p
-[14:06:58] [Server thread/INFO]: <Heroebrien> p
-[14:06:59] [Server thread/INFO]: <Heroebrien> p
-[14:07:03] [Server thread/INFO]: [skandarajeev: Banned nm694752: Banned by an operator.]
-[14:07:03] [Server thread/INFO]: nm694752 lost connection: You are banned from this server
-[14:07:03] [Server thread/INFO]: nm694752 left the game
-[14:07:07] [Server thread/INFO]: [skandarajeev: Unbanned nm694752]
-[14:07:13] [Server thread/INFO]: nm694752[/26.47.66.184:58931] logged in with entity id 5874 at (-309.21241932406264, 70.17675927506424, 524.2759152455983)
-[14:07:13] [Server thread/INFO]: nm694752 joined the game
-[14:08:15] [Server thread/WARN]: Heroebrien moved too quickly! 1.9440932484220639,-0.6122513592356995,9.860398408992978
-[14:08:16] [Server thread/INFO]: nm694752 drowned
-[14:08:33] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[14:08:33] [Server thread/INFO]: Heroebrien left the game
-[14:08:41] [Server thread/INFO]: Heroebrien[/26.68.130.165:61820] logged in with entity id 6104 at (-316.6178741599955, 65.5, 526.873973269146)
-[14:08:41] [Server thread/INFO]: Heroebrien joined the game
-[14:09:17] [Server thread/WARN]: Heroebrien moved too quickly! 9.31752515458868,-0.5625,4.162098216186905
-[14:09:46] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:09:46] [Server thread/INFO]: Heroebrien left the game
-[14:09:53] [Server thread/INFO]: Heroebrien[/26.68.130.165:61827] logged in with entity id 6249 at (-303.9351737403649, 70.7531999805212, 527.1063105943307)
-[14:09:53] [Server thread/INFO]: Heroebrien joined the game
-[14:10:29] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:10:29] [Server thread/INFO]: Heroebrien left the game
-[14:10:38] [Server thread/INFO]: Heroebrien[/26.68.130.165:61838] logged in with entity id 6403 at (-305.1876158587892, 70.0, 527.7761777692825)
-[14:10:38] [Server thread/INFO]: Heroebrien joined the game
-[14:11:48] [Server thread/INFO]: nm694752 lost connection: Timed out
-[14:11:48] [Server thread/INFO]: nm694752 left the game
-[14:11:57] [Server thread/INFO]: nm694752[/26.47.66.184:59270] logged in with entity id 6607 at (-338.2429689308081, 70.16610926093821, 512.3807734831832)
-[14:11:57] [Server thread/INFO]: nm694752 joined the game
-[14:16:42] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:16:42] [Server thread/INFO]: nm694752 left the game
-[14:18:46] [Server thread/INFO]: <Heroebrien> pp
-[14:18:47] [Server thread/INFO]: <Heroebrien> s
-[14:18:48] [Server thread/INFO]: <Heroebrien> l
-[14:18:49] [Server thread/INFO]: <Heroebrien> e
-[14:18:50] [Server thread/INFO]: <Heroebrien> e
-[14:18:51] [Server thread/INFO]: <Heroebrien> pp
-[14:18:54] [Server thread/INFO]: <Heroebrien> s
-[14:18:55] [Server thread/INFO]: <Heroebrien> k
-[14:18:58] [Server thread/INFO]: <Heroebrien> l
-[14:18:59] [Server thread/INFO]: <Heroebrien> e
-[14:18:59] [Server thread/INFO]: <Heroebrien> e
-[14:19:00] [Server thread/INFO]: <Heroebrien> pp
-[14:19:02] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:19:02] [Server thread/INFO]: skandarajeev left the game
-[14:19:02] [Server thread/INFO]: <Heroebrien> slee
-[14:19:05] [Server thread/INFO]: <Heroebrien> pp
-[14:19:08] [Server thread/INFO]: skandarajeev[/26.45.108.84:51728] logged in with entity id 7829 at (-302.5200891345043, 75.0, 499.3359510747386)
-[14:19:08] [Server thread/INFO]: skandarajeev joined the game
-[14:20:06] [Server thread/WARN]: Heroebrien moved too quickly! 1.9615306705149465,-0.2336320060424839,-9.976975962078427
-[14:20:12] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[14:20:12] [Server thread/INFO]: Heroebrien left the game
-[14:20:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:61893] logged in with entity id 8035 at (-265.1302106504651, 70.92159999847412, 481.3445992677357)
-[14:20:21] [Server thread/INFO]: Heroebrien joined the game
-[14:20:25] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:20:25] [Server thread/INFO]: Heroebrien left the game
-[14:20:50] [Server thread/INFO]: Heroebrien[/26.68.130.165:61911] logged in with entity id 8106 at (-265.1302106504651, 70.92159999847412, 481.3445992677357)
-[14:20:50] [Server thread/INFO]: Heroebrien joined the game
-[14:31:05] [Server thread/INFO]: Villager bfj['Farmer'/2282, l='ServerLevel[world]', x=-362.25, y=67.65, z=505.65] died, message: 'Farmer was slain by Zombie'
-[14:31:12] [Server thread/INFO]: <Heroebrien> slep
-[14:31:13] [Server thread/INFO]: <Heroebrien> s
-[14:31:13] [Server thread/INFO]: <Heroebrien> l
-[14:31:14] [Server thread/INFO]: <Heroebrien> e
-[14:31:14] [Server thread/INFO]: <Heroebrien> e
-[14:31:15] [Server thread/INFO]: <Heroebrien> pp
-[14:33:58] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:33:58] [Server thread/INFO]: Heroebrien left the game
-[14:34:07] [Server thread/INFO]: Heroebrien[/26.68.130.165:61998] logged in with entity id 10122 at (-304.9170582302514, 69.55000001192093, 500.58603848756036)
-[14:34:07] [Server thread/INFO]: Heroebrien joined the game
-[14:34:24] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:34:24] [Server thread/INFO]: Heroebrien left the game
-[14:34:29] [Server thread/INFO]: Heroebrien[/26.68.130.165:62009] logged in with entity id 10174 at (-304.9170582302514, 69.55000001192093, 500.58603848756036)
-[14:34:29] [Server thread/INFO]: Heroebrien joined the game
-[14:48:28] [Server thread/INFO]: Heroebrien fell from a high place
-[14:54:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-325, y=64, z=508} fx{x=-326, y=62, z=508}
-[14:54:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-325, y=64, z=508} fx{x=-326, y=62, z=508}
-[14:54:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-325, y=64, z=508} fx{x=-326, y=62, z=508}
-[14:54:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-326, y=64, z=508} fx{x=-326, y=62, z=508}
-[14:54:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-326, y=64, z=508} fx{x=-326, y=62, z=508}
-[15:02:13] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:02:13] [Server thread/INFO]: Heroebrien left the game
-[15:14:15] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[15:14:15] [Server thread/INFO]: skandarajeev left the game
-[15:14:20] [Server thread/INFO]: Stopping the server
-[15:14:20] [Server thread/INFO]: Stopping server
-[15:14:20] [Server thread/INFO]: Saving players
-[15:14:20] [Server thread/INFO]: Saving worlds
-[15:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:14:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:01:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:01:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:01:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:01:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:01:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:01:54] [main/INFO]: Reloading ResourceManager: Default
+[13:01:55] [Worker-Main-8/INFO]: Loaded 7 recipes
+[13:01:55] [Worker-Main-8/INFO]: Loaded 927 advancements
+[13:01:56] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:01:56] [Server thread/INFO]: Loading properties
+[13:01:56] [Server thread/INFO]: Default game type: SURVIVAL
+[13:01:56] [Server thread/INFO]: Generating keypair
+[13:01:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:01:57] [Server thread/INFO]: Using default channel type
+[13:01:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:01:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:01:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:01:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:01:57] [Server thread/INFO]: Preparing level "world"
+[13:01:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:01:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:01:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:01:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:01:59] [Server thread/INFO]: Preparing spawn area: 0%
+[13:01:59] [Server thread/INFO]: Time elapsed: 2039 ms
+[13:01:59] [Server thread/INFO]: Done (2.162s)! For help, type "help"
+[13:03:46] [Server thread/INFO]: skandarajeev[/26.45.108.84:60877] logged in with entity id 118 at (-323.64139045359053, 69.0, 540.7919350496649)
+[13:03:46] [Server thread/INFO]: skandarajeev joined the game
+[13:17:44] [Server thread/INFO]: nm694752[/26.47.66.184:61769] logged in with entity id 3014 at (-4791.5, 64.0, 2543.5)
+[13:17:44] [Server thread/INFO]: nm694752 joined the game
+[13:18:55] [Server thread/INFO]: Heroebrien[/26.68.130.165:55821] logged in with entity id 3472 at (-298.5, 64.0, 516.5)
+[13:18:55] [Server thread/INFO]: Heroebrien joined the game
+[13:21:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4753, y=64, z=2499} fx{x=-4754, y=62, z=2499}
+[13:21:58] [Server thread/INFO]: nm694752 fell from a high place
+[13:22:54] [Server thread/INFO]: nm694752 drowned
+[13:23:19] [Server thread/INFO]: [skandarajeev: Gave 1 [Command Block] to skandarajeev]
+[13:27:25] [Server thread/INFO]: <Heroebrien> sleep
+[13:27:43] [Server thread/INFO]: <Heroebrien> sleep
+[13:27:45] [Server thread/INFO]: <Heroebrien> sleep
+[13:27:45] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[13:27:45] [Server thread/INFO]: nm694752 left the game
+[13:28:58] [Server thread/INFO]: nm694752[/26.47.66.184:64287] logged in with entity id 6235 at (-302.60780985599376, 71.72159983158112, 511.69999998807907)
+[13:28:58] [Server thread/INFO]: nm694752 joined the game
+[13:36:09] [Server thread/WARN]: Heroebrien moved too quickly! -10.0641773581861,0.0,-0.028468727873686817
+[13:36:19] [Server thread/INFO]: <nm694752> \kill me
+[13:38:20] [Server thread/INFO]: [skandarajeev: Made herobrien no longer a server operator]
+[13:38:30] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[13:38:30] [Server thread/INFO]: nm694752 left the game
+[13:38:52] [Server thread/INFO]: nm694752[/26.47.66.184:50182] logged in with entity id 10350 at (-4828.466838708794, 62.0, 2400.0973351632347)
+[13:38:52] [Server thread/INFO]: nm694752 joined the game
+[13:38:58] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[13:38:58] [Server thread/INFO]: Heroebrien left the game
+[13:39:09] [Server thread/INFO]: Heroebrien[/26.68.130.165:55858] logged in with entity id 10555 at (-541.6999999880791, 118.0, 286.2104125208352)
+[13:39:09] [Server thread/INFO]: Heroebrien joined the game
+[13:40:24] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[13:40:24] [Server thread/INFO]: skandarajeev left the game
+[13:43:16] [Server thread/INFO]: skandarajeev[/26.45.108.84:49919] logged in with entity id 12735 at (-301.6101768005611, 70.0, 547.137102847739)
+[13:43:16] [Server thread/INFO]: skandarajeev joined the game
+[13:46:02] [Server thread/WARN]: nm694752 moved too quickly! -9.58776350248445,3.083077817806469,0.7381553496511515
+[13:49:29] [Server thread/INFO]: [skandarajeev: Banned Heroebrien: Banned by an operator.]
+[13:49:29] [Server thread/INFO]: Heroebrien lost connection: You are banned from this server
+[13:49:29] [Server thread/INFO]: Heroebrien left the game
+[13:49:34] [Server thread/INFO]: [skandarajeev: Unbanned Heroebrien]
+[13:49:46] [Server thread/INFO]: Heroebrien[/26.68.130.165:55879] logged in with entity id 15431 at (-4791.432266073853, 75.0, 2543.699999988079)
+[13:49:46] [Server thread/INFO]: Heroebrien joined the game
+[13:49:51] [Server thread/INFO]: Heroebrien lost connection: You logged in from another location
+[13:49:51] [Server thread/INFO]: Heroebrien left the game
+[13:49:51] [Server thread/INFO]: Heroebrien[/26.68.130.165:55880] logged in with entity id 15452 at (-4791.432266073853, 75.0, 2543.699999988079)
+[13:49:51] [Server thread/INFO]: Heroebrien joined the game
+[13:52:39] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[13:52:39] [Server thread/INFO]: skandarajeev left the game
+[13:54:15] [Server thread/INFO]: skandarajeev[/127.0.0.1:62683] logged in with entity id 16899 at (-299.9313649826171, 70.0, 543.7084436601762)
+[13:54:15] [Server thread/INFO]: skandarajeev joined the game
+[13:56:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18123, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.20]
+[13:57:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18633, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[13:57:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/18692, l='ServerLevel[world]', x=-314.80, y=70.50, z=533.80]
+[13:57:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4191, y=62, z=2627} fx{x=-4167, y=62, z=2705}
+[14:00:15] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:00:15] [Server thread/INFO]: Heroebrien left the game
+[14:00:27] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:00:27] [Server thread/INFO]: nm694752 left the game
+[14:00:29] [Server thread/INFO]: Heroebrien[/26.68.130.165:55904] logged in with entity id 19688 at (-3942.699999988079, 53.0, 2793.2374436593223)
+[14:00:29] [Server thread/INFO]: Heroebrien joined the game
+[14:00:32] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:00:32] [Server thread/INFO]: Heroebrien left the game
+[14:00:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/19989, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.80]
+[14:00:45] [Server thread/INFO]: Heroebrien[/26.68.130.165:55907] logged in with entity id 19990 at (-3942.699999988079, 53.0, 2793.2374436593223)
+[14:00:45] [Server thread/INFO]: Heroebrien joined the game
+[14:01:00] [Server thread/INFO]: nm694752[/26.47.66.184:55625] logged in with entity id 20324 at (-3941.142059659958, 65.0, 2795.0472060368124)
+[14:01:00] [Server thread/INFO]: nm694752 joined the game
+[14:01:08] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/20346, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[14:01:45] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[14:01:45] [Server thread/INFO]: skandarajeev left the game
+[14:02:49] [Server thread/INFO]: skandarajeev[/127.0.0.1:62713] logged in with entity id 20722 at (-301.4086282660591, 70.0, 526.0582373616592)
+[14:02:49] [Server thread/INFO]: skandarajeev joined the game
+[14:09:12] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[14:09:12] [Server thread/INFO]: skandarajeev left the game
+[14:10:20] [Server thread/INFO]: skandarajeev[/127.0.0.1:62771] logged in with entity id 23794 at (-306.1644673372753, 71.0, 548.3021877910629)
+[14:10:20] [Server thread/INFO]: skandarajeev joined the game
+[14:11:11] [Server thread/INFO]: <Heroebrien> sleep
+[14:11:12] [Server thread/INFO]: <Heroebrien> pp
+[14:11:13] [Server thread/INFO]: <Heroebrien> pp
+[14:11:14] [Server thread/INFO]: <Heroebrien> pp
+[14:11:15] [Server thread/INFO]: <Heroebrien> sleep
+[14:11:17] [Server thread/INFO]: <Heroebrien> s
+[14:11:19] [Server thread/INFO]: <Heroebrien> l
+[14:11:19] [Server thread/INFO]: <nm694752> pp
+[14:11:20] [Server thread/INFO]: <Heroebrien> e
+[14:11:20] [Server thread/INFO]: <nm694752> sleep
+[14:11:24] [Server thread/INFO]: <nm694752> pp
+[14:11:24] [Server thread/INFO]: <nm694752> ppp
+[14:11:26] [Server thread/INFO]: <Heroebrien> wait
+[14:11:27] [Server thread/INFO]: <Heroebrien> s
+[14:11:28] [Server thread/INFO]: <Heroebrien> l
+[14:11:29] [Server thread/INFO]: <Heroebrien> e
+[14:11:30] [Server thread/INFO]: <Heroebrien> e
+[14:11:31] [Server thread/INFO]: <Heroebrien> pp
+[14:11:32] [Server thread/INFO]: <nm694752> \ban skandarajeev
+[14:11:43] [Server thread/INFO]: <nm694752> s
+[14:11:44] [Server thread/INFO]: <nm694752> l
+[14:11:45] [Server thread/INFO]: <nm694752> e
+[14:11:53] [Server thread/INFO]: <Heroebrien> i horny at night
+[14:12:49] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:12:49] [Server thread/INFO]: nm694752 left the game
+[14:13:01] [Server thread/INFO]: Villager bfj['Farmer'/20052, l='ServerLevel[world]', x=-3924.31, y=69.00, z=2915.11] died, message: 'Farmer was blown up by Creeper'
+[14:13:01] [Server thread/INFO]: nm694752[/26.47.66.184:58586] logged in with entity id 25102 at (-3914.2570898951385, 69.79673560066871, 2895.660097851994)
+[14:13:01] [Server thread/INFO]: nm694752 joined the game
+[14:13:03] [Server thread/INFO]: nm694752 lost connection: You logged in from another location
+[14:13:03] [Server thread/INFO]: nm694752 left the game
+[14:13:03] [Server thread/INFO]: nm694752[/26.47.66.184:58539] logged in with entity id 25103 at (-3914.2570898951385, 69.79673560066871, 2895.660097851994)
+[14:13:03] [Server thread/INFO]: nm694752 joined the game
+[14:13:43] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:13:43] [Server thread/INFO]: nm694752 left the game
+[14:13:50] [Server thread/INFO]: nm694752[/26.47.66.184:58845] logged in with entity id 25273 at (-3914.2570898951385, 69.79673560066871, 2895.660097851994)
+[14:13:50] [Server thread/INFO]: nm694752 joined the game
+[14:15:09] [Server thread/WARN]: skandarajeev moved wrongly!
+[14:20:34] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28105, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[14:20:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28126, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.20]
+[14:21:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4450, y=71, z=3279} fx{x=-4450, y=70, z=3280}
+[14:22:01] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28416, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.20]
+[14:22:47] [Server thread/INFO]: nm694752 has made the advancement [Best Friends Forever]
+[14:25:13] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:25:13] [Server thread/INFO]: nm694752 left the game
+[14:27:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/29806, l='ServerLevel[world]', x=-314.20, y=70.50, z=533.20]
+[14:31:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/31531, l='ServerLevel[world]', x=-314.20, y=70.51, z=533.20]
+[14:33:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/32234, l='ServerLevel[world]', x=-314.80, y=70.51, z=533.80]
+[14:33:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/32352, l='ServerLevel[world]', x=-314.80, y=70.50, z=533.80]
+[14:34:52] [Server thread/WARN]: Heroebrien moved too quickly! 3.569635518242194,-1.9215999984741217,9.42546105505653
+[14:35:16] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:35:16] [Server thread/INFO]: Heroebrien left the game
+[14:35:55] [Server thread/INFO]: Heroebrien[/26.68.130.165:55964] logged in with entity id 33093 at (-3768.0601985869857, 72.0, 3531.9312249002296)
+[14:35:55] [Server thread/INFO]: Heroebrien joined the game
+[14:37:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/34288, l='ServerLevel[world]', x=-314.80, y=70.51, z=533.80]
+[14:39:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/35454, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[14:44:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/37892, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.20]
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.3020362838547044,0.0,-10.124223677391
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.3906975582185623,0.0,-10.514150882047488
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.479361490469728,0.0,-10.90408977594052
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.568027814819743,0.0,-11.294039190146577
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.6566962920583137,0.0,-11.683998072633585
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.745366706896675,0.0,-12.073965476573449
+[14:46:16] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -2.834038865574712,0.0,-12.463940549821018
+[14:46:23] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/38541, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.20]
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! 0.06873400001450136,0.0,10.359020631958174
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! 0.03983427399953143,0.0,10.757292533878172
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! 0.00937751931087405,0.0,11.155489268718156
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.022537724329140474,0.0,11.553611915886904
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.05581514177902136,0.0,11.95166224033801
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.09036423285306228,0.0,12.349642210509955
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.12609973222424742,0.0,12.747553989152493
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.1629372786901513,0.0,13.145400375832196
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.20080094344530153,0.0,13.543183860356294
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.23961857959466215,0.0,13.940907108234114
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.2793214444282057,0.0,14.338572954283336
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.31984386039903256,0.0,14.736184389424125
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.36112671538876384,0.0,15.13374409058315
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.4031130003131693,0.0,15.531254921479558
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.4457475997523943,0.0,15.928719910221389
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.4889847147474029,0.0,16.32614131644368
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.532775513139768,0.0,16.72352209396513
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.5721872306489786,0.0,17.08116478426018
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.6076577754674872,0.0,17.403043196998624
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.6395812649584514,0.0,17.69273376078945
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.6683124047394813,0.0,17.95345526129404
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.9840525675845129,0.0,9.98707957839406
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.9879337165834841,0.0,10.022299169346297
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.991426750590108,0.0,10.05399680036362
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.9945704811125324,0.0,10.082524667523558
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.9973998385080449,0.0,10.108199747287017
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -0.9999462600962943,0.0,10.13130731846195
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0022380394652828,0.0,10.152104131968827
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0043006408427573,0.0,10.170821263629023
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0061569820331897,0.0,10.187666681677001
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0078276890603775,0.0,10.202827557518503
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0093313253451015,0.0,10.216472345414331
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0106845979653372,0.0,10.228752654195432
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0119025432913986,0.0,10.239804931805338
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0129986940555682,0.0,10.249751981391
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0139852297174912,0.0,10.258704325780855
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0148731117897114,0.0,10.26676143551822
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0156722056335639,0.0,10.274012834089717
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0163913900737498,0.0,10.280539092631443
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.017038656053046,0.0,10.286412725163245
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0176211954189966,0.0,10.291698994301896
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0181454808343915,0.0,10.296456636400762
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0186173376955594,0.0,10.300738514176373
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0190420088592873,0.0,10.304592204071923
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0194242128968654,0.0,10.30806052488606
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0197681965214542,0.0,10.311182013536381
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0200777817753988,0.0,10.313991353247275
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0203564084963546,0.0,10.316519758920094
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0206071725388028,0.0,10.318795323965332
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.02083286017114,0.0,10.320843332451659
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0210359790348775,0.0,10.32268654004065
+[14:47:18] [Server thread/WARN]: Boat (vehicle of Heroebrien) moved too quickly! -1.0212187860070117,0.0,10.324345426826767
+[14:47:24] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:47:24] [Server thread/INFO]: Heroebrien left the game
+[14:47:37] [Server thread/INFO]: Heroebrien[/26.68.130.165:55977] logged in with entity id 38993 at (-3300.6071873801197, 62.073264433605814, 3561.8226746384616)
+[14:47:37] [Server thread/INFO]: Heroebrien joined the game
+[14:51:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/41250, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.20]
+[14:52:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/41558, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[14:53:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/42599, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.20]
+[14:57:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/44589, l='ServerLevel[world]', x=-314.20, y=70.56, z=533.20]
+[14:59:14] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:59:14] [Server thread/INFO]: Heroebrien left the game
+[14:59:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/45173, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.20]
+[14:59:24] [Server thread/INFO]: Heroebrien[/26.68.130.165:55997] logged in with entity id 45184 at (-2465.5652358570496, 62.073264192006015, 2278.686497682713)
+[14:59:24] [Server thread/INFO]: Heroebrien joined the game
+[14:59:32] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:59:32] [Server thread/INFO]: Heroebrien left the game
+[14:59:43] [Server thread/INFO]: Heroebrien[/26.68.130.165:56000] logged in with entity id 45432 at (-2465.5652358570496, 62.073264192006015, 2278.686497682713)
+[14:59:43] [Server thread/INFO]: Heroebrien joined the game
+[15:01:04] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:01:04] [Server thread/INFO]: skandarajeev left the game
+[15:09:27] [Server thread/INFO]: skandarajeev[/127.0.0.1:54451] logged in with entity id 48840 at (-314.2852660754364, 70.0, 522.2955772474496)
+[15:09:27] [Server thread/INFO]: skandarajeev joined the game
+[15:09:29] [Server thread/INFO]: skandarajeev lost connection: You logged in from another location
+[15:09:29] [Server thread/INFO]: skandarajeev left the game
+[15:09:29] [Server thread/WARN]: handleDisconnection() called twice
+[15:09:29] [Server thread/INFO]: skandarajeev[/26.45.108.84:54452] logged in with entity id 49390 at (-314.2676608003926, 70.0, 522.3919812387661)
+[15:09:29] [Server thread/INFO]: skandarajeev joined the game
+[15:10:22] [Server thread/INFO]: Heroebrien fell from a high place
+[15:10:52] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[15:10:52] [Server thread/INFO]: Heroebrien left the game
+[15:19:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51073, l='ServerLevel[world]', x=-314.20, y=70.56, z=533.20]
+[15:20:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51264, l='ServerLevel[world]', x=-314.80, y=70.51, z=533.80]
+[15:23:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51588, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.20]
+[15:25:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/51917, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[16:02:00] [Server thread/INFO]: skandarajeev has made the advancement [Who is Cutting Onions?]
+[16:18:59] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:18:59] [Server thread/INFO]: skandarajeev left the game
+[16:20:00] [Server thread/INFO]: skandarajeev[/26.45.108.84:55306] logged in with entity id 62124 at (-4534.800205965093, 70.0, 2356.658391025899)
+[16:20:00] [Server thread/INFO]: skandarajeev joined the game
+[16:23:59] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:23:59] [Server thread/INFO]: skandarajeev left the game
+[20:10:32] [Server thread/INFO]: Stopping the server
+[20:10:32] [Server thread/INFO]: Stopping server
+[20:10:32] [Server thread/INFO]: Saving players
+[20:10:32] [Server thread/INFO]: Saving worlds
+[20:10:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:10:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
