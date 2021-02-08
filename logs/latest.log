@@ -1,46 +1,149 @@
-[18:50:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:50:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:50:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:50:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:50:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:50:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:50:26] [main/INFO]: Reloading ResourceManager: Default
-[18:50:27] [Worker-Main-9/INFO]: Loaded 7 recipes
-[18:50:27] [Worker-Main-9/INFO]: Loaded 927 advancements
-[18:50:28] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:50:28] [Server thread/INFO]: Loading properties
-[18:50:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:50:28] [Server thread/INFO]: Generating keypair
-[18:50:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:50:29] [Server thread/INFO]: Using default channel type
-[18:50:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:50:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:50:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:50:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:50:30] [Server thread/INFO]: Preparing level "world"
-[18:50:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:50:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:50:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:50:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:50:31] [Server thread/INFO]: Preparing spawn area: 0%
-[18:50:33] [Server thread/INFO]: Preparing spawn area: 83%
-[18:50:33] [Server thread/INFO]: Preparing spawn area: 83%
-[18:50:35] [Server thread/INFO]: Time elapsed: 4733 ms
-[18:50:35] [Server thread/INFO]: Done (4.877s)! For help, type "help"
-[18:50:51] [Server thread/INFO]: skandarajeev[/127.0.0.1:51708] logged in with entity id 116 at (-4793.351850614674, 70.0, 2575.47030150157)
-[18:50:51] [Server thread/INFO]: skandarajeev joined the game
-[19:09:34] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[19:09:34] [Server thread/INFO]: skandarajeev left the game
-[19:09:41] [Server thread/INFO]: Stopping the server
-[19:09:41] [Server thread/INFO]: Stopping server
-[19:09:41] [Server thread/INFO]: Saving players
-[19:09:41] [Server thread/INFO]: Saving worlds
-[19:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:09:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:09:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:00:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:00:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:00:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:00:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:00:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:00:03] [main/INFO]: Reloading ResourceManager: Default
+[13:00:03] [Worker-Main-6/INFO]: Loaded 7 recipes
+[13:00:04] [Worker-Main-6/INFO]: Loaded 927 advancements
+[13:00:05] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:00:05] [Server thread/INFO]: Loading properties
+[13:00:05] [Server thread/INFO]: Default game type: SURVIVAL
+[13:00:05] [Server thread/INFO]: Generating keypair
+[13:00:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:00:05] [Server thread/INFO]: Using default channel type
+[13:00:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:00:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:00:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:00:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:00:08] [Server thread/INFO]: Preparing level "world"
+[13:00:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:00:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:10] [Server thread/INFO]: Preparing spawn area: 0%
+[13:00:10] [Server thread/INFO]: Time elapsed: 2476 ms
+[13:00:10] [Server thread/INFO]: Done (2.672s)! For help, type "help"
+[13:02:16] [Server thread/INFO]: skandarajeev[/127.0.0.1:60559] logged in with entity id 115 at (-268.30000001192093, 215.0, 525.6999999880791)
+[13:02:16] [Server thread/INFO]: skandarajeev joined the game
+[13:13:10] [Server thread/INFO]: nm694752[/26.47.66.184:63511] logged in with entity id 2255 at (-4459.85385695816, 70.8500000178814, 3273.354489507933)
+[13:13:10] [Server thread/INFO]: nm694752 joined the game
+[13:16:12] [Server thread/INFO]: Heroebrien[/26.68.130.165:59116] logged in with entity id 3380 at (-4420.5, 68.0, 3294.5)
+[13:16:12] [Server thread/INFO]: Heroebrien joined the game
+[13:16:58] [Server thread/INFO]: <Heroebrien> i cant hear
+[13:17:35] [Server thread/INFO]: <Heroebrien> i cant hear
+[13:17:38] [Server thread/INFO]: <nm694752> bebbe lets make bebe
+[13:17:48] [Server thread/INFO]: <Heroebrien> follow me litthlee chield
+[13:20:38] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[13:20:38] [Server thread/INFO]: skandarajeev left the game
+[13:21:03] [Server thread/INFO]: skandarajeev[/127.0.0.1:53815] logged in with entity id 4921 at (-277.32276752909104, 71.0, 559.2781828982746)
+[13:21:03] [Server thread/INFO]: skandarajeev joined the game
+[13:22:12] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[13:22:12] [Server thread/INFO]: skandarajeev left the game
+[13:22:15] [Server thread/INFO]: skandarajeev[/127.0.0.1:53902] logged in with entity id 6288 at (-275.4315381258769, 72.0, 523.2223449937001)
+[13:22:15] [Server thread/INFO]: skandarajeev joined the game
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -4.118208100435368,-2.0,-9.169719810521656
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -4.294976124320783,-2.0,-9.550238464516042
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -4.471745596152687,-2.0,-9.930760200704754
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -4.777341492371306,-1.4760138019854523,-10.58859932193127
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -4.949078206022023,-1.0496094491132837,-10.958287298587493
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.110451454178474,-0.7169227021398541,-11.305666424455922
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.262582563540491,-0.47424234562335243,-11.63315051661857
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.406471533287913,-0.31800412818407153,-11.94289221721101
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.5430101627162,-0.24478494273034812,-12.236811252545067
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.672993758457778,-0.251297237147341,-12.516619634594917
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.79713157499009,-0.3343836463225074,-12.783844135683466
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -5.9160561254730055,-0.49101183674275717,-13.039846331407261
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.028725277700687,-0.7182695552454135,-13.286501371351733
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.130483811599333,-1.0133598738386311,-13.525933408912806
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.214150527859601,-1.3735966228267529,-13.757635246344307
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.272241959534767,-1.7964000047838624,-13.974636765333344
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.306126752275304,-2.0,-14.175863278893303
+[13:22:26] [Server thread/WARN]: Horse (vehicle of nm694752) moved too quickly! -6.147802038829468,-2.0,-14.405359483172106
+[13:23:08] [Server thread/INFO]: <Heroebrien> make us admin
+[13:23:09] [Server thread/INFO]: <nm694752> make us op so we tp
+[13:23:23] [Server thread/INFO]: <nm694752> pls
+[13:24:51] [Server thread/INFO]: <nm694752> make us op we tp
+[13:24:53] [Server thread/INFO]: <nm694752> make us op we tp
+[13:24:54] [Server thread/INFO]: <nm694752> make us op we tp
+[13:24:56] [Server thread/INFO]: <nm694752> make us op we tp
+[13:24:57] [Server thread/INFO]: <nm694752> make us op we tp
+[13:24:59] [Server thread/INFO]: <nm694752> make us op we tp
+[13:25:02] [Server thread/INFO]: <Heroebrien> make us op or we pp
+[13:25:17] [Server thread/INFO]: <nm694752> -4.8k 2.5k
+[13:26:39] [Server thread/INFO]: <Heroebrien> -5050, 550
+[13:26:42] [Server thread/WARN]: Boat (vehicle of nm694752) moved wrongly! 0.40050716722998914
+[13:26:42] [Server thread/WARN]: Boat (vehicle of nm694752) moved wrongly! 0.6134361050553707
+[13:27:47] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[13:27:47] [Server thread/INFO]: Heroebrien left the game
+[13:28:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:59177] logged in with entity id 9498 at (-4792.319004045937, 71.0, 2436.466689629245)
+[13:28:21] [Server thread/INFO]: Heroebrien joined the game
+[13:28:56] [Server thread/INFO]: Heroebrien fell from a high place
+[13:39:16] [Server thread/INFO]: nm694752 fell from a high place
+[13:45:07] [Server thread/INFO]: nm694752 was blown up by Creeper
+[13:45:36] [Server thread/INFO]: <Heroebrien> slept
+[13:45:38] [Server thread/INFO]: <Heroebrien> pp
+[13:45:40] [Server thread/INFO]: <Heroebrien> bebe
+[13:45:46] [Server thread/INFO]: <Heroebrien> guess what time it is
+[13:45:51] [Server thread/INFO]: <nm694752> time to stop
+[13:45:52] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[13:45:52] [Server thread/INFO]: skandarajeev left the game
+[13:45:53] [Server thread/INFO]: skandarajeev[/127.0.0.1:57643] logged in with entity id 19117 at (-2055.2966744613755, 69.0, 3072.300000011921)
+[13:45:53] [Server thread/INFO]: skandarajeev joined the game
+[13:45:59] [Server thread/INFO]: <Heroebrien> time to make bebe
+[13:46:06] [Server thread/INFO]: <Heroebrien> ahh its day
+[13:46:08] [Server thread/INFO]: <Heroebrien> skem
+[13:46:47] [Server thread/INFO]: <Heroebrien> -3260, 1842
+[13:49:57] [Server thread/INFO]: nm694752 fell from a high place
+[14:00:07] [Server thread/INFO]: <Heroebrien> -3234, 1896
+[14:00:53] [Server thread/WARN]: nm694752 moved too quickly! -2.6640010244000223,-3.0146178540372404,-9.332305264041679
+[14:02:03] [Server thread/WARN]: Heroebrien moved too quickly! -9.545428500491653,-3.0,-2.147657862821916
+[14:02:48] [Server thread/INFO]: Heroebrien has made the advancement [Into Fire]
+[14:03:25] [Server thread/INFO]: <Heroebrien> skem
+[14:03:38] [Server thread/INFO]: <Heroebrien> my materials missing skem
+[14:03:52] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
+[14:03:52] [Server thread/INFO]: nm694752 lost connection: Kicked by an operator
+[14:03:52] [Server thread/INFO]: nm694752 left the game
+[14:03:59] [Server thread/INFO]: <Heroebrien> \kill naman
+[14:04:03] [Server thread/INFO]: nm694752[/26.47.66.184:60368] logged in with entity id 28364 at (-4726.862180382277, 68.0, 2532.4427700727256)
+[14:04:03] [Server thread/INFO]: nm694752 joined the game
+[14:04:14] [Server thread/INFO]: <Heroebrien> \kill naman
+[14:17:27] [Server thread/INFO]: nm694752 was slain by Zombie
+[14:19:13] [Server thread/WARN]: nm694752 moved too quickly! -8.976470111192612,-4.167796646633249,2.598105694399692
+[14:21:20] [Server thread/INFO]: nm694752 was slain by Spider
+[14:29:58] [Server thread/INFO]: <nm694752> -4962 92 2364
+[14:30:56] [Server thread/INFO]: <nm694752> -4962 92 2364
+[14:32:21] [Server thread/WARN]: nm694752 moved too quickly! -8.878199048007446,1.0,4.546380064536152
+[14:34:24] [Server thread/INFO]: <nm694752> ttt
+[14:36:48] [Server thread/INFO]: <Heroebrien> bebe come
+[14:36:49] [Server thread/INFO]: <Heroebrien> bed
+[14:37:06] [Server thread/INFO]: nm694752 fell from a high place
+[14:37:21] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:37:21] [Server thread/INFO]: nm694752 left the game
+[14:52:24] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:52:24] [Server thread/INFO]: Heroebrien left the game
+[14:52:30] [Server thread/INFO]: Heroebrien[/26.68.130.165:59569] logged in with entity id 47300 at (-304.0772952213498, 70.0, 511.08530308090855)
+[14:52:30] [Server thread/INFO]: Heroebrien joined the game
+[14:54:44] [Server thread/INFO]: <Heroebrien> sleep
+[15:00:56] [Server thread/INFO]: Villager bfj['Villager'/46220, l='ServerLevel[world]', x=-222.30, y=63.00, z=514.70] died, message: 'Villager was slain by Zombie'
+[15:04:29] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:04:29] [Server thread/INFO]: skandarajeev left the game
+[15:04:43] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[15:04:43] [Server thread/INFO]: Heroebrien left the game
+[15:05:36] [Server thread/INFO]: skandarajeev[/127.0.0.1:50435] logged in with entity id 48942 at (-349.86756324210035, 70.0, 512.0111247130922)
+[15:05:36] [Server thread/INFO]: skandarajeev joined the game
+[15:14:44] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:14:44] [Server thread/INFO]: skandarajeev left the game
+[15:14:57] [Server thread/INFO]: Stopping the server
+[15:14:57] [Server thread/INFO]: Stopping server
+[15:14:57] [Server thread/INFO]: Saving players
+[15:14:57] [Server thread/INFO]: Saving worlds
+[15:14:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:14:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:14:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:14:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
