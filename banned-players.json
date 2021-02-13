@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "4a34fff2-9410-46c0-9e4d-4c98e80b4196",
+    "name": "Skand",
+    "created": "2021-02-13 13:26:46 +0530",
+    "source": "skandarajeev",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "b9e17631-824c-3c9e-a28d-09cdf993d815",
     "name": "nm694752m",
     "created": "2021-01-18 14:57:49 +0530",
