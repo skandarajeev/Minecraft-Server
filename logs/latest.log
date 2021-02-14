@@ -1,317 +1,66 @@
-[13:16:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:16:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:16:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:16:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:16:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:16:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:16:16] [main/INFO]: Reloading ResourceManager: Default
-[13:16:16] [Worker-Main-10/INFO]: Loaded 7 recipes
-[13:16:17] [Worker-Main-10/INFO]: Loaded 927 advancements
-[13:16:18] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:16:18] [Server thread/INFO]: Loading properties
-[13:16:18] [Server thread/INFO]: Default game type: SURVIVAL
-[13:16:18] [Server thread/INFO]: Generating keypair
-[13:16:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:16:18] [Server thread/INFO]: Using default channel type
-[13:16:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:16:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:16:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:16:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:16:18] [Server thread/INFO]: Preparing level "world"
-[13:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:16:19] [Server thread/INFO]: Preparing spawn area: 0%
-[13:16:19] [Server thread/INFO]: Preparing spawn area: 0%
-[13:16:19] [Server thread/INFO]: Preparing spawn area: 0%
-[13:16:20] [Server thread/INFO]: Preparing spawn area: 0%
-[13:16:20] [Server thread/INFO]: Time elapsed: 2069 ms
-[13:16:20] [Server thread/INFO]: Done (2.173s)! For help, type "help"
-[13:16:24] [Server thread/INFO]: skandarajeev[/127.0.0.1:57313] logged in with entity id 118 at (-376.3926978170237, 68.0, 499.1346630343945)
-[13:16:24] [Server thread/INFO]: skandarajeev joined the game
-[13:20:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1166, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.80]
-[13:21:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1225, l='ServerLevel[world]', x=-314.80, y=70.51, z=533.20]
-[13:24:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1610, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.20]
-[13:30:04] [Server thread/INFO]: Heroebrien[/26.68.130.165:64243] logged in with entity id 2226 at (-309.05514713559893, 70.0, 550.5415085252325)
-[13:30:04] [Server thread/INFO]: Heroebrien joined the game
-[13:30:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2304, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
-[13:30:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2304, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
-[13:31:05] [Server thread/WARN]: Heroebrien moved too quickly! 9.956511960497778,-2.15233518685055,1.1387694852343202
-[13:31:13] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[13:31:13] [Server thread/INFO]: Heroebrien left the game
-[13:31:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:64258] logged in with entity id 2442 at (-325.3195119107271, 63.0, 520.8288023077863)
-[13:31:21] [Server thread/INFO]: Heroebrien joined the game
-[13:32:33] [Server thread/INFO]: nm694752[/26.47.66.184:55306] logged in with entity id 2732 at (-340.83534454250116, 66.0, 524.9779620106498)
-[13:32:33] [Server thread/INFO]: nm694752 joined the game
-[13:35:03] [Server thread/WARN]: nm694752 moved too quickly! -10.076807763732063,0.6260959635332739,-0.2965232072328945
-[13:36:01] [Server thread/INFO]: nm694752 was slain by Iron Golem
-[13:37:07] [Server thread/WARN]: nm694752 moved too quickly! -0.1579151981541571,-7.304316827457541,7.057350690678959
-[13:38:12] [Server thread/INFO]: Heroebrien was slain by Iron Golem
-[13:38:18] [Server thread/WARN]: Heroebrien moved too quickly! 1.025066717918719,1.4199999868869781,9.892027264057788
-[13:42:36] [Server thread/INFO]: <Heroebrien> bebe today what day
-[13:42:39] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[13:42:39] [Server thread/INFO]: skandarajeev left the game
-[13:42:45] [Server thread/INFO]: <Heroebrien> :(
-[13:42:46] [Server thread/INFO]: skandarajeev[/127.0.0.1:49576] logged in with entity id 5201 at (-346.9800958391614, 76.0, 510.79868759933925)
-[13:42:46] [Server thread/INFO]: skandarajeev joined the game
-[13:42:58] [Server thread/INFO]: <Heroebrien> valentooon day
-[13:43:03] [Server thread/INFO]: <Heroebrien> give bebe :gun:
-[13:43:15] [Server thread/WARN]: Heroebrien moved too quickly! 3.3270083705560296,1.0800000131130219,9.451803365952287
-[13:43:35] [Server thread/INFO]: <Heroebrien> give bebbe
-[13:43:49] [Server thread/INFO]: <Heroebrien> male bebbe
-[13:44:01] [Server thread/INFO]: <Heroebrien> racism
-[13:44:04] [Server thread/INFO]: <Heroebrien> sexism
-[13:44:40] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[13:44:40] [Server thread/INFO]: skandarajeev left the game
-[13:45:32] [Server thread/INFO]: <Heroebrien> i can spank bebbe with stick
-[13:46:14] [Server thread/INFO]: skandarajeev[/127.0.0.1:60452] logged in with entity id 5683 at (-345.3095377860228, 64.0, 523.2683279848134)
-[13:46:14] [Server thread/INFO]: skandarajeev joined the game
-[13:46:14] [Server thread/INFO]: <Heroebrien> he chatting with bebe
-[13:47:40] [Server thread/INFO]: nm694752 was slain by Iron Golem
-[13:50:19] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[13:50:19] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[13:50:19] [Server thread/INFO]: Heroebrien left the game
-[13:50:27] [Server thread/INFO]: Heroebrien[/26.68.130.165:64295] logged in with entity id 6310 at (-339.52972594839844, 83.7531999805212, 509.55347195623733)
-[13:50:27] [Server thread/INFO]: Heroebrien joined the game
-[13:53:16] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[13:53:16] [Server thread/INFO]: nm694752 left the game
-[13:53:18] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[13:53:18] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[13:53:18] [Server thread/INFO]: Heroebrien left the game
-[13:53:31] [Server thread/INFO]: nm694752[/26.47.66.184:60764] logged in with entity id 6743 at (-345.9929809761268, 81.0, 507.28079350909496)
-[13:53:31] [Server thread/INFO]: nm694752 joined the game
-[13:53:42] [Server thread/INFO]: Heroebrien[/26.68.130.165:55161] logged in with entity id 6771 at (-328.2904166398551, 63.0, 502.0451829807462)
-[13:53:42] [Server thread/INFO]: Heroebrien joined the game
-[13:57:31] [Server thread/WARN]: nm694752 moved wrongly!
-[14:03:56] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:03:56] [Server thread/INFO]: nm694752 left the game
-[14:03:59] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[14:03:59] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[14:03:59] [Server thread/INFO]: Heroebrien left the game
-[14:04:12] [Server thread/INFO]: nm694752[/26.47.66.184:63699] logged in with entity id 8738 at (-314.64921991429287, 64.0, 515.6456544360872)
-[14:04:12] [Server thread/INFO]: nm694752 joined the game
-[14:04:29] [Server thread/INFO]: Heroebrien[/26.68.130.165:55229] logged in with entity id 8783 at (-303.8509258721901, 70.0, 503.43150931846094)
-[14:04:29] [Server thread/INFO]: Heroebrien joined the game
-[14:05:48] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:05:48] [Server thread/INFO]: skandarajeev left the game
-[14:06:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-375, y=61, z=401} fx{x=-375, y=60, z=401}
-[14:06:55] [Server thread/INFO]: skandarajeev[/127.0.0.1:56867] logged in with entity id 9135 at (-361.6702959056968, 67.63937148358777, 505.47248370160526)
-[14:06:55] [Server thread/INFO]: skandarajeev joined the game
-[14:13:54] [Server thread/WARN]: Heroebrien moved too quickly! -5.942964657252503,-0.2468000194787976,8.099001604972045
-[14:14:46] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
-[14:14:46] [Server thread/INFO]: nm694752 lost connection: Kicked by an operator
-[14:14:46] [Server thread/INFO]: nm694752 left the game
-[14:14:50] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[14:14:50] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[14:14:50] [Server thread/INFO]: Heroebrien left the game
-[14:14:52] [Server thread/INFO]: nm694752[/26.47.66.184:50384] logged in with entity id 11043 at (-311.746330794421, 64.0, 514.8755921189157)
-[14:14:52] [Server thread/INFO]: nm694752 joined the game
-[14:15:04] [Server thread/INFO]: Heroebrien[/26.68.130.165:55246] logged in with entity id 11061 at (-338.6716304835494, 66.76636799395752, 502.69999998807907)
-[14:15:04] [Server thread/INFO]: Heroebrien joined the game
-[14:21:28] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:21:28] [Server thread/INFO]: skandarajeev left the game
-[14:23:06] [Server thread/INFO]: skandarajeev[/127.0.0.1:52192] logged in with entity id 12090 at (-344.66455205805505, 82.0, 506.52649022821555)
-[14:23:06] [Server thread/INFO]: skandarajeev joined the game
-[14:26:22] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:26:22] [Server thread/INFO]: nm694752 left the game
-[14:26:40] [Server thread/INFO]: nm694752[/26.47.66.184:53748] logged in with entity id 12571 at (-349.089684009324, 59.0, 535.5489048307508)
-[14:26:40] [Server thread/INFO]: nm694752 joined the game
-[14:26:47] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:26:47] [Server thread/INFO]: Heroebrien left the game
-[14:26:49] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:26:49] [Server thread/INFO]: nm694752 left the game
-[14:26:56] [Server thread/INFO]: nm694752[/26.47.66.184:53821] logged in with entity id 12618 at (-343.99910699982604, 64.02442408821369, 540.0285889189436)
-[14:26:56] [Server thread/INFO]: nm694752 joined the game
-[14:27:02] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:27:02] [Server thread/INFO]: nm694752 left the game
-[14:27:15] [Server thread/INFO]: nm694752[/26.47.66.184:53927] logged in with entity id 12653 at (-343.99910699982604, 64.0, 540.0285889189436)
-[14:27:15] [Server thread/INFO]: nm694752 joined the game
-[14:27:19] [Server thread/INFO]: Heroebrien[/26.68.130.165:55269] logged in with entity id 12672 at (-322.51317769193724, 64.0, 522.3293831059829)
-[14:27:19] [Server thread/INFO]: Heroebrien joined the game
-[14:28:47] [Server thread/WARN]: nm694752 moved too quickly! 3.6693649151428076,2.0,9.562396071868193
-[14:30:53] [Server thread/WARN]: nm694752 moved too quickly! 8.59640750116472,5.15233518685055,-0.7855560591915491
-[14:31:54] [Server thread/INFO]: Heroebrien fell from a high place
-[14:32:36] [Server thread/WARN]: nm694752 moved too quickly! 0.43227233846982926,0.0,10.11009194941255
-[14:35:44] [Server thread/WARN]: nm694752 moved too quickly! 2.3474521285984906,9.107200120687779,3.702367172112531
-[14:35:46] [Server thread/INFO]: nm694752 lost connection: Timed out
-[14:35:46] [Server thread/INFO]: nm694752 left the game
-[14:36:20] [Server thread/INFO]: nm694752[/26.47.66.184:56566] logged in with entity id 14385 at (-351.5705229663033, 73.40960010528593, 548.4875000119209)
-[14:36:20] [Server thread/INFO]: nm694752 joined the game
-[14:38:13] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:38:13] [Server thread/INFO]: nm694752 left the game
-[14:38:20] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[14:38:20] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[14:38:20] [Server thread/INFO]: Heroebrien left the game
-[14:38:31] [Server thread/INFO]: Heroebrien[/26.68.130.165:55283] logged in with entity id 15915 at (-4536.552966044184, 77.23271549767924, 2389.090393574264)
-[14:38:31] [Server thread/INFO]: Heroebrien joined the game
-[14:38:31] [Server thread/INFO]: nm694752[/26.47.66.184:57163] logged in with entity id 15938 at (-354.265479877215, 61.60015017645435, 532.7258250415107)
-[14:38:31] [Server thread/INFO]: nm694752 joined the game
-[14:42:12] [Server thread/WARN]: nm694752 moved too quickly! 4.460875427897577,-1.9755759117863079,-8.77522355702115
-[14:50:11] [Server thread/WARN]: nm694752 moved too quickly! -10.056758075770801,-1.2247629905309907,1.2613971096708383
-[14:51:13] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:51:13] [Server thread/INFO]: skandarajeev left the game
-[14:51:16] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:51:16] [Server thread/INFO]: Heroebrien left the game
-[14:51:52] [Server thread/INFO]: Heroebrien[/26.68.130.165:55314] logged in with entity id 20702 at (-4614.823394505261, 26.0, 2300.179204638783)
-[14:51:52] [Server thread/INFO]: Heroebrien joined the game
-[14:52:54] [Server thread/INFO]: skandarajeev[/127.0.0.1:62339] logged in with entity id 21309 at (-4615.521976236003, 24.0, 2301.877716825083)
-[14:52:54] [Server thread/INFO]: skandarajeev joined the game
-[14:53:56] [Server thread/WARN]: nm694752 moved too quickly! -10.000391494044322,-0.243240711822736,2.0394670096650316
-[14:58:52] [Server thread/WARN]: nm694752 moved too quickly! -4.216371785048125,-1.0013359791121417,9.294678935455465
-[14:59:31] [Server thread/WARN]: nm694752 moved too quickly! 9.337479502445774,-0.9564643798524912,-3.5774655850624413
-[15:02:46] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:02:46] [Server thread/INFO]: Heroebrien left the game
-[15:03:22] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[15:03:22] [Server thread/INFO]: skandarajeev left the game
-[15:03:24] [Server thread/INFO]: skandarajeev[/127.0.0.1:62412] logged in with entity id 24703 at (-4622.23018910727, 73.0, 2290.998239510477)
-[15:03:24] [Server thread/INFO]: skandarajeev joined the game
-[15:03:30] [Server thread/INFO]: Heroebrien[/26.68.130.165:55334] logged in with entity id 24920 at (-4622.699549037521, 43.0, 2292.65121055879)
-[15:03:30] [Server thread/INFO]: Heroebrien joined the game
-[15:04:00] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:04:00] [Server thread/INFO]: Heroebrien left the game
-[15:04:10] [Server thread/INFO]: Heroebrien[/26.68.130.165:55335] logged in with entity id 25054 at (-4622.699549037521, 43.0, 2292.65121055879)
-[15:04:10] [Server thread/INFO]: Heroebrien joined the game
-[15:04:34] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[15:04:34] [Server thread/INFO]: nm694752 left the game
-[15:08:17] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:08:17] [Server thread/INFO]: Heroebrien left the game
-[15:08:19] [Server thread/INFO]: nm694752[/26.47.66.184:49657] logged in with entity id 26256 at (-311.6208675224779, 64.875, 516.0066779580525)
-[15:08:19] [Server thread/INFO]: nm694752 joined the game
-[15:08:38] [Server thread/INFO]: Heroebrien[/26.68.130.165:55344] logged in with entity id 26922 at (-538.0709508350416, 74.0, 288.12329202449956)
-[15:08:38] [Server thread/INFO]: Heroebrien joined the game
-[15:12:51] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:12:51] [Server thread/INFO]: Heroebrien left the game
-[15:12:58] [Server thread/INFO]: Heroebrien[/26.68.130.165:55351] logged in with entity id 28698 at (-307.92500001192093, 70.0, 514.0037701167158)
-[15:12:58] [Server thread/INFO]: Heroebrien joined the game
-[15:15:40] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[15:15:40] [Server thread/INFO]: nm694752 left the game
-[15:15:42] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[15:15:42] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[15:15:42] [Server thread/INFO]: Heroebrien left the game
-[15:15:55] [Server thread/INFO]: Heroebrien[/26.68.130.165:55358] logged in with entity id 29229 at (-303.725419977843, 64.0, 516.0058175181343)
-[15:15:55] [Server thread/INFO]: Heroebrien joined the game
-[15:15:59] [Server thread/INFO]: nm694752[/26.47.66.184:51950] logged in with entity id 29242 at (-353.6965977735303, 66.0, 539.8184289358245)
-[15:15:59] [Server thread/INFO]: nm694752 joined the game
-[15:17:45] [Server thread/INFO]: <Heroebrien> my layout name is lake v garden. you know what lake means umm...'
-[15:24:21] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[15:24:21] [Server thread/INFO]: nm694752 left the game
-[15:25:21] [Server thread/INFO]: nm694752[/26.47.66.184:50163] logged in with entity id 30725 at (-303.18142565716875, 63.18600004762388, 513.2375000119212)
-[15:25:21] [Server thread/INFO]: nm694752 joined the game
-[15:27:21] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:27:21] [Server thread/INFO]: Heroebrien left the game
-[15:27:43] [Server thread/INFO]: <nm694752> budget ramesh be like panikk
-[15:27:44] [Server thread/INFO]: Heroebrien[/26.68.130.165:55394] logged in with entity id 31128 at (-316.30000001192093, 70.0, 494.0749999880791)
-[15:27:44] [Server thread/INFO]: Heroebrien joined the game
-[15:27:48] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
-[15:27:48] [Server thread/INFO]: nm694752 lost connection: Kicked by an operator
-[15:27:48] [Server thread/INFO]: nm694752 left the game
-[15:27:52] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:27:52] [Server thread/INFO]: Heroebrien left the game
-[15:27:56] [Server thread/INFO]: nm694752[/26.47.66.184:50921] logged in with entity id 31165 at (-354.5, 66.0, 543.5)
-[15:27:56] [Server thread/INFO]: nm694752 joined the game
-[15:28:10] [Server thread/INFO]: Heroebrien[/26.68.130.165:55399] logged in with entity id 31220 at (-316.29854567038905, 70.0, 490.64502929289586)
-[15:28:10] [Server thread/INFO]: Heroebrien joined the game
-[15:29:45] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[15:29:45] [Server thread/INFO]: nm694752 left the game
-[15:33:15] [Server thread/INFO]: nm694752[/26.47.66.184:51055] logged in with entity id 31965 at (-360.2283985543341, 64.0, 534.0330834148144)
-[15:33:15] [Server thread/INFO]: nm694752 joined the game
-[15:33:48] [Server thread/INFO]: <nm694752> GIVE BED
-[15:33:54] [Server thread/INFO]: <nm694752> skem
-[15:34:13] [Server thread/INFO]: <nm694752> aryan bonded labourer
-[15:34:23] [Server thread/WARN]: nm694752 moved too quickly! -5.151460272295878,-5.910888478168488,-6.559875379703499
-[15:34:40] [Server thread/INFO]: <nm694752> shit i had to whiseper to skanda
-[15:34:45] [Server thread/WARN]: nm694752 moved too quickly! -9.539310369281282,-1.7531999805212024,3.030112482963432
-[15:35:31] [Server thread/INFO]: nm694752 lost connection: Timed out
-[15:35:31] [Server thread/INFO]: nm694752 left the game
-[15:35:39] [Server thread/INFO]: nm694752[/26.47.66.184:51497] logged in with entity id 32310 at (-331.3038931944525, 63.1212968405392, 526.1546396857085)
-[15:35:39] [Server thread/INFO]: nm694752 joined the game
-[15:36:07] [Server thread/INFO]: <nm694752> can i throw aryan in smart dustbin
-[15:36:20] [Server thread/INFO]: <nm694752> internet skem
-[15:36:21] [Server thread/INFO]: <nm694752> chat
-[15:36:27] [Server thread/INFO]: <Heroebrien> i threrw 3 bed
-[15:36:34] [Server thread/INFO]: <nm694752> i got 2
-[15:36:41] [Server thread/INFO]: <nm694752> skem
-[15:36:45] [Server thread/INFO]: <Heroebrien> skanda skem
-[15:37:39] [Server thread/INFO]: <nm694752> what if i go near iron generato with tnt
-[15:38:32] [Server thread/INFO]: <nm694752> there is a bat near bedroom
-[15:38:33] [Server thread/INFO]: <nm694752> panik
-[15:41:39] [Server thread/INFO]: <Heroebrien> sleep
-[15:41:52] [Server thread/INFO]: <Heroebrien> wel make germany flag bed
-[15:42:01] [Server thread/INFO]: <Heroebrien> nazi theme intensify
-[15:42:01] [Server thread/INFO]: <nm694752> ok
-[15:42:02] [Server thread/INFO]: <nm694752> and then make bebes
-[15:42:05] [Server thread/INFO]: <Heroebrien> ok
-[15:42:20] [Server thread/INFO]: <Heroebrien> beb
-[15:42:31] [Server thread/INFO]: <Heroebrien> :}
-[15:43:22] [Server thread/INFO]: <nm694752> umm i want bebe so made new home new weather new lusty fragrance
-[15:43:50] [Server thread/INFO]: nm694752 lost connection: Timed out
-[15:43:50] [Server thread/INFO]: nm694752 left the game
-[15:43:58] [Server thread/INFO]: nm694752[/26.47.66.184:53382] logged in with entity id 33390 at (-354.5, 66.5625, 543.5)
-[15:43:58] [Server thread/INFO]: nm694752 joined the game
-[15:45:02] [Server thread/INFO]: <nm694752> i is fish
-[15:45:07] [Server thread/INFO]: nm694752 drowned
-[15:45:16] [Server thread/INFO]: <nm694752> skem
-[15:45:39] [Server thread/INFO]: <nm694752> skem i thought i is fish
-[15:46:00] [Server thread/INFO]: nm694752 was slain by Iron Golem
-[15:46:05] [Server thread/INFO]: <nm694752> skem
-[15:46:13] [Server thread/INFO]: <nm694752> umm
-[15:46:25] [Server thread/INFO]: <nm694752> ummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-[15:46:37] [Server thread/INFO]: nm694752 fell from a high place
-[15:46:39] [Server thread/INFO]: <Heroebrien> al skem
-[15:47:10] [Server thread/INFO]: <nm694752> yay victory royale
-[15:47:23] [Server thread/INFO]: <nm694752> umm
-[15:47:50] [Server thread/INFO]: Villager bfj['Villager'/26364, l='ServerLevel[world]', x=-351.01, y=77.56, z=508.46] died, message: 'Villager went up in flames'
-[15:47:51] [Server thread/INFO]: <nm694752> wait give me block
-[15:47:58] [Server thread/INFO]: <nm694752> give block aren
-[15:48:14] [Server thread/INFO]: <nm694752> tower to see iron golem burning
-[15:48:32] [Server thread/INFO]: <nm694752> yay he had a flowe :(
-[15:48:42] [Server thread/INFO]: <nm694752> give block
-[15:48:44] [Server thread/INFO]: <nm694752> pwweaae
-[15:49:59] [Server thread/INFO]: <nm694752> so it wont work now :(
-[15:50:39] [Server thread/INFO]: <nm694752> k bui
-[15:50:50] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[15:50:50] [Server thread/INFO]: nm694752 left the game
-[15:51:10] [Server thread/INFO]: [skandarajeev: Gave 1 [Villager Spawn Egg] to skandarajeev]
-[15:52:10] [Server thread/INFO]: Villager bfj['Villager'/34567, l='ServerLevel[world]', x=-347.54, y=70.00, z=517.62] died, message: 'Villager was slain by skandarajeev'
-[15:52:20] [Server thread/INFO]: [skandarajeev: Gave 1 [Villager Spawn Egg] to skandarajeev]
-[15:52:31] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[15:52:31] [Server thread/INFO]: skandarajeev left the game
-[15:52:32] [Server thread/INFO]: skandarajeev[/127.0.0.1:53268] logged in with entity id 34622 at (-361.1399826281131, 66.0, 511.19467840903053)
-[15:52:32] [Server thread/INFO]: skandarajeev joined the game
-[15:55:24] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[15:55:24] [Server thread/INFO]: Heroebrien left the game
-[15:55:31] [Server thread/INFO]: Heroebrien[/26.68.130.165:55469] logged in with entity id 35107 at (-356.5200737199967, 66.0, 535.4430492675917)
-[15:55:31] [Server thread/INFO]: Heroebrien joined the game
-[15:58:27] [Server thread/WARN]: Heroebrien moved too quickly! -5.843497428339106,-2.0,-7.93067632853581
-[15:59:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/35599, l='ServerLevel[world]', x=-314.20, y=70.51, z=533.80]
-[15:59:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/35599, l='ServerLevel[world]', x=-314.20, y=70.51, z=533.80]
-[16:03:29] [Server thread/WARN]: Heroebrien moved too quickly! 9.002257019169633,2.1661092609382138,-4.114306120557899
-[16:04:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Iron Door'/36419, l='ServerLevel[world]', x=-255.69, y=71.07, z=494.07]
-[16:05:38] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[16:05:38] [Server thread/INFO]: Heroebrien left the game
-[16:06:03] [Server thread/INFO]: Heroebrien[/26.68.130.165:55484] logged in with entity id 36617 at (-272.5556222531068, 72.0, 509.29991132140947)
-[16:06:03] [Server thread/INFO]: Heroebrien joined the game
-[16:06:09] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[16:06:09] [Server thread/INFO]: Heroebrien left the game
-[16:06:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/36664, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.80]
-[16:06:18] [Server thread/INFO]: Heroebrien[/26.68.130.165:55488] logged in with entity id 36667 at (-272.5556222531068, 72.0, 509.29991132140947)
-[16:06:18] [Server thread/INFO]: Heroebrien joined the game
-[16:07:27] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[16:07:27] [Server thread/INFO]: Heroebrien left the game
-[16:07:34] [Server thread/INFO]: Heroebrien[/26.68.130.165:55493] logged in with entity id 36888 at (-289.27650686392013, 71.0, 521.2541784499211)
-[16:07:34] [Server thread/INFO]: Heroebrien joined the game
-[16:08:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/37006, l='ServerLevel[world]', x=-314.80, y=70.54, z=533.80]
-[16:08:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/37006, l='ServerLevel[world]', x=-314.80, y=70.54, z=533.80]
-[16:12:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/37544, l='ServerLevel[world]', x=-314.20, y=70.56, z=533.80]
-[16:12:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/37544, l='ServerLevel[world]', x=-314.20, y=70.56, z=533.80]
-[16:14:15] [Server thread/INFO]: [skandarajeev: Stopping the server]
-[16:14:15] [Server thread/INFO]: Stopping server
-[16:14:15] [Server thread/INFO]: Saving players
-[16:14:15] [Server thread/INFO]: Saving worlds
-[16:14:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:14:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:15:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:15:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:15:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:15:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:15:15] [main/INFO]: Reloading ResourceManager: Default
+[16:15:16] [Worker-Main-10/INFO]: Loaded 7 recipes
+[16:15:16] [Worker-Main-10/INFO]: Loaded 927 advancements
+[16:15:17] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:15:17] [Server thread/INFO]: Loading properties
+[16:15:17] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:17] [Server thread/INFO]: Generating keypair
+[16:15:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:17] [Server thread/INFO]: Using default channel type
+[16:15:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:15:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:15:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:15:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:15:18] [Server thread/INFO]: Preparing level "world"
+[16:15:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:15:19] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:19] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:19] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:19] [Server thread/INFO]: Preparing spawn area: 0%
+[16:15:20] [Server thread/INFO]: Time elapsed: 2824 ms
+[16:15:20] [Server thread/INFO]: Done (2.891s)! For help, type "help"
+[16:15:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:55502] logged in with entity id 109 at (-302.26188811368013, 71.0, 508.087241979705)
+[16:15:21] [Server thread/INFO]: Heroebrien joined the game
+[16:15:30] [Server thread/INFO]: skandarajeev[/127.0.0.1:53421] logged in with entity id 679 at (-367.2800978851906, 70.0, 509.53775718917234)
+[16:15:30] [Server thread/INFO]: skandarajeev joined the game
+[16:16:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/858, l='ServerLevel[world]', x=-314.20, y=70.50, z=533.20]
+[16:16:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/858, l='ServerLevel[world]', x=-314.20, y=70.50, z=533.20]
+[16:18:06] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:18:06] [Server thread/INFO]: skandarajeev left the game
+[16:18:10] [Server thread/INFO]: skandarajeev[/127.0.0.1:53435] logged in with entity id 1093 at (-311.5769906798893, 70.0, 528.4790959756989)
+[16:18:10] [Server thread/INFO]: skandarajeev joined the game
+[16:20:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1433, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.80]
+[16:20:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1433, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.80]
+[16:20:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1434, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[16:20:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1434, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[16:21:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1496, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.80]
+[16:21:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1496, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.80]
+[16:22:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1601, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:22:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1601, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:22:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1631, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:22:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1631, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:22:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1638, l='ServerLevel[world]', x=-314.20, y=70.51, z=533.20]
+[16:22:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1638, l='ServerLevel[world]', x=-314.20, y=70.51, z=533.20]
+[16:22:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1703, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:22:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/1703, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[16:25:46] [Server thread/INFO]: [skandarajeev: Stopping the server]
+[16:25:46] [Server thread/INFO]: Stopping server
+[16:25:46] [Server thread/INFO]: Saving players
+[16:25:46] [Server thread/INFO]: Heroebrien lost connection: Internal Exception: java.lang.StackOverflowError
+[16:25:46] [Server thread/INFO]: Heroebrien left the game
+[16:25:46] [Server thread/INFO]: Saving worlds
+[16:25:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:25:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
