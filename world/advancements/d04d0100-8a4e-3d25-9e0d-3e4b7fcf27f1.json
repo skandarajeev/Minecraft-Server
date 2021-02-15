@@ -1175,6 +1175,7 @@
       "minecraft:wooded_hills": "2021-01-09 13:44:47 +0530",
       "minecraft:stone_shore": "2021-01-09 14:33:04 +0530",
       "minecraft:wooded_badlands_plateau": "2021-02-06 13:39:08 +0530",
+      "minecraft:swamp": "2021-02-15 20:14:33 +0530",
       "minecraft:savanna": "2021-01-09 13:45:51 +0530",
       "minecraft:plains": "2021-01-09 13:45:25 +0530"
     },
@@ -2222,6 +2223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-02-15 19:37:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:03:17 +0530"
@@ -2693,6 +2700,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-01-15 13:44:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-02-15 19:37:16 +0530"
     },
     "done": true
   },
