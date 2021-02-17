@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-01-27 13:39:15 +0530"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2021-01-27 13:37:58 +0530"
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2021-02-17 16:29:21 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-29 15:19:08 +0530"
@@ -272,6 +290,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-29 15:07:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
     },
     "done": true
   },
@@ -347,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2021-02-17 17:21:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-01-29 14:21:39 +0530"
@@ -356,6 +386,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-01-29 14:36:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-02-17 16:12:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-02-17 16:16:51 +0530"
     },
     "done": true
   },
@@ -374,6 +416,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2021-01-29 13:57:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
     },
     "done": true
   },
@@ -544,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-29 15:07:08 +0530"
@@ -559,6 +613,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-29 14:59:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
     },
     "done": true
   },
@@ -646,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-02-17 16:39:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2021-01-31 14:06:04 +0530"
@@ -685,6 +751,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-01-31 12:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-02-17 16:10:54 +0530"
     },
     "done": true
   },
@@ -766,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-02-17 17:21:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-31 12:59:09 +0530"
@@ -787,6 +865,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-01-27 13:39:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
     },
     "done": true
   },
@@ -886,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-02-17 16:12:41 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-01-31 13:49:46 +0530"
@@ -894,9 +990,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:husk": "2021-01-31 14:23:59 +0530"
+      "minecraft:skeleton": "2021-02-17 16:08:16 +0530",
+      "minecraft:husk": "2021-01-31 14:23:59 +0530",
+      "minecraft:zombie": "2021-02-17 15:47:53 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -940,6 +1044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-02-17 17:21:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-29 14:21:39 +0530"
@@ -964,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-29 15:19:08 +0530"
@@ -979,6 +1095,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-01-31 14:13:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
     },
     "done": true
   },
@@ -1186,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-01-31 15:50:12 +0530"
@@ -1270,9 +1398,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-01-31 12:55:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-02-17 16:10:54 +0530"
     },
     "done": true
   },
@@ -1291,6 +1431,18 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-01-31 13:49:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-02-17 16:08:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2021-02-17 17:21:29 +0530"
     },
     "done": true
   },
@@ -1357,6 +1509,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-01-31 13:49:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
     },
     "done": true
   },
@@ -1480,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2021-01-27 13:37:58 +0530"
@@ -1489,6 +1653,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2021-01-27 13:37:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-02-17 17:21:29 +0530"
     },
     "done": true
   },
@@ -1570,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-01-29 14:59:04 +0530"
@@ -1578,12 +1754,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2021-02-17 16:07:40 +0530",
       "minecraft:taiga": "2021-01-31 15:17:01 +0530",
       "minecraft:snowy_tundra": "2021-01-31 15:18:00 +0530",
       "minecraft:taiga_hills": "2021-01-31 15:18:34 +0530",
       "minecraft:desert": "2021-01-29 13:49:23 +0530",
+      "minecraft:jungle": "2021-02-17 17:20:52 +0530",
+      "minecraft:jungle_hills": "2021-02-17 17:22:45 +0530",
+      "minecraft:savanna_plateau": "2021-02-17 17:17:40 +0530",
+      "minecraft:beach": "2021-02-17 17:18:28 +0530",
       "minecraft:river": "2021-01-27 13:33:48 +0530",
       "minecraft:wooded_hills": "2020-12-24 16:24:02 +0530",
+      "minecraft:savanna": "2021-02-17 17:15:10 +0530",
       "minecraft:plains": "2021-01-27 13:31:36 +0530"
     },
     "done": false
@@ -1624,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-02-17 16:12:41 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-01-29 13:47:40 +0530"
@@ -1651,6 +1839,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-01-27 13:39:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-02-17 17:21:29 +0530"
     },
     "done": true
   },
@@ -1750,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 15:27:38 +0530"
@@ -1813,7 +2013,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2021-01-27 13:32:11 +0530",
-      "minecraft:nether_wastes": "2021-01-31 15:15:07 +0530"
+      "minecraft:nether_wastes": "2021-01-31 15:15:07 +0530",
+      "minecraft:basalt_deltas": "2021-02-17 17:13:27 +0530"
     },
     "done": false
   },
@@ -1838,6 +2039,18 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-29 15:19:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:24:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2021-02-17 17:21:29 +0530"
     },
     "done": true
   },
@@ -1892,6 +2105,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2021-01-31 15:34:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-17 16:16:51 +0530"
     },
     "done": true
   },
