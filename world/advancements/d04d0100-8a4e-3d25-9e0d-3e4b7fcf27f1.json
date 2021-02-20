@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-20 16:36:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-09 14:07:21 +0530"
@@ -630,6 +636,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-01-20 13:25:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-02-20 16:36:52 +0530"
     },
     "done": true
   },
@@ -1345,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-02-20 16:38:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2021-01-09 13:51:56 +0530"
@@ -1414,6 +1432,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-01-09 13:51:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-02-20 16:38:39 +0530"
     },
     "done": true
   },
@@ -1677,6 +1701,7 @@
       "beef": "2021-01-16 13:27:54 +0530",
       "porkchop": "2021-01-16 13:37:38 +0530",
       "mutton": "2021-01-16 13:23:58 +0530",
+      "melon_slice": "2021-02-20 16:36:55 +0530",
       "cooked_rabbit": "2021-01-13 13:32:49 +0530",
       "cooked_chicken": "2021-01-20 13:26:36 +0530",
       "carrot": "2021-01-09 13:52:25 +0530"
@@ -2832,6 +2857,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-01-09 13:57:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-02-20 16:36:52 +0530"
     },
     "done": true
   },

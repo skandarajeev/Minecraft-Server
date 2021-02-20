@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-20 15:17:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-09 14:08:33 +0530"
@@ -758,6 +764,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-01-09 14:01:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-02-20 15:17:25 +0530"
     },
     "done": true
   },
@@ -1419,6 +1431,7 @@
       "minecraft:snowy_taiga": "2021-01-16 14:36:32 +0530",
       "minecraft:birch_forest_hills": "2021-01-15 14:01:36 +0530",
       "minecraft:wooded_mountains": "2021-01-09 14:54:23 +0530",
+      "minecraft:bamboo_jungle_hills": "2021-02-20 15:19:25 +0530",
       "minecraft:wooded_hills": "2021-01-09 13:07:09 +0530",
       "minecraft:stone_shore": "2021-01-09 14:31:54 +0530",
       "minecraft:wooded_badlands_plateau": "2021-02-05 14:26:00 +0530",
@@ -2059,6 +2072,7 @@
       "mutton": "2021-02-08 13:32:38 +0530",
       "bread": "2021-01-10 14:01:59 +0530",
       "salmon": "2021-02-08 13:57:26 +0530",
+      "melon_slice": "2021-02-20 16:27:38 +0530",
       "cooked_chicken": "2021-01-29 15:36:42 +0530",
       "carrot": "2021-01-09 13:19:44 +0530"
     },
@@ -3500,6 +3514,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-09 14:11:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-02-20 15:17:25 +0530"
     },
     "done": true
   },
