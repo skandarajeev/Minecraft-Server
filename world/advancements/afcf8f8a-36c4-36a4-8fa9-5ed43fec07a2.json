@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-01-09 13:59:33 +0530"
@@ -224,6 +230,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-09 14:11:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
     },
     "done": true
   },
@@ -314,6 +326,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-01-29 14:29:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
     },
     "done": true
   },
@@ -674,10 +692,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-01-10 14:43:04 +0530",
+      "minecraft:blaze": "2021-02-22 16:08:20 +0530",
       "minecraft:skeleton": "2021-01-09 14:24:25 +0530",
       "minecraft:ghast": "2021-01-13 13:47:44 +0530",
       "minecraft:vindicator": "2021-01-11 13:46:43 +0530",
       "minecraft:spider": "2021-01-09 14:27:09 +0530",
+      "minecraft:creeper": "2021-02-22 15:44:48 +0530",
       "minecraft:wither_skeleton": "2021-01-13 13:50:41 +0530",
       "minecraft:husk": "2021-01-18 13:48:10 +0530",
       "minecraft:silverfish": "2021-01-10 13:59:15 +0530",
@@ -782,6 +802,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-01-13 13:29:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
     },
     "done": true
   },
@@ -1028,6 +1054,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-01-11 14:05:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-02-22 15:40:56 +0530"
     },
     "done": true
   },
@@ -1286,6 +1318,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-14 16:03:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
     },
     "done": true
   },
@@ -2573,6 +2611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2021-01-09 13:59:33 +0530"
@@ -2624,6 +2668,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-09 14:01:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2021-02-22 16:29:27 +0530"
     },
     "done": true
   },
@@ -3221,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-01-09 15:08:50 +0530"
@@ -3487,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-02-22 16:29:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-01-09 14:13:24 +0530"
@@ -3535,5 +3597,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2586
 }
