@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-02-27 13:48:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-02-22 16:06:32 +0530"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-02-27 13:53:23 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-22 15:19:54 +0530"
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-02-27 14:24:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-25 11:25:30 +0530"
@@ -293,6 +311,8 @@
       "cooked_beef": "2021-02-22 15:29:32 +0530",
       "beef": "2021-02-22 15:04:37 +0530",
       "bread": "2021-02-22 15:05:07 +0530",
+      "rotten_flesh": "2021-02-27 14:04:18 +0530",
+      "salmon": "2021-02-27 14:08:26 +0530",
       "cod": "2021-02-25 11:30:30 +0530"
     },
     "done": false
@@ -339,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-02-27 14:43:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-02-22 15:00:35 +0530"
@@ -360,6 +386,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2021-02-25 11:25:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
     },
     "done": true
   },
@@ -420,6 +452,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2021-02-25 11:15:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-02-27 13:48:31 +0530"
     },
     "done": true
   },
@@ -519,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-02-22 15:00:35 +0530"
@@ -567,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-02-27 14:29:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2021-02-22 16:07:28 +0530"
@@ -597,9 +647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-02-27 14:43:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-02-22 15:04:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
     },
     "done": true
   },
@@ -699,6 +761,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-02-27 13:48:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-02-22 16:07:59 +0530"
@@ -717,12 +791,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-02-27 14:24:25 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2021-02-22 16:05:11 +0530",
       "minecraft:skeleton": "2021-02-22 15:44:55 +0530",
+      "minecraft:spider": "2021-02-27 13:48:31 +0530",
       "minecraft:wither_skeleton": "2021-02-22 16:05:22 +0530",
-      "minecraft:zombie": "2021-02-25 11:27:48 +0530"
+      "minecraft:zombie": "2021-02-25 11:27:48 +0530",
+      "minecraft:drowned": "2021-02-27 14:51:18 +0530"
     },
     "done": false
   },
@@ -741,6 +823,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-02-22 14:59:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
     },
     "done": true
   },
@@ -924,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-02-27 13:48:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-22 15:24:22 +0530"
@@ -945,6 +1039,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-02-22 15:00:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-02-27 15:01:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-02-27 15:00:19 +0530"
     },
     "done": true
   },
@@ -1068,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-02-27 13:48:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-25 11:23:17 +0530"
@@ -1152,6 +1264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-22 16:07:59 +0530"
@@ -1197,6 +1315,18 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-02-22 15:10:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-02-27 15:00:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
     },
     "done": true
   },
@@ -1259,6 +1389,8 @@
       "minecraft:forest": "2021-02-25 11:16:41 +0530",
       "minecraft:taiga": "2021-02-22 16:07:19 +0530",
       "minecraft:desert": "2021-02-22 15:04:11 +0530",
+      "minecraft:savanna_plateau": "2021-02-27 13:48:35 +0530",
+      "minecraft:beach": "2021-02-27 14:42:07 +0530",
       "minecraft:river": "2021-02-22 14:59:53 +0530",
       "minecraft:wooded_hills": "2021-02-22 14:55:56 +0530",
       "minecraft:savanna": "2021-02-25 11:21:32 +0530",
@@ -1293,6 +1425,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-02-22 16:06:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-02-27 14:24:25 +0530"
     },
     "done": true
   },
@@ -1374,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-02-27 14:43:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-02-22 15:01:21 +0530"
@@ -1407,6 +1551,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2021-02-22 16:12:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-02-27 14:01:13 +0530"
     },
     "done": true
   },

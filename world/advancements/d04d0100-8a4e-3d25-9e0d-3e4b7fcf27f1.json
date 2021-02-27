@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_the_recipe": "2021-02-27 13:42:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-01-09 13:53:51 +0530"
@@ -1439,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-02-27 13:42:10 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-01-09 15:05:47 +0530"
@@ -1856,6 +1868,7 @@
       "cooked_beef": "2021-01-09 13:59:39 +0530",
       "beef": "2021-01-16 13:27:54 +0530",
       "porkchop": "2021-01-16 13:37:38 +0530",
+      "potato": "2021-02-27 14:24:41 +0530",
       "mutton": "2021-01-16 13:23:58 +0530",
       "melon_slice": "2021-02-20 16:36:55 +0530",
       "cooked_rabbit": "2021-01-13 13:32:49 +0530",
@@ -2545,6 +2558,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 13:55:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2021-02-27 13:42:10 +0530"
     },
     "done": true
   },
