@@ -1,50 +1,360 @@
-[17:29:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:29:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:29:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:29:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:29:34] [main/INFO]: Reloading ResourceManager: Default
-[17:29:35] [Worker-Main-6/INFO]: Loaded 7 recipes
-[17:29:36] [Worker-Main-6/INFO]: Loaded 927 advancements
-[17:29:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:29:37] [Server thread/INFO]: Loading properties
-[17:29:37] [Server thread/INFO]: Default game type: SURVIVAL
-[17:29:37] [Server thread/INFO]: Generating keypair
-[17:29:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:29:37] [Server thread/INFO]: Using default channel type
-[17:29:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:29:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:29:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:29:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:29:42] [Server thread/INFO]: Preparing level "world"
-[17:29:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:29:47] [Server thread/INFO]: Preparing spawn area: 83%
-[17:29:50] [Server thread/INFO]: Time elapsed: 8010 ms
-[17:29:50] [Server thread/INFO]: Done (8.452s)! For help, type "help"
-[17:30:21] [Server thread/INFO]: skandarajeev[/127.0.0.1:57231] logged in with entity id 103 at (-298.5150453724051, 63.875, 513.164200807729)
-[17:30:21] [Server thread/INFO]: skandarajeev joined the game
-[18:03:56] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[18:03:56] [Server thread/INFO]: skandarajeev left the game
-[18:04:01] [Server thread/INFO]: Stopping the server
-[18:04:01] [Server thread/INFO]: Stopping server
-[18:04:01] [Server thread/INFO]: Saving players
-[18:04:01] [Server thread/INFO]: Saving worlds
-[18:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:10:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:10:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:10:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:10:40] [main/INFO]: Reloading ResourceManager: Default
+[13:10:40] [Worker-Main-8/INFO]: Loaded 7 recipes
+[13:10:41] [Worker-Main-8/INFO]: Loaded 927 advancements
+[13:10:42] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[13:10:42] [Server thread/INFO]: Loading properties
+[13:10:42] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:42] [Server thread/INFO]: Generating keypair
+[13:10:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:10:42] [Server thread/INFO]: Using default channel type
+[13:10:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:10:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:10:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:10:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:10:42] [Server thread/INFO]: Preparing level "world"
+[13:10:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:10:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:10:45] [Server thread/INFO]: Preparing spawn area: 44%
+[13:10:45] [Server thread/INFO]: Time elapsed: 2611 ms
+[13:10:45] [Server thread/INFO]: Done (2.732s)! For help, type "help"
+[13:11:47] [Server thread/INFO]: nm694752[/26.47.66.184:49978] logged in with entity id 101 at (-262.1755107219371, 244.0, 530.4041307406897)
+[13:11:47] [Server thread/INFO]: nm694752 joined the game
+[13:12:28] [Server thread/INFO]: madhav1806[/26.104.147.15:61749] logged in with entity id 502 at (264.5, 75.0, -5.5)
+[13:12:28] [Server thread/INFO]: madhav1806 joined the game
+[13:13:10] [Server thread/INFO]: madhav1806 has made the advancement [We Need to Go Deeper]
+[13:13:32] [Server thread/INFO]: <nm694752> madhav disconnect for one minute pls
+[13:13:36] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[13:13:36] [Server thread/INFO]: madhav1806 left the game
+[13:13:54] [Server thread/WARN]: nm694752 moved too quickly! 0.8052027025599955,-10.806526110008988,0.6360783512615171
+[13:13:57] [Server thread/INFO]: madhav1806[/26.104.147.15:61795] logged in with entity id 1092 at (-42.10709009413777, 60.0, 38.045996166745226)
+[13:13:57] [Server thread/INFO]: madhav1806 joined the game
+[13:14:32] [Server thread/INFO]: skende[/26.68.130.165:55485] logged in with entity id 1351 at (-315.3682807095952, 66.0, 528.195421201857)
+[13:14:33] [Server thread/INFO]: skende joined the game
+[13:16:18] [Server thread/INFO]: skende lost connection: Disconnected
+[13:16:18] [Server thread/INFO]: skende left the game
+[13:17:48] [Server thread/INFO]: <madhav1806> of course were hereing
+[13:17:54] [Server thread/INFO]: <madhav1806> hearing
+[13:18:04] [Server thread/INFO]: madhav1806 fell from a high place
+[13:18:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2051, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.20]
+[13:18:09] [Server thread/INFO]: <madhav1806> no
+[13:18:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2134, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[13:18:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2134, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[13:18:16] [Server thread/INFO]: <madhav1806> only u
+[13:18:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:55611] logged in with entity id 2204 at (-276.69999998807907, 70.0, 535.5520221054076)
+[13:18:21] [Server thread/INFO]: Heroebrien joined the game
+[13:18:33] [Server thread/INFO]: <madhav1806> anytime (angel emoji)
+[13:18:43] [Server thread/INFO]: <madhav1806> ok where r u
+[13:18:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2304, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[13:18:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2304, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.80]
+[13:18:52] [Server thread/INFO]: <madhav1806> where is that
+[13:19:17] [Server thread/INFO]: <madhav1806> near farm?
+[13:19:21] [Server thread/INFO]: <Heroebrien> what is happenign
+[13:19:52] [Server thread/INFO]: <madhav1806> aryan take me to xp generator
+[13:20:00] [Server thread/INFO]: <madhav1806> also we cant hear u
+[13:20:12] [Server thread/INFO]: madhav1806 has made the advancement [Suit Up]
+[13:20:31] [Server thread/INFO]: <Heroebrien> even i cant hear
+[13:20:41] [Server thread/INFO]: <madhav1806> i think ur not in call
+[13:22:17] [Server thread/WARN]: Heroebrien moved too quickly! 9.738895596262466,-0.20000004768371582,2.6367162265773914
+[13:23:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3253, l='ServerLevel[world]', x=-314.80, y=70.50, z=533.20]
+[13:23:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3253, l='ServerLevel[world]', x=-314.80, y=70.50, z=533.20]
+[13:25:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3611, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[13:25:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3611, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[13:25:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3611, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[13:26:49] [Server thread/INFO]: <madhav1806> pratham i think
+[13:27:00] [Server thread/INFO]: <madhav1806> pretty sure its pratham
+[13:28:35] [Server thread/INFO]: <madhav1806> his processor is i5
+[13:28:44] [Server thread/INFO]: madhav1806 fell off a ladder
+[13:29:47] [Server thread/INFO]: <madhav1806> pls dont
+[13:30:00] [Server thread/INFO]: <madhav1806> exactly
+[13:31:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4973, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.80]
+[13:31:28] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4973, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.80]
+[13:31:45] [Server thread/INFO]: <madhav1806> how r u doing that
+[13:32:07] [Server thread/WARN]: Heroebrien moved too quickly! 10.004049500044573,0.5463680547542573,0.2587174980110376
+[13:33:25] [Server thread/INFO]: <madhav1806> minecraft is so vulgar
+[13:33:31] [Server thread/INFO]: <madhav1806> mating
+[13:33:43] [Server thread/INFO]: <madhav1806> adult content
+[13:33:54] [Server thread/INFO]: <madhav1806> ik im joking
+[13:34:33] [Server thread/INFO]: <madhav1806> same
+[13:34:46] [Server thread/INFO]: <madhav1806> i had no pc
+[13:34:57] [Server thread/INFO]: skandarajeev[/127.0.0.1:65509] logged in with entity id 5748 at (-307.5032452950286, 70.0, 521.0036024445174)
+[13:34:57] [Server thread/INFO]: skandarajeev joined the game
+[13:35:37] [Server thread/INFO]: <madhav1806> i was the one who murdered sheep
+[13:36:03] [Server thread/WARN]: Heroebrien moved too quickly! -0.30605173770413785,-0.756759288177264,-10.51934864612997
+[13:36:10] [Server thread/INFO]: <madhav1806> theyre not ating wheat
+[13:36:15] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[13:36:15] [Server thread/INFO]: Heroebrien left the game
+[13:36:18] [Server thread/INFO]: <madhav1806> they dont want it from me
+[13:36:27] [Server thread/INFO]: Heroebrien[/26.68.130.165:55692] logged in with entity id 6041 at (-316.5761032527014, 69.0, 455.4825711528003)
+[13:36:27] [Server thread/INFO]: Heroebrien joined the game
+[13:37:15] [Server thread/INFO]: <madhav1806> my fav food is rotten flesh
+[13:37:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6164, l='ServerLevel[world]', x=-314.80, y=70.49, z=533.20]
+[13:37:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6164, l='ServerLevel[world]', x=-314.80, y=70.49, z=533.20]
+[13:37:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6164, l='ServerLevel[world]', x=-314.80, y=70.49, z=533.20]
+[13:37:24] [Server thread/INFO]: <madhav1806> so easily available
+[13:37:56] [Server thread/INFO]: <madhav1806> which floor
+[13:40:41] [Server thread/INFO]: madhav1806 has made the advancement [Stone Age]
+[13:40:53] [Server thread/INFO]: <madhav1806> hink naman meant one floor below
+[13:41:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7422, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.20]
+[13:41:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7422, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.20]
+[13:42:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7768, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.20]
+[13:42:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7768, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.20]
+[13:42:04] [Server thread/INFO]: <madhav1806> move side
+[13:42:18] [Server thread/INFO]: <madhav1806> im not doing anythng
+[13:45:20] [Server thread/WARN]: nm694752 moved too quickly! -8.00337304790662,-2.9031272476744903,-5.814026018924153
+[13:46:16] [Server thread/INFO]: <madhav1806> im at mary where is xp generatir
+[13:46:21] [Server thread/INFO]: <skandarajeev> what
+[13:47:02] [Server thread/INFO]: <madhav1806> experiment by skanda
+[13:47:27] [Server thread/INFO]: <madhav1806> guys what is the nearest thing to xp generator
+[13:47:37] [Server thread/INFO]: <madhav1806> where r u
+[13:47:41] [Server thread/INFO]: <madhav1806> no
+[13:47:45] [Server thread/INFO]: madhav1806 was slain by Heroebrien
+[13:47:50] [Server thread/INFO]: <madhav1806> F
+[13:49:02] [Server thread/WARN]: nm694752 moved too quickly! 2.697233257784717,-1.1661092609382138,9.640871632861604
+[13:49:20] [Server thread/INFO]: <madhav1806> i know a chest where there are 50 torches
+[13:49:48] [Server thread/INFO]: <madhav1806> where r u
+[13:52:01] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[13:52:01] [Server thread/INFO]: nm694752 left the game
+[13:52:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9924, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[13:52:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9924, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[13:52:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/9924, l='ServerLevel[world]', x=-314.20, y=70.52, z=533.80]
+[13:52:19] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[13:52:19] [Server thread/INFO]: madhav1806 left the game
+[13:52:29] [Server thread/INFO]: madhav1806[/26.104.147.15:62952] logged in with entity id 9967 at (-306.69999998807907, 70.0, 513.3425805349716)
+[13:52:29] [Server thread/INFO]: madhav1806 joined the game
+[13:52:32] [Server thread/INFO]: nm694752[/26.47.66.184:50322] logged in with entity id 9984 at (-355.09863524564014, 66.5625, 542.151301709756)
+[13:52:32] [Server thread/INFO]: nm694752 joined the game
+[13:52:39] [Server thread/INFO]: madhav1806 was slain by skandarajeev using [zeeshan]
+[13:52:41] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[13:52:41] [Server thread/INFO]: Heroebrien left the game
+[13:52:46] [Server thread/INFO]: <madhav1806> WHYWHYWHY
+[13:52:48] [Server thread/INFO]: Heroebrien[/26.68.130.165:55741] logged in with entity id 10058 at (-280.54188578778536, 71.0, 562.0359862551112)
+[13:52:48] [Server thread/INFO]: Heroebrien joined the game
+[13:52:54] [Server thread/WARN]: madhav1806 moved too quickly! 0.020040336246836432,-11.842011517166327,-0.695781371314979
+[13:52:57] [Server thread/WARN]: madhav1806 moved too quickly! 0.0,-11.433643280623414,0.2622355328575168
+[13:53:02] [Server thread/INFO]: madhav1806 fell from a high place
+[13:53:46] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[13:53:46] [Server thread/INFO]: madhav1806 left the game
+[13:53:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10272, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.20]
+[13:53:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/10272, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.20]
+[13:53:59] [Server thread/INFO]: madhav1806[/26.104.147.15:62977] logged in with entity id 10273 at (-323.39522653488933, 69.0, 514.3000000119209)
+[13:53:59] [Server thread/INFO]: madhav1806 joined the game
+[13:54:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-195, y=63, z=458} fx{x=-194, y=62, z=460}
+[13:55:58] [Server thread/INFO]: madhav1806 has made the advancement [Acquire Hardware]
+[13:56:20] [Server thread/INFO]: <madhav1806> disable pleae
+[13:56:33] [Server thread/INFO]: <madhav1806> disable pvp
+[13:56:43] [Server thread/INFO]: <madhav1806> people r killing me whenever they want
+[13:56:49] [Server thread/INFO]: <madhav1806> pls disable
+[13:57:14] [Server thread/INFO]: <madhav1806> showoffs
+[13:57:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11493, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[13:57:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11493, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[13:57:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11493, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[13:57:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11493, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.20]
+[13:58:31] [Server thread/INFO]: <madhav1806> ok naman give it to me
+[13:59:18] [Server thread/INFO]: <madhav1806> pls disable pvp
+[13:59:26] [Server thread/WARN]: nm694752 moved too quickly! 9.868718256030945,0.7531999805212024,-2.227501264545481
+[14:00:02] [Server thread/INFO]: <madhav1806> ye
+[14:00:10] [Server thread/INFO]: <madhav1806> where r u
+[14:00:51] [Server thread/INFO]: <madhav1806> sure
+[14:01:14] [Server thread/WARN]: nm694752 moved too quickly! -8.486217046151808,-0.07520089011894981,5.880104949460474
+[14:01:24] [Server thread/INFO]: <madhav1806> who wants glass panes
+[14:03:12] [Server thread/INFO]: <madhav1806> what will u do with ooks
+[14:03:28] [Server thread/INFO]: <madhav1806> in minecraft
+[14:04:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12607, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.20]
+[14:04:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12607, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.20]
+[14:04:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12607, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.20]
+[14:04:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12607, l='ServerLevel[world]', x=-314.20, y=70.49, z=533.20]
+[14:05:11] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:05:11] [Server thread/INFO]: madhav1806 left the game
+[14:05:31] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
+[14:05:31] [Server thread/INFO]: nm694752 lost connection: Kicked by an operator
+[14:05:31] [Server thread/INFO]: nm694752 left the game
+[14:05:37] [Server thread/INFO]: madhav1806[/26.104.147.15:63141] logged in with entity id 12734 at (-283.497681332393, 71.0, 538.6999999880793)
+[14:05:37] [Server thread/INFO]: madhav1806 joined the game
+[14:05:39] [Server thread/INFO]: nm694752[/26.47.66.184:50480] logged in with entity id 12752 at (-304.4944449546301, 84.0625, 517.1036806324299)
+[14:05:39] [Server thread/INFO]: nm694752 joined the game
+[14:06:03] [Server thread/INFO]: <madhav1806> ok naman pls dont kill me
+[14:06:36] [Server thread/INFO]: <madhav1806> no u killed me wihtout permission
+[14:06:45] [Server thread/INFO]: <madhav1806> but i disconnected
+[14:07:08] [Server thread/INFO]: <madhav1806> bad naman
+[14:07:30] [Server thread/INFO]: <madhav1806> tomorrow in the real world or in minecraft
+[14:09:42] [Server thread/WARN]: Heroebrien moved too quickly! -8.764232022159035,-1.792900290626676,-4.855414587740029
+[14:09:55] [Server thread/INFO]: <madhav1806> did u feed cow generator
+[14:10:12] [Server thread/INFO]: <nm694752> its not cow generator its xp generator
+[14:10:24] [Server thread/INFO]: <madhav1806> fine beef generator
+[14:10:34] [Server thread/INFO]: <nm694752> its raw beef
+[14:10:40] [Server thread/INFO]: <nm694752> not cooked
+[14:10:47] [Server thread/INFO]: <nm694752> hence your definition is wrong
+[14:10:53] [Server thread/INFO]: <nm694752> 5/10 marks
+[14:10:57] [Server thread/INFO]: <madhav1806> feed the cows in cow crusher
+[14:11:08] [Server thread/INFO]: <nm694752> its not a crusher its a xp generator
+[14:11:20] [Server thread/INFO]: <madhav1806> the thing that makes raw beef
+[14:11:23] [Server thread/INFO]: <madhav1806> not xp
+[14:11:26] [Server thread/INFO]: <madhav1806> ye
+[14:11:33] [Server thread/INFO]: <madhav1806> happened to me yesterday
+[14:11:53] [Server thread/INFO]: <madhav1806> where to get food
+[14:12:06] [Server thread/INFO]: <madhav1806> preferrably non veg
+[14:12:42] [Server thread/WARN]: Heroebrien moved too quickly! 5.327071853765176,1.1767592750642422,8.511906246687317
+[14:13:00] [Server thread/INFO]: <madhav1806> i hv 114 torches
+[14:13:04] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:13:04] [Server thread/INFO]: madhav1806 left the game
+[14:13:17] [Server thread/WARN]: Heroebrien moved too quickly! 9.070896917308403,0.1199608614270602,4.391909055145334
+[14:13:27] [Server thread/INFO]: madhav1806[/26.104.147.15:63304] logged in with entity id 14492 at (-312.0452324928194, 63.0, 520.3881227721138)
+[14:13:27] [Server thread/INFO]: madhav1806 joined the game
+[14:13:41] [Server thread/INFO]: <madhav1806> who tries to kill me
+[14:13:44] [Server thread/INFO]: <madhav1806> NAMAN
+[14:13:48] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:13:48] [Server thread/INFO]: madhav1806 left the game
+[14:14:20] [Server thread/INFO]: madhav1806[/26.104.147.15:63320] logged in with entity id 14628 at (-304.62539023749, 64.0, 522.6454804621914)
+[14:14:20] [Server thread/INFO]: madhav1806 joined the game
+[14:14:42] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:14:42] [Server thread/INFO]: madhav1806 left the game
+[14:14:54] [Server thread/INFO]: madhav1806[/26.104.147.15:63332] logged in with entity id 14710 at (-303.54301004538297, 68.0, 513.6999999880791)
+[14:14:54] [Server thread/INFO]: madhav1806 joined the game
+[14:15:13] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:15:13] [Server thread/INFO]: madhav1806 left the game
+[14:15:25] [Server thread/INFO]: madhav1806[/26.104.147.15:63348] logged in with entity id 14808 at (-311.32449338495496, 70.0, 521.4426153335827)
+[14:15:25] [Server thread/INFO]: madhav1806 joined the game
+[14:16:22] [Server thread/INFO]: <madhav1806> aryan haev extra cart?
+[14:18:05] [Server thread/INFO]: <Heroebrien> guys lets hit skanda together
+[14:18:10] [Server thread/INFO]: <madhav1806> ok!
+[14:18:52] [Server thread/INFO]: <madhav1806> im comin
+[14:19:22] [Server thread/INFO]: <madhav1806> i dont
+[14:19:34] [Server thread/INFO]: <madhav1806> no
+[14:19:50] [Server thread/INFO]: <madhav1806> where r u
+[14:20:00] [Server thread/INFO]: madhav1806 has made the advancement [A Terrible Fortress]
+[14:20:34] [Server thread/INFO]: <madhav1806> in castle?
+[14:21:03] [Server thread/INFO]: <madhav1806> theres a shield with fire on top right corner
+[14:21:09] [Server thread/INFO]: nm694752 has made the advancement [Into Fire]
+[14:23:01] [Server thread/WARN]: nm694752 moved too quickly! 0.016694588496250162,-1.130906499714527,-10.051794702691552
+[14:23:38] [Server thread/INFO]: <madhav1806> aryan is in ice
+[14:25:15] [Server thread/INFO]: <madhav1806> i have 114 torches
+[14:25:50] [Server thread/INFO]: madhav1806 has made the advancement [Into Fire]
+[14:27:21] [Server thread/INFO]: <madhav1806> i didnt hit
+[14:27:33] [Server thread/INFO]: <madhav1806> bones
+[14:28:06] [Server thread/INFO]: <madhav1806> u have cheats right
+[14:28:13] [Server thread/INFO]: <madhav1806> no skanda
+[14:28:28] [Server thread/INFO]: <madhav1806> skanda teleport to su
+[14:28:52] [Server thread/INFO]: <madhav1806> lava potion over
+[14:29:33] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:29:33] [Server thread/INFO]: madhav1806 left the game
+[14:29:40] [Server thread/INFO]: madhav1806[/26.104.147.15:63537] logged in with entity id 18132 at (-261.2126020421113, 58.0, 486.9507480811179)
+[14:29:40] [Server thread/INFO]: madhav1806 joined the game
+[14:30:10] [Server thread/INFO]: <madhav1806> i didnt
+[14:30:12] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:30:12] [Server thread/INFO]: nm694752 left the game
+[14:30:23] [Server thread/INFO]: nm694752[/26.47.66.184:50650] logged in with entity id 18195 at (-239.16199545262413, 58.0, 485.6134954134553)
+[14:30:23] [Server thread/INFO]: nm694752 joined the game
+[14:31:07] [Server thread/INFO]: <madhav1806> thx for rotten flexh
+[14:31:55] [Server thread/INFO]: <madhav1806> no
+[14:33:17] [Server thread/INFO]: <madhav1806> did u hv luch
+[14:33:58] [Server thread/INFO]: <madhav1806> u want gold back?
+[14:34:22] [Server thread/INFO]: <madhav1806> -276 426
+[14:34:25] [Server thread/INFO]: <madhav1806> im with naman
+[14:35:01] [Server thread/INFO]: madhav1806 has made the advancement [Monster Hunter]
+[14:35:12] [Server thread/INFO]: <madhav1806> i got last hit
+[14:35:19] [Server thread/INFO]: <madhav1806> so sorry
+[14:36:28] [Server thread/WARN]: nm694752 moved too quickly! 1.241706522069876,0.0,10.041784910185186
+[14:37:50] [Server thread/INFO]: <madhav1806> i gotta have luch
+[14:39:45] [Server thread/INFO]: <madhav1806> skanda take me back
+[14:40:29] [Server thread/INFO]: <madhav1806> pls take me back
+[14:41:02] [Server thread/INFO]: <madhav1806> pls i want paneer paratha
+[14:42:59] [Server thread/INFO]: <madhav1806> bye
+[14:43:14] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:43:14] [Server thread/INFO]: madhav1806 left the game
+[14:43:36] [Server thread/INFO]: madhav1806[/26.104.147.15:63713] logged in with entity id 20354 at (-269.3086518679124, 111.0, 218.300000011921)
+[14:43:36] [Server thread/INFO]: madhav1806 joined the game
+[14:44:16] [Server thread/WARN]: nm694752 moved too quickly! 9.968439813357449,-1.2000000476837158,-0.028213920877448118
+[14:45:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21295, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.80]
+[14:45:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21295, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.80]
+[14:45:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21295, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.80]
+[14:45:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21295, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.80]
+[14:45:41] [Server thread/WARN]: Heroebrien moved too quickly! -2.163105459281212,-0.2712241076924897,-10.108751422666273
+[14:45:42] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:45:42] [Server thread/INFO]: madhav1806 left the game
+[14:45:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21303, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.20]
+[14:45:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21303, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.20]
+[14:45:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21303, l='ServerLevel[world]', x=-314.20, y=70.53, z=533.20]
+[14:45:53] [Server thread/INFO]: nm694752 has made the advancement [Spooky Scary Skeleton]
+[14:45:58] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:45:58] [Server thread/INFO]: Heroebrien left the game
+[14:46:05] [Server thread/INFO]: Heroebrien[/26.68.130.165:55881] logged in with entity id 21326 at (-312.184124705426, 70.41999998688698, 524.1124933501113)
+[14:46:05] [Server thread/INFO]: Heroebrien joined the game
+[14:48:22] [Server thread/INFO]: nm694752 was burnt to a crisp whilst fighting skandarajeev
+[14:49:11] [Server thread/INFO]: <nm694752> what in the hot crispy KFC fuck
+[14:49:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21882, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.20]
+[14:49:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21882, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.20]
+[14:49:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/21882, l='ServerLevel[world]', x=-314.80, y=70.56, z=533.20]
+[14:49:53] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:49:53] [Server thread/INFO]: Heroebrien left the game
+[14:50:02] [Server thread/INFO]: Heroebrien[/26.68.130.165:55909] logged in with entity id 21939 at (-307.60625824718295, 65.25220334025373, 515.9848379203727)
+[14:50:02] [Server thread/INFO]: Heroebrien joined the game
+[14:51:00] [Server thread/WARN]: Heroebrien moved too quickly! 0.5822185867791063,10.035446985325308,0.0
+[14:52:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22198, l='ServerLevel[world]', x=-314.20, y=70.48, z=533.80]
+[14:52:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22198, l='ServerLevel[world]', x=-314.20, y=70.48, z=533.80]
+[14:52:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/22198, l='ServerLevel[world]', x=-314.20, y=70.48, z=533.80]
+[14:54:18] [Server thread/WARN]: Heroebrien moved too quickly! 7.235590399163129,-0.8322033533667508,7.068353304179141
+[14:54:28] [Server thread/WARN]: nm694752 moved too quickly! 9.97953424202268,0.24918707874468282,1.5802819779303832
+[14:54:41] [Server thread/INFO]: nm694752 lost connection: Timed out
+[14:54:41] [Server thread/INFO]: nm694752 left the game
+[14:54:57] [Server thread/INFO]: nm694752[/26.47.66.184:50901] logged in with entity id 22600 at (-356.3525583150523, 71.16610926093821, 508.832853417355)
+[14:54:57] [Server thread/INFO]: nm694752 joined the game
+[14:55:05] [Server thread/INFO]: madhav1806[/26.104.147.15:65309] logged in with entity id 22637 at (-305.2807608067998, 70.0, 528.8396014435259)
+[14:55:05] [Server thread/INFO]: madhav1806 joined the game
+[14:55:11] [Server thread/WARN]: nm694752 moved too quickly! 10.0,0.8385008080159082,0.2635817231648616
+[14:55:25] [Server thread/INFO]: madhav1806 was slain by nm694752
+[14:55:44] [Server thread/INFO]: madhav1806 fell from a high place
+[14:55:45] [Server thread/WARN]: skandarajeev moved too quickly! -0.014181484388871013,-11.297887996483013,0.0
+[14:55:54] [Server thread/WARN]: madhav1806 moved too quickly! -0.12294269106166666,-14.685943701181003,-1.1729745644211107
+[14:56:02] [Server thread/INFO]: nm694752 lost connection: Disconnected
+[14:56:02] [Server thread/INFO]: nm694752 left the game
+[14:56:18] [Server thread/INFO]: madhav1806 was slain by Heroebrien using [joe mama]
+[14:56:59] [Server thread/INFO]: <madhav1806> my stuff
+[14:57:11] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[14:57:11] [Server thread/INFO]: Heroebrien left the game
+[14:57:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23029, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.20]
+[14:57:26] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23029, l='ServerLevel[world]', x=-314.20, y=70.55, z=533.20]
+[14:57:40] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:57:40] [Server thread/INFO]: madhav1806 left the game
+[14:57:47] [Server thread/INFO]: madhav1806[/26.104.147.15:65346] logged in with entity id 23062 at (-303.908899526169, 70.0, 527.6590190204197)
+[14:57:47] [Server thread/INFO]: madhav1806 joined the game
+[14:58:42] [Server thread/INFO]: <madhav1806> hello
+[14:58:51] [Server thread/INFO]: <madhav1806> k
+[14:59:16] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[14:59:16] [Server thread/INFO]: madhav1806 left the game
+[15:01:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23615, l='ServerLevel[world]', x=-314.60, y=70.65, z=533.58]
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:12:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-227, y=66, z=504} fx{x=-227, y=66, z=505}
+[15:16:56] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25988, l='ServerLevel[world]', x=-314.20, y=70.54, z=533.20]
+[15:17:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26114, l='ServerLevel[world]', x=-314.80, y=70.55, z=533.80]
+[15:18:17] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26157, l='ServerLevel[world]', x=-314.80, y=70.52, z=533.80]
+[15:25:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-213, y=66, z=472} fx{x=-213, y=65, z=472}
+[15:27:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/27586, l='ServerLevel[world]', x=-314.80, y=70.49, z=533.80]
+[15:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-226, y=65, z=508} fx{x=-226, y=63, z=507}
+[15:35:08] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:35:08] [Server thread/INFO]: skandarajeev left the game
+[15:35:13] [Server thread/INFO]: Stopping the server
+[15:35:13] [Server thread/INFO]: Stopping server
+[15:35:13] [Server thread/INFO]: Saving players
+[15:35:13] [Server thread/INFO]: Saving worlds
+[15:35:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:35:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:35:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:35:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

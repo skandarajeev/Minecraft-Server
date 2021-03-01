@@ -10,5 +10,11 @@
     "name": "skandarajeev",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c25f9463-7e59-359b-bf72-f5b297f3d8d7",
+    "name": "/stop",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

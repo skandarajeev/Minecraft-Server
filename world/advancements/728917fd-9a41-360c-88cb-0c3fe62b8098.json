@@ -775,15 +775,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2021-02-05 15:11:32 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-05 13:54:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-02-05 15:11:32 +0530"
     },
     "done": true
   },
@@ -2686,5 +2686,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2586
 }
