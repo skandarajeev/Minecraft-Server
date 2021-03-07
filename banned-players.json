@@ -1,5 +1,13 @@
 [
   {
+    "uuid": "3e0a1880-7991-3c89-bfab-596333410b37",
+    "name": "n\t/stop",
+    "created": "2021-03-04 15:00:02 +0530",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
     "uuid": "ac9f7088-aaa0-35ac-b9d1-87a0fe9642fe",
     "name": "beaster42",
     "created": "2021-02-27 13:42:04 +0530",

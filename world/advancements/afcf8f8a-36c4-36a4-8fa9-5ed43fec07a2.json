@@ -1256,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2021-03-04 14:48:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:59:33 +0530"
@@ -2114,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-03-04 14:45:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-02-03 20:27:27 +0530"
@@ -2157,9 +2169,12 @@
       "cooked_mutton": "2021-01-13 14:09:04 +0530",
       "sweet_berries": "2021-01-16 13:26:23 +0530",
       "cooked_beef": "2021-01-10 14:01:06 +0530",
+      "beef": "2021-03-05 14:55:08 +0530",
+      "baked_potato": "2021-03-06 15:07:12 +0530",
       "porkchop": "2021-02-26 16:21:01 +0530",
       "apple": "2021-02-27 13:57:46 +0530",
       "potato": "2021-01-14 15:27:04 +0530",
+      "poisonous_potato": "2021-03-05 14:44:03 +0530",
       "pumpkin_pie": "2021-02-27 15:49:00 +0530",
       "mutton": "2021-02-08 13:32:38 +0530",
       "bread": "2021-01-10 14:01:59 +0530",
@@ -2470,6 +2485,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:59:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-03-07 19:37:47 +0530"
     },
     "done": true
   },

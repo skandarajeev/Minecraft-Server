@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-03-07 19:42:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:57:04 +0530"
@@ -350,6 +356,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-09 14:26:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-03-04 14:02:21 +0530"
     },
     "done": true
   },
@@ -658,9 +670,13 @@
       "minecraft:pillager": "2021-01-11 13:46:46 +0530",
       "minecraft:blaze": "2021-03-01 14:20:14 +0530",
       "minecraft:skeleton": "2021-01-11 13:34:00 +0530",
+      "minecraft:ravager": "2021-03-05 13:50:58 +0530",
       "minecraft:vindicator": "2021-01-11 13:47:01 +0530",
       "minecraft:magma_cube": "2021-03-01 14:34:35 +0530",
       "minecraft:spider": "2021-01-09 14:27:02 +0530",
+      "minecraft:creeper": "2021-03-04 13:54:21 +0530",
+      "minecraft:phantom": "2021-03-04 14:28:03 +0530",
+      "minecraft:witch": "2021-03-05 14:25:08 +0530",
       "minecraft:wither_skeleton": "2021-03-01 14:21:20 +0530",
       "minecraft:husk": "2021-01-09 14:17:04 +0530",
       "minecraft:silverfish": "2021-01-10 13:51:33 +0530",
@@ -1125,6 +1141,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-01-16 14:12:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2021-03-05 13:31:06 +0530"
     },
     "done": true
   },
@@ -1945,6 +1967,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-01-09 14:40:13 +0530",
+      "chicken": "2021-03-05 13:29:14 +0530",
       "cooked_mutton": "2021-01-09 14:48:17 +0530",
       "cooked_beef": "2021-01-09 13:59:39 +0530",
       "beef": "2021-01-16 13:27:54 +0530",
@@ -2533,6 +2556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-03-07 19:42:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 13:32:21 +0530"
@@ -3088,6 +3117,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-01-10 13:45:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2021-03-07 20:08:16 +0530"
     },
     "done": true
   },
