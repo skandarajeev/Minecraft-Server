@@ -1,169 +1,45 @@
-[18:27:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:27:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:27:23] [main/INFO]: Reloading ResourceManager: Default
-[18:27:23] [Worker-Main-9/INFO]: Loaded 7 recipes
-[18:27:24] [Worker-Main-9/INFO]: Loaded 927 advancements
-[18:27:25] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[18:27:25] [Server thread/INFO]: Loading properties
-[18:27:25] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:25] [Server thread/INFO]: Generating keypair
-[18:27:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:25] [Server thread/INFO]: Using default channel type
-[18:27:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:27:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:27:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:27:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:27:25] [Server thread/INFO]: Preparing level "world"
-[18:27:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:26] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:26] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:26] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:27] [Server thread/INFO]: Preparing spawn area: 0%
-[18:27:28] [Server thread/INFO]: Time elapsed: 2376 ms
-[18:27:28] [Server thread/INFO]: Done (2.490s)! For help, type "help"
-[18:28:32] [Server thread/INFO]: skandarajeev[/127.0.0.1:51779] logged in with entity id 89 at (-34.55363647045591, 15.0, 166.38731465826484)
-[18:28:32] [Server thread/INFO]: skandarajeev joined the game
-[18:29:43] [Server thread/INFO]: nm694752[/26.47.66.184:52553] logged in with entity id 580 at (-311.67937480726425, 69.0, 528.7633384950649)
-[18:29:43] [Server thread/INFO]: nm694752 joined the game
-[18:30:16] [Server thread/INFO]: Heroebrien[/26.68.130.165:56692] logged in with entity id 1025 at (-211.88932683208424, 70.0, 533.2297486997071)
-[18:30:16] [Server thread/INFO]: Heroebrien joined the game
-[18:30:49] [Server thread/INFO]: Heroebrien fell from a high place
-[18:30:53] [Server thread/INFO]: <Heroebrien> al skem
-[18:31:08] [Server thread/INFO]: <Heroebrien> exactly when i said my pc spid, discord closed
-[18:31:22] [Server thread/INFO]: Heroebrien fell from a high place
-[18:31:36] [Server thread/INFO]: nm694752 was blown up by Creeper
-[18:32:46] [Server thread/INFO]: nm694752 fell from a high place
-[18:35:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=239, y=15, z=173} fx{x=238, y=15, z=173}
-[18:35:17] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[18:35:17] [Server thread/INFO]: nm694752 left the game
-[18:35:20] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[18:35:20] [Server thread/INFO]: skandarajeev left the game
-[18:35:31] [Server thread/INFO]: skandarajeev[/127.0.0.1:53093] logged in with entity id 3481 at (216.8266106068696, 15.0, 173.68613722510344)
-[18:35:31] [Server thread/INFO]: skandarajeev joined the game
-[18:35:32] [Server thread/INFO]: nm694752[/26.47.66.184:52887] logged in with entity id 3827 at (-308.05397176627116, 64.0, 517.0210660893831)
-[18:35:32] [Server thread/INFO]: nm694752 joined the game
-[18:37:15] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[18:37:15] [Server thread/INFO]: Heroebrien left the game
-[18:37:25] [Server thread/INFO]: Heroebrien[/26.68.130.165:56733] logged in with entity id 4650 at (-375.80968904023354, 64.41999998688698, 513.1179660449686)
-[18:37:25] [Server thread/INFO]: Heroebrien joined the game
-[18:40:44] [Server thread/WARN]: nm694752 moved too quickly! -3.317953766907692,0.45245147807597164,9.585409087583912
-[18:41:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-66, y=19, z=188} fx{x=-65, y=19, z=188}
-[18:42:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=16, z=190} fx{x=-111, y=16, z=190}
-[18:42:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=16, z=190} fx{x=-111, y=16, z=190}
-[18:42:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=16, z=190} fx{x=-111, y=16, z=190}
-[18:42:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=16, z=190} fx{x=-111, y=16, z=190}
-[18:42:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=16, z=190} fx{x=-111, y=16, z=190}
-[18:47:50] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[18:47:50] [Server thread/INFO]: nm694752 left the game
-[18:47:52] [Server thread/INFO]: <Heroebrien> f
-[18:47:53] [Server thread/INFO]: <Heroebrien> f
-[18:47:55] [Server thread/INFO]: <Heroebrien> f
-[18:47:56] [Server thread/INFO]: <Heroebrien> f
-[18:48:00] [Server thread/INFO]: skandarajeev has completed the challenge [Cover Me in Debris]
-[18:48:14] [Server thread/INFO]: nm694752[/26.47.66.184:53582] logged in with entity id 8509 at (-305.5153569377733, 70.0, 534.3000000119209)
-[18:48:14] [Server thread/INFO]: nm694752 joined the game
-[18:48:18] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
-[18:48:19] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[18:48:19] [Server thread/INFO]: nm694752 left the game
-[18:48:33] [Server thread/INFO]: nm694752[/26.47.66.184:53604] logged in with entity id 8552 at (-305.5153569377733, 70.0, 534.3000000119209)
-[18:48:33] [Server thread/INFO]: nm694752 joined the game
-[18:49:39] [Server thread/INFO]: <nm694752> :peppe frog:
-[18:49:39] [Server thread/INFO]: Heroebrien was slain by skandarajeev using [zeeshan]
-[18:51:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-258, y=72, z=505} fx{x=-378, y=62, z=537}
-[18:58:33] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[18:58:33] [Server thread/INFO]: Heroebrien left the game
-[18:58:40] [Server thread/INFO]: Heroebrien[/26.68.130.165:56789] logged in with entity id 12849 at (-340.9733762848838, 70.0, 507.403096226772)
-[18:58:40] [Server thread/INFO]: Heroebrien joined the game
-[18:58:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Potato'/12838, l='ServerLevel[world]', x=-337.39, y=69.94, z=516.34]
-[19:01:19] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[19:01:19] [Server thread/INFO]: nm694752 left the game
-[19:01:32] [Server thread/INFO]: nm694752[/26.47.66.184:54308] logged in with entity id 13920 at (-4505.889389874513, 7.0, 2193.4029539483395)
-[19:01:32] [Server thread/INFO]: nm694752 joined the game
-[19:01:47] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[19:01:47] [Server thread/INFO]: Heroebrien left the game
-[19:01:54] [Server thread/INFO]: Heroebrien[/26.68.130.165:56801] logged in with entity id 14274 at (-354.01548204899717, 66.5625, 543.6999999880791)
-[19:01:54] [Server thread/INFO]: Heroebrien joined the game
-[19:02:10] [Server thread/INFO]: <Heroebrien> serverlord kic him
-[19:02:58] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[19:02:58] [Server thread/INFO]: nm694752 left the game
-[19:03:11] [Server thread/INFO]: nm694752[/26.47.66.184:54413] logged in with entity id 14884 at (-4505.560283348423, 6.0, 2179.3283832660195)
-[19:03:11] [Server thread/INFO]: nm694752 joined the game
-[19:04:32] [Server thread/INFO]: Villager bfj['Leatherworker'/742, l='ServerLevel[world]', x=-254.57, y=71.00, z=500.30] died, message: 'Leatherworker was slain by Zombie'
-[19:04:41] [Server thread/INFO]: Villager bfj['Librarian'/740, l='ServerLevel[world]', x=-254.70, y=71.00, z=495.30] died, message: 'Librarian was slain by Zombie'
-[19:04:59] [Server thread/INFO]: Villager bfj['Librarian'/733, l='ServerLevel[world]', x=-254.70, y=71.00, z=500.30] died, message: 'Librarian was slain by Zombie'
-[19:05:17] [Server thread/INFO]: Villager bfj['Cartographer'/736, l='ServerLevel[world]', x=-240.29, y=71.00, z=504.34] died, message: 'Cartographer was slain by Zombie'
-[19:13:55] [Server thread/WARN]: Heroebrien moved too quickly! -9.89388207727501,-1.1416851727245216,2.1974275894524453
-[19:17:46] [Server thread/WARN]: Heroebrien moved too quickly! -2.4732543158505678,0.07520089011894981,9.83255262138141
-[19:19:47] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[19:19:47] [Server thread/INFO]: Heroebrien left the game
-[19:20:03] [Server thread/INFO]: Heroebrien[/26.68.130.165:56836] logged in with entity id 22228 at (-437.7736453105482, 64.0, 422.51951980564104)
-[19:20:03] [Server thread/INFO]: Heroebrien joined the game
-[19:22:21] [Server thread/INFO]: <Heroebrien> disconet
-[19:22:26] [Server thread/INFO]: <Heroebrien> :frown:
-[19:26:19] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[19:26:19] [Server thread/INFO]: Heroebrien left the game
-[19:26:42] [Server thread/INFO]: Heroebrien[/26.68.130.165:56882] logged in with entity id 25195 at (-298.5, 64.0, 516.5)
-[19:26:42] [Server thread/INFO]: Heroebrien joined the game
-[19:33:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-178, y=68, z=555} fx{x=-178, y=67, z=555}
-[19:33:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-178, y=68, z=555} fx{x=-178, y=67, z=555}
-[19:33:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-178, y=68, z=555} fx{x=-178, y=67, z=555}
-[19:33:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-178, y=68, z=555} fx{x=-178, y=67, z=555}
-[19:33:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=67, z=556} fx{x=-172, y=67, z=557}
-[19:33:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=67, z=556} fx{x=-172, y=67, z=557}
-[19:33:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=67, z=556} fx{x=-172, y=67, z=557}
-[19:33:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-173, y=67, z=556} fx{x=-172, y=67, z=557}
-[19:44:06] [Server thread/INFO]: [skandarajeev: Kicked nm694752: Kicked by an operator]
-[19:44:06] [Server thread/INFO]: nm694752 lost connection: Kicked by an operator
-[19:44:06] [Server thread/INFO]: nm694752 left the game
-[19:44:09] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[19:44:09] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[19:44:09] [Server thread/INFO]: Heroebrien left the game
-[19:44:17] [Server thread/INFO]: Heroebrien[/26.68.130.165:56899] logged in with entity id 29766 at (-315.13917563795866, 64.0, 514.074863474632)
-[19:44:17] [Server thread/INFO]: Heroebrien joined the game
-[19:44:18] [Server thread/INFO]: nm694752[/26.47.66.184:56658] logged in with entity id 29772 at (-33.63030081280804, 43.875, 208.88813147355262)
-[19:44:18] [Server thread/INFO]: nm694752 joined the game
-[19:55:31] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[19:55:31] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[19:55:31] [Server thread/INFO]: Heroebrien left the game
-[19:55:39] [Server thread/INFO]: Heroebrien[/26.68.130.165:56929] logged in with entity id 32444 at (-302.74794178086313, 73.06067961697562, 511.5270671464747)
-[19:55:39] [Server thread/INFO]: Heroebrien joined the game
-[19:56:44] [Server thread/WARN]: nm694752 moved too quickly! 10.088543811393578,-0.24299753675219904,-0.4213122867071206
-[19:58:40] [Server thread/INFO]: <nm694752> i is sed
-[20:05:30] [Server thread/INFO]: <nm694752> aren teach your brother coding
-[20:05:33] [Server thread/INFO]: <nm694752> ruin his laif
-[20:05:36] [Server thread/INFO]: <nm694752> :'(
-[20:05:57] [Server thread/INFO]: <nm694752> be like coding the perfect ~~murder~~ gift
-[20:06:38] [Server thread/WARN]: nm694752 moved too quickly! 8.207388778158872,0.8800391385729398,5.963689452239294
-[20:09:18] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[20:09:18] [Server thread/INFO]: nm694752 left the game
-[20:29:48] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[20:29:48] [Server thread/INFO]: skandarajeev left the game
-[20:29:56] [Server thread/INFO]: skandarajeev[/127.0.0.1:59460] logged in with entity id 38963 at (-56.31451665640829, 91.92159999847412, 211.7734256885014)
-[20:29:56] [Server thread/INFO]: skandarajeev joined the game
-[20:31:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-399, y=71, z=1685} fx{x=-399, y=71, z=1684}
-[20:31:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-399, y=71, z=1685} fx{x=-399, y=71, z=1684}
-[20:31:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-399, y=71, z=1685} fx{x=-399, y=71, z=1684}
-[20:37:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-157, y=68, z=528} fx{x=-157, y=67, z=527}
-[20:45:46] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[20:45:46] [Server thread/INFO]: Heroebrien left the game
-[20:49:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-196, y=68, z=312} fx{x=-195, y=68, z=312}
-[20:49:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-196, y=68, z=312} fx{x=-195, y=68, z=312}
-[20:49:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-195, y=66, z=312} fx{x=-195, y=68, z=312}
-[20:52:12] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[20:52:12] [Server thread/INFO]: skandarajeev left the game
-[20:52:17] [Server thread/INFO]: Stopping the server
-[20:52:17] [Server thread/INFO]: Stopping server
-[20:52:17] [Server thread/INFO]: Saving players
-[20:52:17] [Server thread/INFO]: Saving worlds
-[20:52:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:52:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:52:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:42:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:42:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:42:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:23] [main/INFO]: Reloading ResourceManager: Default
+[15:42:24] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:42:24] [Worker-Main-6/INFO]: Loaded 927 advancements
+[15:42:25] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:42:25] [Server thread/INFO]: Loading properties
+[15:42:25] [Server thread/INFO]: Default game type: SURVIVAL
+[15:42:25] [Server thread/INFO]: Generating keypair
+[15:42:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:42:26] [Server thread/INFO]: Using default channel type
+[15:42:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:42:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:42:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:42:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:42:29] [Server thread/INFO]: Preparing level "world"
+[15:42:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:42:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:30] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:31] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:31] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:32] [Server thread/INFO]: Time elapsed: 3186 ms
+[15:42:32] [Server thread/INFO]: Done (3.478s)! For help, type "help"
+[15:43:41] [Server thread/INFO]: skandarajeev[/127.0.0.1:64633] logged in with entity id 88 at (-315.73532546915044, 128.0, 115.63632878730057)
+[15:43:41] [Server thread/INFO]: skandarajeev joined the game
+[15:57:01] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:57:01] [Server thread/INFO]: skandarajeev left the game
+[15:57:07] [Server thread/INFO]: Stopping the server
+[15:57:07] [Server thread/INFO]: Stopping server
+[15:57:07] [Server thread/INFO]: Saving players
+[15:57:07] [Server thread/INFO]: Saving worlds
+[15:57:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:57:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:57:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:57:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-03-08 14:48:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 14:21:03 +0530"
@@ -729,6 +735,8 @@
       "minecraft:magma_cube": "2021-03-01 14:34:50 +0530",
       "minecraft:spider": "2021-01-09 14:27:09 +0530",
       "minecraft:creeper": "2021-02-22 15:44:48 +0530",
+      "minecraft:phantom": "2021-03-09 15:05:05 +0530",
+      "minecraft:zombified_piglin": "2021-03-08 15:12:00 +0530",
       "minecraft:wither_skeleton": "2021-01-13 13:50:41 +0530",
       "minecraft:husk": "2021-01-18 13:48:10 +0530",
       "minecraft:silverfish": "2021-01-10 13:59:15 +0530",
@@ -749,6 +757,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-02-03 20:27:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-03-09 14:24:37 +0530"
     },
     "done": true
   },
@@ -1085,6 +1099,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-01-11 14:05:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-10 14:55:53 +0530"
     },
     "done": true
   },
@@ -1539,6 +1559,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2021-02-01 14:56:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-03-10 13:43:47 +0530"
     },
     "done": true
   },
@@ -2042,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-03-09 14:24:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:14:13 +0530"
@@ -2051,6 +2083,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-31 14:41:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-03-09 14:24:37 +0530"
     },
     "done": true
   },
@@ -2081,6 +2119,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2021-01-09 14:00:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-10 14:55:53 +0530"
     },
     "done": true
   },
@@ -2635,6 +2679,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:14:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-03-10 13:20:06 +0530"
     },
     "done": true
   },

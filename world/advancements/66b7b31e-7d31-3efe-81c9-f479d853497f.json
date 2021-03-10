@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-03-08 13:31:30 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-12-13 20:09:07 +0530"
@@ -815,6 +821,7 @@
       "minecraft:enderman": "2020-12-15 22:10:26 +0530",
       "minecraft:silverfish": "2021-01-10 13:49:27 +0530",
       "minecraft:stray": "2021-01-16 14:48:03 +0530",
+      "minecraft:endermite": "2021-03-08 13:59:47 +0530",
       "minecraft:zombie": "2020-12-13 18:45:57 +0530",
       "minecraft:drowned": "2020-12-26 13:32:14 +0530",
       "minecraft:zombie_villager": "2020-12-13 19:43:44 +0530"
@@ -2402,6 +2409,7 @@
       "apple": "2020-12-24 18:43:03 +0530",
       "spider_eye": "2020-12-20 13:31:38 +0530",
       "potato": "2020-12-16 13:13:26 +0530",
+      "poisonous_potato": "2021-03-08 15:17:28 +0530",
       "pumpkin_pie": "2020-12-28 15:44:15 +0530",
       "bread": "2020-12-13 18:24:45 +0530",
       "golden_apple": "2021-01-02 15:36:56 +0530",
