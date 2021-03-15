@@ -1242,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2021-03-13 20:05:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-02-04 14:20:49 +0530"
@@ -1359,6 +1365,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-12-24 19:37:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-03-13 20:05:39 +0530"
     },
     "done": true
   },
@@ -1647,7 +1659,9 @@
       "minecraft:desert": "2020-12-13 20:23:23 +0530",
       "minecraft:frozen_river": "2021-01-16 14:34:23 +0530",
       "minecraft:deep_frozen_ocean": "2021-02-27 16:11:30 +0530",
+      "minecraft:jungle": "2021-03-12 15:29:46 +0530",
       "minecraft:birch_forest": "2020-12-16 19:56:40 +0530",
+      "minecraft:jungle_hills": "2021-03-13 19:59:41 +0530",
       "minecraft:snowy_beach": "2021-02-04 13:54:53 +0530",
       "minecraft:deep_lukewarm_ocean": "2021-02-04 13:53:16 +0530",
       "minecraft:badlands": "2021-02-04 14:24:24 +0530",
@@ -1953,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-03-13 20:05:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2020-12-28 14:08:29 +0530"
@@ -2034,6 +2054,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-12-13 18:31:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-03-13 20:05:38 +0530"
     },
     "done": true
   },

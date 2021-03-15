@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-03-15 14:03:20 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-05 14:45:34 +0530"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-12 14:38:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-03-08 14:07:15 +0530"
@@ -439,6 +451,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-03-13 21:23:28 +0530",
       "sweet_berries": "2021-03-04 13:55:28 +0530",
       "beef": "2021-03-01 13:54:30 +0530",
       "baked_potato": "2021-03-08 13:47:55 +0530",
@@ -456,6 +469,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-03-05 13:33:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-03-12 15:08:54 +0530"
     },
     "done": true
   },
@@ -720,6 +739,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2021-03-04 14:48:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-03-12 15:30:05 +0530"
     },
     "done": true
   },
@@ -1062,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-03-15 14:03:20 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-01 14:01:03 +0530"
@@ -1089,6 +1120,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-03-01 13:55:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-03-12 15:08:54 +0530"
     },
     "done": true
   },
@@ -1326,6 +1363,18 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-12 14:38:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-03-12 15:59:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-01 14:01:03 +0530"
@@ -1383,6 +1432,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-09 13:18:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-03-12 16:30:04 +0530"
     },
     "done": true
   },
@@ -1777,6 +1832,8 @@
       "minecraft:desert_hills": "2021-03-08 14:04:27 +0530",
       "minecraft:snowy_tundra": "2021-03-01 14:23:19 +0530",
       "minecraft:desert": "2021-03-01 14:00:57 +0530",
+      "minecraft:jungle": "2021-03-12 15:41:29 +0530",
+      "minecraft:beach": "2021-03-12 15:27:08 +0530",
       "minecraft:river": "2021-03-01 13:15:24 +0530",
       "minecraft:wooded_hills": "2021-03-01 13:12:28 +0530",
       "minecraft:savanna": "2021-03-04 14:47:22 +0530",
@@ -1877,6 +1934,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-05 14:45:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-03-15 14:02:04 +0530"
     },
     "done": true
   },
@@ -2036,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-03-12 15:59:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2021-03-01 13:13:11 +0530",
@@ -2149,6 +2218,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2021-03-01 13:58:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-03-15 14:03:20 +0530"
     },
     "done": true
   },
