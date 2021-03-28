@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-17 16:04:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-13 19:26:22 +0530"
@@ -818,6 +824,7 @@
       "minecraft:wither_skeleton": "2021-01-02 15:43:24 +0530",
       "minecraft:husk": "2020-12-13 19:44:02 +0530",
       "minecraft:cave_spider": "2021-02-14 14:41:23 +0530",
+      "minecraft:piglin": "2021-03-20 20:06:20 +0530",
       "minecraft:enderman": "2020-12-15 22:10:26 +0530",
       "minecraft:silverfish": "2021-01-10 13:49:27 +0530",
       "minecraft:stray": "2021-01-16 14:48:03 +0530",
@@ -1158,6 +1165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-20 20:27:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-12-26 14:36:02 +0530"
@@ -1185,6 +1198,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-12-16 13:39:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-15 16:02:37 +0530"
     },
     "done": true
   },
@@ -1653,6 +1672,7 @@
       "minecraft:badlands_plateau": "2021-02-04 14:25:30 +0530",
       "minecraft:taiga": "2020-12-19 16:58:44 +0530",
       "minecraft:desert_hills": "2020-12-16 20:19:24 +0530",
+      "minecraft:giant_tree_taiga": "2021-03-26 15:11:32 +0530",
       "minecraft:deep_cold_ocean": "2021-02-08 13:52:05 +0530",
       "minecraft:snowy_tundra": "2021-01-16 14:33:12 +0530",
       "minecraft:taiga_hills": "2020-12-19 16:58:51 +0530",
@@ -1675,6 +1695,7 @@
       "minecraft:wooded_mountains": "2020-12-25 15:30:00 +0530",
       "minecraft:wooded_hills": "2020-12-13 15:46:39 +0530",
       "minecraft:stone_shore": "2021-01-16 14:42:23 +0530",
+      "minecraft:giant_tree_taiga_hills": "2021-03-26 15:11:18 +0530",
       "minecraft:wooded_badlands_plateau": "2021-02-08 14:36:05 +0530",
       "minecraft:swamp": "2020-12-19 17:03:17 +0530",
       "minecraft:snowy_taiga_hills": "2021-02-27 16:30:00 +0530",
@@ -1949,11 +1970,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-24 16:20:50 +0530",
       "minecraft:soul_sand_valley": "2020-12-16 20:53:26 +0530",
       "minecraft:nether_wastes": "2021-01-01 15:27:45 +0530",
-      "minecraft:basalt_deltas": "2021-01-02 15:46:05 +0530"
+      "minecraft:basalt_deltas": "2021-01-02 15:46:05 +0530",
+      "minecraft:warped_forest": "2021-03-24 16:34:18 +0530"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2339,6 +2362,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-17 14:20:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2021-02-25 13:10:03 +0530"
@@ -2435,6 +2464,7 @@
       "apple": "2020-12-24 18:43:03 +0530",
       "spider_eye": "2020-12-20 13:31:38 +0530",
       "potato": "2020-12-16 13:13:26 +0530",
+      "rabbit": "2021-03-15 15:45:04 +0530",
       "poisonous_potato": "2021-03-08 15:17:28 +0530",
       "pumpkin_pie": "2020-12-28 15:44:15 +0530",
       "bread": "2020-12-13 18:24:45 +0530",
@@ -2503,6 +2533,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2021-02-27 16:11:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-03-24 16:05:57 +0530"
     },
     "done": true
   },
