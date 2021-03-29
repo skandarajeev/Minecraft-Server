@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-03-29 14:01:46 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-05 14:45:34 +0530"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-03-29 13:59:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-22 14:50:42 +0530"
@@ -1023,6 +1035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-03-29 13:59:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2021-03-27 16:41:00 +0530"
@@ -1266,6 +1284,7 @@
       "minecraft:birch_forest_hills": "2021-03-27 16:01:57 +0530",
       "minecraft:wooded_hills": "2021-03-01 13:12:28 +0530",
       "minecraft:giant_tree_taiga_hills": "2021-03-26 15:11:07 +0530",
+      "minecraft:swamp": "2021-03-29 13:12:11 +0530",
       "minecraft:savanna": "2021-03-04 14:47:22 +0530",
       "minecraft:plains": "2021-03-01 13:13:00 +0530"
     },
@@ -1376,6 +1395,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2021-03-27 16:05:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-03-29 14:10:53 +0530"
     },
     "done": true
   },
@@ -1683,6 +1708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-03-29 14:27:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-01 14:01:03 +0530"
@@ -1914,6 +1945,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-01 13:41:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-03-29 14:27:29 +0530"
     },
     "done": true
   },
@@ -2523,6 +2560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-03-29 14:27:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-05 14:45:34 +0530"
@@ -2562,6 +2605,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-17 14:52:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-03-29 13:59:54 +0530"
     },
     "done": true
   },
