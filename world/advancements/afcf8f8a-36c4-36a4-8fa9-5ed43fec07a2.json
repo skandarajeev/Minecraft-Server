@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-03-30 13:43:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-01-09 14:26:43 +0530"
@@ -1871,6 +1877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2021-03-31 13:04:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-03-27 16:58:19 +0530"
@@ -2325,6 +2337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-04-01 16:06:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2021-03-10 14:55:53 +0530"
@@ -2426,6 +2444,7 @@
       "baked_potato": "2021-03-06 15:07:12 +0530",
       "porkchop": "2021-02-26 16:21:01 +0530",
       "apple": "2021-02-27 13:57:46 +0530",
+      "spider_eye": "2021-04-06 00:12:44 +0530",
       "potato": "2021-01-14 15:27:04 +0530",
       "poisonous_potato": "2021-03-05 14:44:03 +0530",
       "pumpkin_pie": "2021-02-27 15:49:00 +0530",
@@ -4087,6 +4106,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:14:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-04-01 16:06:27 +0530"
     },
     "done": true
   },
