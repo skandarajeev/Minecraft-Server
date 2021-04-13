@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-04-11 13:58:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-03-31 13:44:09 +0530"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2021-03-27 15:12:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-04-12 13:46:42 +0530"
     },
     "done": true
   },
@@ -987,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-04-12 13:46:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-05 14:45:34 +0530"
@@ -1293,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2021-04-11 13:58:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-03-19 15:06:12 +0530",
@@ -1577,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-04-11 13:58:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2021-03-27 15:12:12 +0530"
@@ -1604,6 +1634,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-03-05 15:05:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2021-04-11 13:58:47 +0530"
     },
     "done": true
   },
@@ -1886,6 +1922,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-03-13 21:23:28 +0530",
+      "cooked_mutton": "2021-04-12 13:18:22 +0530",
       "sweet_berries": "2021-03-04 13:55:28 +0530",
       "beef": "2021-03-01 13:54:30 +0530",
       "baked_potato": "2021-03-08 13:47:55 +0530",
