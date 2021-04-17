@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-04-13 17:50:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2021-03-31 17:16:00 +0530"
@@ -89,6 +95,7 @@
       "minecraft:savanna_plateau": "2021-03-31 16:44:39 +0530",
       "minecraft:dark_forest": "2021-03-31 16:55:00 +0530",
       "minecraft:river": "2021-03-31 16:45:48 +0530",
+      "minecraft:wooded_mountains": "2021-04-13 17:49:19 +0530",
       "minecraft:wooded_hills": "2021-03-31 16:43:40 +0530",
       "minecraft:swamp": "2021-03-31 16:50:01 +0530",
       "minecraft:savanna": "2021-03-31 16:45:49 +0530",
@@ -105,6 +112,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-04-10 15:32:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-04-13 17:48:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-04-14 13:54:12 +0530"
     },
     "done": true
   },
@@ -204,6 +223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-04-15 13:11:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-03-31 16:54:02 +0530"
@@ -255,6 +280,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-03-31 17:04:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-04-13 17:50:39 +0530"
     },
     "done": true
   },
@@ -333,6 +364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-04-15 13:11:26 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-03-31 16:54:02 +0530"
@@ -351,6 +388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2021-04-15 13:10:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-03-31 17:27:00 +0530"
@@ -360,6 +403,24 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-03-31 16:48:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-04-13 17:50:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-04-15 13:10:18 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-04-14 13:54:12 +0530"
     },
     "done": true
   },

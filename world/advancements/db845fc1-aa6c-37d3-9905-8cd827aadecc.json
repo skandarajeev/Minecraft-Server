@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-04-15 13:08:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-02-23 14:49:04 +0530"
@@ -1096,6 +1102,7 @@
       "minecraft:lukewarm_ocean": "2021-03-26 15:07:09 +0530",
       "minecraft:wooded_hills": "2020-12-24 16:24:02 +0530",
       "minecraft:giant_tree_taiga_hills": "2021-03-26 15:16:09 +0530",
+      "minecraft:swamp": "2021-04-16 14:25:47 +0530",
       "minecraft:savanna": "2021-02-17 17:15:10 +0530",
       "minecraft:plains": "2021-01-27 13:31:36 +0530"
     },
@@ -1212,6 +1219,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-01-31 13:49:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2021-04-15 13:08:35 +0530"
     },
     "done": true
   },
@@ -1507,6 +1520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-04-16 14:07:14 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-04-08 14:20:30 +0530"
@@ -1573,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-04-16 14:26:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-01-29 14:21:39 +0530"
@@ -1591,6 +1616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2021-04-16 14:25:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-01-29 13:47:05 +0530",
@@ -1599,6 +1630,7 @@
       "cooked_beef": "2021-01-29 15:35:00 +0530",
       "baked_potato": "2021-03-26 14:14:24 +0530",
       "potato": "2021-01-29 15:34:39 +0530",
+      "cooked_cod": "2021-04-15 13:14:26 +0530",
       "pumpkin_pie": "2021-02-25 09:35:55 +0530",
       "bread": "2021-03-26 13:55:43 +0530",
       "melon_slice": "2021-03-26 14:31:02 +0530",
@@ -1952,6 +1984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-04-16 14:26:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2021-01-31 14:53:14 +0530"
@@ -2027,6 +2065,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 15:27:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-04-15 14:35:11 +0530"
     },
     "done": true
   },
@@ -2177,6 +2221,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2021-01-31 14:13:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-04-16 14:25:53 +0530"
     },
     "done": true
   },

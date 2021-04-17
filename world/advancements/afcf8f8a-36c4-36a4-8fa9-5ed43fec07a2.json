@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2021-04-17 14:15:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-10 14:38:57 +0530"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-04-17 15:05:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-01-09 14:27:03 +0530"
@@ -824,6 +836,7 @@
       "minecraft:zombified_piglin": "2021-03-08 15:12:00 +0530",
       "minecraft:wither_skeleton": "2021-01-13 13:50:41 +0530",
       "minecraft:husk": "2021-01-18 13:48:10 +0530",
+      "minecraft:ender_dragon": "2021-04-17 15:05:32 +0530",
       "minecraft:silverfish": "2021-01-10 13:59:15 +0530",
       "minecraft:enderman": "2021-01-11 14:09:48 +0530",
       "minecraft:stray": "2021-01-16 14:51:14 +0530",
@@ -1166,6 +1179,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-02-08 14:02:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-04-17 14:57:12 +0530"
     },
     "done": true
   },
@@ -2001,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-04-17 14:15:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-01-09 13:59:33 +0530"
@@ -2361,6 +2386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2021-04-17 12:54:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-01-09 13:11:24 +0530"
@@ -2466,6 +2497,7 @@
       "rotten_flesh": "2021-03-27 16:35:38 +0530",
       "salmon": "2021-02-08 13:57:26 +0530",
       "melon_slice": "2021-02-20 16:27:38 +0530",
+      "golden_carrot": "2021-04-17 14:08:07 +0530",
       "cooked_rabbit": "2021-03-26 14:39:15 +0530",
       "cooked_chicken": "2021-01-29 15:36:42 +0530",
       "carrot": "2021-01-09 13:19:44 +0530"
@@ -3855,6 +3887,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-04-17 14:36:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-09 15:06:08 +0530"
@@ -3948,6 +3986,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:14:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-04-17 14:57:12 +0530"
     },
     "done": true
   },
