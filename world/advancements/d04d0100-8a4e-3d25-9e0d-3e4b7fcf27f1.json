@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-04-21 15:06:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-04-18 14:06:10 +0530"
@@ -819,12 +825,14 @@
       "minecraft:magma_cube": "2021-03-01 14:34:35 +0530",
       "minecraft:spider": "2021-01-09 14:27:02 +0530",
       "minecraft:creeper": "2021-03-04 13:54:21 +0530",
+      "minecraft:slime": "2021-04-25 13:56:46 +0530",
       "minecraft:phantom": "2021-03-04 14:28:03 +0530",
       "minecraft:zombified_piglin": "2021-03-30 14:43:54 +0530",
       "minecraft:witch": "2021-03-05 14:25:08 +0530",
       "minecraft:wither_skeleton": "2021-03-01 14:21:20 +0530",
       "minecraft:husk": "2021-01-09 14:17:04 +0530",
       "minecraft:shulker": "2021-04-18 14:01:41 +0530",
+      "minecraft:cave_spider": "2021-04-30 16:17:04 +0530",
       "minecraft:piglin": "2021-04-14 14:10:57 +0530",
       "minecraft:silverfish": "2021-01-10 13:51:33 +0530",
       "minecraft:enderman": "2021-01-11 14:09:21 +0530",
@@ -1033,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-04-30 16:27:29 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-01-10 13:39:29 +0530"
@@ -1132,6 +1146,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-03-01 13:25:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-04-20 18:24:36 +0530"
     },
     "done": true
   },
@@ -1613,6 +1633,7 @@
       "minecraft:taiga": "2021-01-11 13:45:10 +0530",
       "minecraft:desert_hills": "2021-01-09 13:48:33 +0530",
       "minecraft:giant_tree_taiga": "2021-03-26 15:11:04 +0530",
+      "minecraft:deep_cold_ocean": "2021-04-25 14:32:22 +0530",
       "minecraft:snowy_tundra": "2021-01-16 14:33:45 +0530",
       "minecraft:taiga_hills": "2021-01-10 13:41:51 +0530",
       "minecraft:desert": "2021-01-09 13:48:03 +0530",
@@ -2124,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-04-24 14:48:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 14:25:46 +0530"
@@ -2193,6 +2220,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:03:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-20 18:24:38 +0530"
     },
     "done": true
   },
@@ -2350,6 +2383,8 @@
       "mutton": "2021-01-16 13:23:58 +0530",
       "bread": "2021-02-28 18:40:08 +0530",
       "rotten_flesh": "2021-03-22 14:14:29 +0530",
+      "salmon": "2021-04-27 16:17:27 +0530",
+      "dried_kelp": "2021-04-28 15:19:25 +0530",
       "melon_slice": "2021-02-20 16:36:55 +0530",
       "golden_carrot": "2021-03-26 14:25:53 +0530",
       "cooked_rabbit": "2021-01-13 13:32:49 +0530",
@@ -2520,6 +2555,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2021-01-09 15:03:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2021-04-30 16:09:56 +0530"
     },
     "done": true
   },
@@ -3179,6 +3220,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-20 18:24:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-20 18:24:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-09 13:55:49 +0530"
@@ -3317,6 +3370,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-04-25 14:43:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-09 15:03:24 +0530"
@@ -3350,6 +3409,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-04-14 14:50:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-04-30 16:27:29 +0530"
     },
     "done": true
   },
@@ -3695,6 +3760,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-05-04 14:21:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-01-15 13:44:07 +0530"
@@ -3710,6 +3781,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-24 14:51:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-04-20 18:24:38 +0530"
     },
     "done": true
   },
@@ -3776,6 +3853,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2021-04-13 14:27:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-20 18:24:38 +0530"
     },
     "done": true
   },

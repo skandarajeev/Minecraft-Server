@@ -843,6 +843,7 @@
       "minecraft:wither_skeleton": "2021-01-13 13:50:41 +0530",
       "minecraft:husk": "2021-01-18 13:48:10 +0530",
       "minecraft:ender_dragon": "2021-04-17 15:05:32 +0530",
+      "minecraft:cave_spider": "2021-05-02 18:25:06 +0530",
       "minecraft:silverfish": "2021-01-10 13:59:15 +0530",
       "minecraft:enderman": "2021-01-11 14:09:48 +0530",
       "minecraft:stray": "2021-01-16 14:51:14 +0530",
@@ -1908,6 +1909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-05-04 15:31:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-01-09 14:13:24 +0530"
@@ -2338,6 +2345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-04-28 17:13:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-31 14:41:36 +0530"
@@ -2645,6 +2658,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-10 14:21:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-04-28 17:13:45 +0530"
     },
     "done": true
   },
@@ -3401,6 +3420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-04-28 17:13:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-10 14:38:57 +0530"
@@ -3482,6 +3507,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-01-09 13:25:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-04-26 15:57:40 +0530"
     },
     "done": true
   },

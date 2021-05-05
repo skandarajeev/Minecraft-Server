@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-04-22 13:27:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-29 14:59:04 +0530"
@@ -356,6 +362,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-29 14:11:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-04-22 13:32:55 +0530"
     },
     "done": true
   },
@@ -590,6 +602,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-04-23 14:16:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-31 13:02:40 +0530"
@@ -812,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-04-22 13:51:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-04-08 14:20:30 +0530"
@@ -887,6 +911,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-29 14:11:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-04-22 13:32:55 +0530"
     },
     "done": true
   },
@@ -1086,6 +1116,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2021-02-23 14:48:47 +0530",
       "minecraft:forest": "2021-02-17 16:07:40 +0530",
+      "minecraft:mountains": "2021-04-28 17:16:40 +0530",
       "minecraft:taiga": "2021-01-31 15:17:01 +0530",
       "minecraft:desert_hills": "2021-03-26 15:07:31 +0530",
       "minecraft:giant_tree_taiga": "2021-03-26 15:16:06 +0530",
@@ -1100,6 +1131,8 @@
       "minecraft:dark_forest": "2021-03-26 15:38:24 +0530",
       "minecraft:river": "2021-01-27 13:33:48 +0530",
       "minecraft:lukewarm_ocean": "2021-03-26 15:07:09 +0530",
+      "minecraft:snowy_taiga": "2021-04-28 16:54:59 +0530",
+      "minecraft:wooded_mountains": "2021-04-28 17:20:47 +0530",
       "minecraft:wooded_hills": "2020-12-24 16:24:02 +0530",
       "minecraft:giant_tree_taiga_hills": "2021-03-26 15:16:09 +0530",
       "minecraft:swamp": "2021-04-16 14:25:47 +0530",
@@ -1403,6 +1436,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-29 14:11:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-04-22 13:32:55 +0530"
     },
     "done": true
   },
@@ -2581,6 +2620,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-01-27 13:33:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-04-26 14:35:29 +0530"
     },
     "done": true
   },
