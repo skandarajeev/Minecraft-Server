@@ -587,6 +587,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2021-05-08 14:00:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2021-02-22 15:09:11 +0530"
@@ -788,6 +800,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-09 15:03:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
     },
     "done": true
   },
@@ -1125,6 +1143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-04-13 14:27:28 +0530"
@@ -1242,6 +1266,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-01-09 14:26:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2021-05-07 14:02:34 +0530"
     },
     "done": true
   },
@@ -1368,6 +1398,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2021-03-24 15:42:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-05-07 14:02:34 +0530"
     },
     "done": true
   },
@@ -1539,6 +1575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-05-06 14:20:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:03:17 +0530"
@@ -1560,6 +1602,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2021-01-09 13:51:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },
@@ -1641,6 +1689,7 @@
       "minecraft:jungle": "2021-03-13 19:54:56 +0530",
       "minecraft:birch_forest": "2021-01-15 14:00:46 +0530",
       "minecraft:jungle_hills": "2021-03-13 20:00:02 +0530",
+      "minecraft:warm_ocean": "2021-05-07 13:55:53 +0530",
       "minecraft:deep_lukewarm_ocean": "2021-01-09 14:33:20 +0530",
       "minecraft:badlands": "2021-02-05 14:20:44 +0530",
       "minecraft:savanna_plateau": "2021-01-09 13:47:19 +0530",
@@ -2374,6 +2423,7 @@
       "cooked_mutton": "2021-01-09 14:48:17 +0530",
       "sweet_berries": "2021-03-24 15:29:34 +0530",
       "cooked_beef": "2021-01-09 13:59:39 +0530",
+      "chorus_fruit": "2021-05-06 14:15:11 +0530",
       "beef": "2021-01-16 13:27:54 +0530",
       "baked_potato": "2021-03-08 14:37:38 +0530",
       "porkchop": "2021-01-16 13:37:38 +0530",
@@ -2383,6 +2433,7 @@
       "mutton": "2021-01-16 13:23:58 +0530",
       "bread": "2021-02-28 18:40:08 +0530",
       "rotten_flesh": "2021-03-22 14:14:29 +0530",
+      "suspicious_stew": "2021-05-07 14:33:34 +0530",
       "salmon": "2021-04-27 16:17:27 +0530",
       "dried_kelp": "2021-04-28 15:19:25 +0530",
       "melon_slice": "2021-02-20 16:36:55 +0530",
@@ -2405,6 +2456,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-01-09 14:07:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
     },
     "done": true
   },
@@ -2435,6 +2492,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:57:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-05-06 14:20:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
     },
     "done": true
   },
@@ -2767,6 +2836,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-01-09 13:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },
@@ -3208,6 +3283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-01-10 14:13:21 +0530"
@@ -3268,6 +3349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-01-09 13:55:49 +0530"
@@ -3283,6 +3370,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 13:32:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },
@@ -3436,6 +3529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2021-05-07 14:02:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-06 13:39:47 +0530"
@@ -3469,6 +3568,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-08 14:07:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },
@@ -3595,6 +3700,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-03-01 14:21:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
     },
     "done": true
   },
@@ -3784,6 +3895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2021-04-20 18:24:38 +0530"
@@ -3838,6 +3955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-01-16 14:31:08 +0530"
@@ -3871,6 +3994,18 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-01-20 13:30:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-05-07 13:44:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-07 14:02:45 +0530"
     },
     "done": true
   },
@@ -3913,6 +4048,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-02-24 14:51:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },
@@ -4027,6 +4168,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2021-02-24 14:26:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:20:07 +0530"
     },
     "done": true
   },

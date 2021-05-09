@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-05-06 14:15:01 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:59:33 +0530"
@@ -578,6 +584,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-18 14:04:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
@@ -1621,6 +1633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-05-06 14:28:35 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-09 15:14:13 +0530"
@@ -1642,6 +1660,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-01-09 13:20:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
@@ -1930,6 +1954,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-03-27 16:58:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-05-07 15:07:45 +0530"
     },
     "done": true
   },
@@ -2502,6 +2532,7 @@
       "cooked_mutton": "2021-01-13 14:09:04 +0530",
       "sweet_berries": "2021-01-16 13:26:23 +0530",
       "cooked_beef": "2021-01-10 14:01:06 +0530",
+      "chorus_fruit": "2021-05-06 14:15:06 +0530",
       "beef": "2021-03-05 14:55:08 +0530",
       "baked_potato": "2021-03-06 15:07:12 +0530",
       "porkchop": "2021-02-26 16:21:01 +0530",
@@ -2568,6 +2599,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-01-09 13:59:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-05-06 14:28:35 +0530"
     },
     "done": true
   },
@@ -2928,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2021-01-09 14:21:39 +0530"
@@ -3051,6 +3094,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-01-11 13:57:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2021-05-07 15:08:31 +0530"
     },
     "done": true
   },
@@ -3240,6 +3289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-05-07 14:45:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-01-09 13:11:24 +0530"
@@ -3360,6 +3415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-01-09 14:13:24 +0530"
@@ -3414,6 +3475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-01-09 14:01:31 +0530"
@@ -3429,6 +3496,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-10 14:38:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
@@ -3621,6 +3694,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2021-03-19 15:07:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
@@ -4050,6 +4129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-05-07 14:39:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-09 14:26:10 +0530"
@@ -4083,6 +4168,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-01-09 15:06:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
@@ -4205,6 +4296,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2021-04-01 16:06:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-05-06 14:28:04 +0530"
     },
     "done": true
   },
