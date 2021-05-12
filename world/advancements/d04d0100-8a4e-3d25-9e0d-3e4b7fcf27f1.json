@@ -1305,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-05-11 15:05:06 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-06 13:32:21 +0530"
@@ -3013,6 +3019,12 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-05-09 13:52:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2021-02-08 13:34:33 +0530"
@@ -3160,6 +3172,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2021-01-16 14:52:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-05-12 14:37:41 +0530"
     },
     "done": true
   },
@@ -3709,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-05-11 15:00:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-01-09 13:53:51 +0530"
@@ -4084,6 +4108,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-04-18 14:04:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-05-11 15:00:39 +0530"
     },
     "done": true
   },

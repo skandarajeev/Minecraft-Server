@@ -1,45 +1,254 @@
-[15:57:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:57:52] [main/INFO]: Reloading ResourceManager: Default
-[15:57:53] [Worker-Main-9/INFO]: Loaded 7 recipes
-[15:57:53] [Worker-Main-9/INFO]: Loaded 927 advancements
-[15:57:54] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[15:57:54] [Server thread/INFO]: Loading properties
-[15:57:54] [Server thread/INFO]: Default game type: SURVIVAL
-[15:57:54] [Server thread/INFO]: Generating keypair
-[15:57:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:57:55] [Server thread/INFO]: Using default channel type
-[15:57:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:57:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:57:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:57:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:57:55] [Server thread/INFO]: Preparing level "world"
-[15:57:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:57:57] [Server thread/INFO]: Preparing spawn area: 0%
-[15:57:57] [Server thread/INFO]: Preparing spawn area: 0%
-[15:57:57] [Server thread/INFO]: Preparing spawn area: 0%
-[15:57:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:57:57] [Server thread/INFO]: Preparing spawn area: 37%
-[15:57:58] [Server thread/INFO]: Time elapsed: 2677 ms
-[15:57:58] [Server thread/INFO]: Done (2.774s)! For help, type "help"
-[15:58:00] [Server thread/INFO]: skandarajeev[/127.0.0.1:49196] logged in with entity id 102 at (-497.2216051202607, 67.0, 1711.4229314786935)
-[15:58:00] [Server thread/INFO]: skandarajeev joined the game
-[15:58:16] [Server thread/INFO]: <skandarajeev> skandarajeev
-[15:59:12] [Server thread/INFO]: [skandarajeev: Set the weather to rain]
-[16:03:37] [Server thread/INFO]: [skandarajeev: Stopping the server]
-[16:03:37] [Server thread/INFO]: Stopping server
-[16:03:37] [Server thread/INFO]: Saving players
-[16:03:37] [Server thread/INFO]: Saving worlds
-[16:03:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:03:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:15:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:33] [main/INFO]: Reloading ResourceManager: Default
+[15:15:34] [Worker-Main-9/INFO]: Loaded 7 recipes
+[15:15:35] [Worker-Main-9/INFO]: Loaded 927 advancements
+[15:15:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:15:37] [Server thread/INFO]: Loading properties
+[15:15:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:37] [Server thread/INFO]: Generating keypair
+[15:15:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:37] [Server thread/INFO]: Using default channel type
+[15:15:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:15:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:15:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:15:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:15:38] [Server thread/INFO]: Preparing level "world"
+[15:15:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:41] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:41] [Server thread/INFO]: Preparing spawn area: 83%
+[15:15:42] [Server thread/INFO]: Time elapsed: 3259 ms
+[15:15:42] [Server thread/INFO]: Done (3.392s)! For help, type "help"
+[15:16:54] [Server thread/INFO]: skandarajeev[/127.0.0.1:51728] logged in with entity id 101 at (-485.5260327734342, 63.0, 1667.0733686769602)
+[15:16:54] [Server thread/INFO]: skandarajeev joined the game
+[15:19:01] [Server thread/INFO]: PrathamPM[/26.240.55.73:54834] logged in with entity id 738 at (-15942.775393411323, 100.0, 40994.30911997872)
+[15:19:01] [Server thread/INFO]: PrathamPM joined the game
+[15:23:28] [Server thread/INFO]: Heroebrien[/26.68.130.165:52952] logged in with entity id 2075 at (-516.2547377805427, 31.0, 1654.049240790877)
+[15:23:28] [Server thread/INFO]: Heroebrien joined the game
+[15:23:49] [Server thread/INFO]: <Heroebrien> sup
+[15:24:04] [Server thread/INFO]: <PrathamPM> i want to come back
+[15:24:20] [Server thread/INFO]: <PrathamPM> no one knows co
+[15:24:36] [Server thread/INFO]: <Heroebrien> skanda im in a cave under your home
+[15:24:39] [Server thread/INFO]: <Heroebrien> help
+[15:25:07] [Server thread/INFO]: <Heroebrien> yay
+[15:25:28] [Server thread/INFO]: <Heroebrien> all skem
+[15:25:57] [Server thread/INFO]: <Heroebrien> woah the gen is good
+[15:26:00] [Server thread/INFO]: <Heroebrien> is it workign
+[15:26:14] [Server thread/INFO]: <skandarajeev> not done yet
+[15:26:32] [Server thread/INFO]: <Heroebrien> tell timestamp of video
+[15:26:36] [Server thread/INFO]: <Heroebrien> what to do next
+[15:26:43] [Server thread/INFO]: <skandarajeev> we just need to put trap dore
+[15:26:44] [Server thread/INFO]: madhav1806[/26.104.147.15:61657] logged in with entity id 3047 at (-454.0326080266904, 71.0, 1733.2070716145392)
+[15:26:44] [Server thread/INFO]: madhav1806 joined the game
+[15:26:46] [Server thread/INFO]: <skandarajeev> for that we need wood
+[15:26:51] [Server thread/INFO]: <skandarajeev> for wood we need good axe
+[15:26:51] [Server thread/INFO]: <Heroebrien> how much
+[15:26:58] [Server thread/INFO]: <skandarajeev> i am getting efficiency five axe
+[15:27:08] [Server thread/INFO]: <Heroebrien> how much woodw
+[15:27:12] [Server thread/INFO]: <skandarajeev> like many
+[15:27:21] [Server thread/INFO]: <skandarajeev> to make all the trapdoors like 10 stacks of wood log
+[15:27:22] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[15:27:22] [Server thread/INFO]: madhav1806 left the game
+[15:27:26] [Server thread/INFO]: PrathamPM lost connection: Disconnected
+[15:27:26] [Server thread/INFO]: PrathamPM left the game
+[15:27:28] [Server thread/INFO]: <Heroebrien> oh
+[15:27:38] [Server thread/INFO]: <skandarajeev> get away from my house
+[15:27:40] [Server thread/INFO]: madhav1806[/26.104.147.15:61669] logged in with entity id 3641 at (-454.0326080266904, 71.0, 1733.2070716145392)
+[15:27:40] [Server thread/INFO]: madhav1806 joined the game
+[15:27:42] [Server thread/INFO]: PrathamPM[/26.240.55.73:54881] logged in with entity id 3672 at (-16049.339111546571, 66.0, 40906.68414867949)
+[15:27:42] [Server thread/INFO]: PrathamPM joined the game
+[15:27:56] [Server thread/INFO]: <Heroebrien> your trader sells efficiency 2 axe
+[15:27:59] [Server thread/INFO]: <skandarajeev> tsleep or dc
+[15:28:04] [Server thread/INFO]: <Heroebrien> sleeping
+[15:28:07] [Server thread/INFO]: <skandarajeev> yes i am combining them
+[15:28:07] [Server thread/INFO]: <Heroebrien> slept
+[15:28:13] [Server thread/INFO]: <skandarajeev> madhav and pratham
+[15:28:16] [Server thread/INFO]: <skandarajeev> sleep or dc
+[15:28:16] [Server thread/INFO]: <PrathamPM> no
+[15:28:18] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:28:18] [Server thread/INFO]: madhav1806 left the game
+[15:28:19] [Server thread/INFO]: PrathamPM lost connection: Disconnected
+[15:28:19] [Server thread/INFO]: PrathamPM left the game
+[15:28:34] [Server thread/INFO]: PrathamPM[/26.240.55.73:54885] logged in with entity id 4017 at (-16047.600071002256, 67.0, 40895.21961989988)
+[15:28:34] [Server thread/INFO]: PrathamPM joined the game
+[15:28:43] [Server thread/INFO]: <Heroebrien> skanda you want emeralds
+[15:28:48] [Server thread/INFO]: <Heroebrien> i have 2 stacks
+[15:28:51] [Server thread/INFO]: <skandarajeev> rech
+[15:28:54] [Server thread/INFO]: madhav1806[/26.104.147.15:61723] logged in with entity id 4665 at (-454.0326080266904, 71.0, 1733.2070716145392)
+[15:28:54] [Server thread/INFO]: madhav1806 joined the game
+[15:28:57] [Server thread/INFO]: <skandarajeev> but i have a wall of emeralds
+[15:29:05] [Server thread/INFO]: <Heroebrien> come to ender chest
+[15:29:06] [Server thread/INFO]: <skandarajeev> i don't want emeralds, i will combine them usuing exp
+[15:29:12] [Server thread/INFO]: <skandarajeev> i am at the magma farm
+[15:29:16] [Server thread/INFO]: <Heroebrien> ohk'
+[15:29:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:29:24] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[15:29:26] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:29:26] [Server thread/INFO]: madhav1806 left the game
+[15:29:59] [Server thread/INFO]: madhav1806[/26.104.147.15:61783] logged in with entity id 5525 at (-454.0326080266904, 71.0, 1733.2070716145392)
+[15:29:59] [Server thread/INFO]: madhav1806 joined the game
+[15:30:19] [Server thread/INFO]: <madhav1806> testing
+[15:30:22] [Server thread/INFO]: <madhav1806> yes
+[15:30:25] [Server thread/INFO]: <madhav1806> ping not bad
+[15:30:27] [Server thread/INFO]: <madhav1806> finally
+[15:31:12] [Server thread/INFO]: <madhav1806> testing
+[15:31:36] [Server thread/INFO]: <madhav1806> can you read these
+[15:31:39] [Server thread/INFO]: <madhav1806> y or n
+[15:31:39] [Server thread/INFO]: <Heroebrien> yes
+[15:31:48] [Server thread/INFO]: <madhav1806> yay
+[15:32:09] [Server thread/INFO]: PrathamPM was shot by Pillager
+[15:32:11] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$b.a(SourceFile:18) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.c(SourceFile:127) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[15:32:11] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at zy.b(SourceFile:202) ~[server.jar:?]
+	at zs.a(SourceFile:939) ~[server.jar:?]
+	at aae.a(SourceFile:467) ~[server.jar:?]
+	at aay.a(SourceFile:931) ~[server.jar:?]
+	at st.a(SourceFile:122) ~[server.jar:?]
+	at st$b.a(SourceFile:18) ~[server.jar:?]
+	at ol.a(SourceFile:21) ~[server.jar:?]
+	at wb.run(SourceFile:18) ~[server.jar:?]
+	at aob.c(SourceFile:144) ~[server.jar:?]
+	at aof.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
+	at aob.y(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
+	at aob.c(SourceFile:127) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[15:32:11] [Server thread/WARN]: PrathamPM moved wrongly!
+[15:33:20] [Server thread/INFO]: <PrathamPM> hey where is magma farm
+[15:33:30] [Server thread/INFO]: <madhav1806> near skende house
+[15:33:52] [Server thread/WARN]: madhav1806 moved too quickly! 0.00279781414739233,0.25799910351527444,-10.11018964987315
+[15:34:08] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:34:08] [Server thread/INFO]: madhav1806 left the game
+[15:34:53] [Server thread/INFO]: <Heroebrien> bruh it is near mesa
+[15:35:01] [Server thread/INFO]: <Heroebrien> which is 5000 blocks away
+[15:35:20] [Server thread/INFO]: madhav1806[/26.104.147.15:58895] logged in with entity id 10423 at (-57.458927651835374, 91.41999998688698, 194.62372311762616)
+[15:35:20] [Server thread/INFO]: madhav1806 joined the game
+[15:35:33] [Server thread/INFO]: <Heroebrien> bruh magma is near mesa not skende home
+[15:35:45] [Server thread/INFO]: <madhav1806> ohh right
+[15:35:57] [Server thread/INFO]: <Heroebrien> umm skanda im near mesa, but i cant see the genrator
+[15:36:04] [Server thread/INFO]: <Heroebrien> maybe my render distance
+[15:36:06] [Server thread/INFO]: <skandarajeev> i c ame back
+[15:36:20] [Server thread/INFO]: <Heroebrien> im near emsa roof. where is magma gen
+[15:36:24] [Server thread/INFO]: <skandarajeev> i am in my house
+[15:36:37] [Server thread/INFO]: <PrathamPM> alyan comeon
+[15:36:41] [Server thread/INFO]: <Heroebrien> what
+[15:36:57] [Server thread/INFO]: <PrathamPM> tell truth
+[15:37:02] [Server thread/INFO]: <Heroebrien> what truth
+[15:37:04] [Server thread/INFO]: <Heroebrien> wtf
+[15:37:23] [Server thread/INFO]: <skandarajeev> i know the truth
+[15:37:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13085, l='ServerLevel[world]', x=-375.17, y=84.00, z=870.17]
+[15:37:30] [Server thread/INFO]: <madhav1806> ummm
+[15:37:37] [Server thread/INFO]: <Heroebrien> ok sorry the truth is
+[15:37:39] [Server thread/INFO]: <Heroebrien> m gay
+[15:37:44] [Server thread/INFO]: <Heroebrien> :)
+[15:37:45] [Server thread/INFO]: <madhav1806> lol
+[15:37:47] [Server thread/INFO]: <PrathamPM> lol
+[15:37:57] [Server thread/INFO]: <skandarajeev> finally he said it
+[15:38:11] [Server thread/INFO]: <Heroebrien> skanda you shd also coem out with the truth
+[15:38:17] [Server thread/INFO]: <PrathamPM> t fuck who blue up my house
+[15:38:49] [Server thread/INFO]: <PrathamPM> tell truth
+[15:39:00] [Server thread/INFO]: <skandarajeev> oh that truth
+[15:39:09] [Server thread/INFO]: <PrathamPM> tell
+[15:39:12] [Server thread/INFO]: <skandarajeev> it was naman
+[15:39:17] [Server thread/INFO]: <PrathamPM> y
+[15:39:30] [Server thread/INFO]: <skandarajeev> he had tnt and he wanted to blow it up
+[15:39:37] [Server thread/INFO]: <PrathamPM> fucker
+[15:39:46] [Server thread/INFO]: <skandarajeev> ok don't take revvenge
+[15:39:48] [Server thread/INFO]: <skandarajeev> bruh wait
+[15:39:51] [Server thread/INFO]: <skandarajeev> it was not only naman
+[15:39:54] [Server thread/WARN]: madhav1806 moved too quickly! 3.15185488026691,9.54209373483637,-1.470310042129654
+[15:39:55] [Server thread/INFO]: <Heroebrien> all of us
+[15:39:57] [Server thread/INFO]: <skandarajeev> it was naman, aren
+[15:39:58] [Server thread/INFO]: <skandarajeev> shutup
+[15:40:00] [Server thread/INFO]: <PrathamPM> wth
+[15:40:00] [Server thread/INFO]: <skandarajeev> i was like don't do it
+[15:40:08] [Server thread/INFO]: <Heroebrien> shutup even madhav was there
+[15:40:10] [Server thread/INFO]: <skandarajeev> but i was mining obsidian
+[15:40:17] [Server thread/INFO]: <madhav1806> i was just standing there
+[15:40:17] [Server thread/INFO]: <skandarajeev> ok yeah, madhav, naman and heroebrien
+[15:40:19] [Server thread/INFO]: <madhav1806> i did nothing
+[15:40:25] [Server thread/INFO]: <skandarajeev> i was near obsidian farm
+[15:40:27] [Server thread/INFO]: <skandarajeev> ok don't take revenge
+[15:40:31] [Server thread/INFO]: <skandarajeev> lets discuss it like men
+[15:40:36] [Server thread/INFO]: <madhav1806> i just watched them do i
+[15:40:37] [Server thread/INFO]: <skandarajeev> for now sleep
+[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
+[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked PrathamPM: Kicked by an operator]
+[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked madhav1806: Kicked by an operator]
+[15:40:43] [Server thread/INFO]: skandarajeev lost connection: Kicked by an operator
+[15:40:43] [Server thread/INFO]: skandarajeev left the game
+[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked skandarajeev: Kicked by an operator]
+[15:40:43] [Server thread/WARN]: handleDisconnection() called twice
+[15:40:43] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
+[15:40:43] [Server thread/INFO]: Heroebrien left the game
+[15:40:43] [Server thread/INFO]: PrathamPM lost connection: Kicked by an operator
+[15:40:43] [Server thread/INFO]: PrathamPM left the game
+[15:40:43] [Server thread/INFO]: madhav1806 lost connection: Kicked by an operator
+[15:40:43] [Server thread/INFO]: madhav1806 left the game
+[15:40:44] [Server thread/INFO]: skandarajeev[/127.0.0.1:52348] logged in with entity id 14922 at (-529.5, 63.5625, 1664.5)
+[15:40:44] [Server thread/INFO]: skandarajeev joined the game
+[15:40:52] [Server thread/INFO]: Heroebrien[/26.68.130.165:53056] logged in with entity id 15152 at (-236.5000897219815, 128.0, 207.78838725653938)
+[15:40:52] [Server thread/INFO]: Heroebrien joined the game
+[15:41:02] [Server thread/INFO]: <Heroebrien> that house was nothing tho
+[15:41:03] [Server thread/INFO]: PrathamPM[/26.240.55.73:55144] logged in with entity id 15328 at (-379.11192841297583, 87.0, 982.976228334597)
+[15:41:03] [Server thread/INFO]: PrathamPM joined the game
+[15:41:05] [Server thread/INFO]: <skandarajeev> umm i kicked everyone cause no one was sleeping
+[15:41:11] [Server thread/INFO]: <Heroebrien> i was in roof
+[15:41:14] [Server thread/INFO]: <Heroebrien> im lost
+[15:41:14] [Server thread/INFO]: madhav1806[/26.104.147.15:59006] logged in with entity id 15841 at (-203.5037905771612, 101.0, 876.4874546615971)
+[15:41:14] [Server thread/INFO]: madhav1806 joined the game
+[15:41:34] [Server thread/INFO]: <skandarajeev> guy wait one second creeper farm is almost done
+[15:41:37] [Server thread/INFO]: <skandarajeev> i will make a save
+[15:41:40] [Server thread/INFO]: <Heroebrien> yay
+[15:41:40] [Server thread/INFO]: <skandarajeev> pls just one minute
+[15:41:41] [Server thread/INFO]: [skandarajeev: Stopping the server]
+[15:41:41] [Server thread/INFO]: Stopping server
+[15:41:41] [Server thread/INFO]: Saving players
+[15:41:41] [Server thread/INFO]: Heroebrien lost connection: Internal Exception: java.lang.StackOverflowError
+[15:41:41] [Server thread/INFO]: Heroebrien left the game
+[15:41:41] [Server thread/INFO]: Saving worlds
+[15:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:41:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:41:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:41:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
