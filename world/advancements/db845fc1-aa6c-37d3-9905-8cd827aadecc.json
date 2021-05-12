@@ -981,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-05-12 15:57:44 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-29 15:19:08 +0530"
@@ -1145,6 +1151,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 15:27:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-05-12 15:57:44 +0530"
     },
     "done": true
   },
@@ -1669,6 +1681,7 @@
       "cooked_mutton": "2021-03-26 14:21:02 +0530",
       "cooked_beef": "2021-01-29 15:35:00 +0530",
       "baked_potato": "2021-03-26 14:14:24 +0530",
+      "apple": "2021-05-12 15:50:57 +0530",
       "potato": "2021-01-29 15:34:39 +0530",
       "cooked_cod": "2021-04-15 13:14:26 +0530",
       "pumpkin_pie": "2021-02-25 09:35:55 +0530",

@@ -1,254 +1,371 @@
-[15:15:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:15:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:15:33] [main/INFO]: Reloading ResourceManager: Default
-[15:15:34] [Worker-Main-9/INFO]: Loaded 7 recipes
-[15:15:35] [Worker-Main-9/INFO]: Loaded 927 advancements
-[15:15:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[15:15:37] [Server thread/INFO]: Loading properties
-[15:15:37] [Server thread/INFO]: Default game type: SURVIVAL
-[15:15:37] [Server thread/INFO]: Generating keypair
-[15:15:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:15:37] [Server thread/INFO]: Using default channel type
-[15:15:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:15:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:15:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:15:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:15:38] [Server thread/INFO]: Preparing level "world"
-[15:15:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:40] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:41] [Server thread/INFO]: Preparing spawn area: 0%
-[15:15:41] [Server thread/INFO]: Preparing spawn area: 83%
-[15:15:42] [Server thread/INFO]: Time elapsed: 3259 ms
-[15:15:42] [Server thread/INFO]: Done (3.392s)! For help, type "help"
-[15:16:54] [Server thread/INFO]: skandarajeev[/127.0.0.1:51728] logged in with entity id 101 at (-485.5260327734342, 63.0, 1667.0733686769602)
-[15:16:54] [Server thread/INFO]: skandarajeev joined the game
-[15:19:01] [Server thread/INFO]: PrathamPM[/26.240.55.73:54834] logged in with entity id 738 at (-15942.775393411323, 100.0, 40994.30911997872)
-[15:19:01] [Server thread/INFO]: PrathamPM joined the game
-[15:23:28] [Server thread/INFO]: Heroebrien[/26.68.130.165:52952] logged in with entity id 2075 at (-516.2547377805427, 31.0, 1654.049240790877)
-[15:23:28] [Server thread/INFO]: Heroebrien joined the game
-[15:23:49] [Server thread/INFO]: <Heroebrien> sup
-[15:24:04] [Server thread/INFO]: <PrathamPM> i want to come back
-[15:24:20] [Server thread/INFO]: <PrathamPM> no one knows co
-[15:24:36] [Server thread/INFO]: <Heroebrien> skanda im in a cave under your home
-[15:24:39] [Server thread/INFO]: <Heroebrien> help
-[15:25:07] [Server thread/INFO]: <Heroebrien> yay
-[15:25:28] [Server thread/INFO]: <Heroebrien> all skem
-[15:25:57] [Server thread/INFO]: <Heroebrien> woah the gen is good
-[15:26:00] [Server thread/INFO]: <Heroebrien> is it workign
-[15:26:14] [Server thread/INFO]: <skandarajeev> not done yet
-[15:26:32] [Server thread/INFO]: <Heroebrien> tell timestamp of video
-[15:26:36] [Server thread/INFO]: <Heroebrien> what to do next
-[15:26:43] [Server thread/INFO]: <skandarajeev> we just need to put trap dore
-[15:26:44] [Server thread/INFO]: madhav1806[/26.104.147.15:61657] logged in with entity id 3047 at (-454.0326080266904, 71.0, 1733.2070716145392)
-[15:26:44] [Server thread/INFO]: madhav1806 joined the game
-[15:26:46] [Server thread/INFO]: <skandarajeev> for that we need wood
-[15:26:51] [Server thread/INFO]: <skandarajeev> for wood we need good axe
-[15:26:51] [Server thread/INFO]: <Heroebrien> how much
-[15:26:58] [Server thread/INFO]: <skandarajeev> i am getting efficiency five axe
-[15:27:08] [Server thread/INFO]: <Heroebrien> how much woodw
-[15:27:12] [Server thread/INFO]: <skandarajeev> like many
-[15:27:21] [Server thread/INFO]: <skandarajeev> to make all the trapdoors like 10 stacks of wood log
-[15:27:22] [Server thread/INFO]: madhav1806 lost connection: Disconnected
-[15:27:22] [Server thread/INFO]: madhav1806 left the game
-[15:27:26] [Server thread/INFO]: PrathamPM lost connection: Disconnected
-[15:27:26] [Server thread/INFO]: PrathamPM left the game
-[15:27:28] [Server thread/INFO]: <Heroebrien> oh
-[15:27:38] [Server thread/INFO]: <skandarajeev> get away from my house
-[15:27:40] [Server thread/INFO]: madhav1806[/26.104.147.15:61669] logged in with entity id 3641 at (-454.0326080266904, 71.0, 1733.2070716145392)
-[15:27:40] [Server thread/INFO]: madhav1806 joined the game
-[15:27:42] [Server thread/INFO]: PrathamPM[/26.240.55.73:54881] logged in with entity id 3672 at (-16049.339111546571, 66.0, 40906.68414867949)
-[15:27:42] [Server thread/INFO]: PrathamPM joined the game
-[15:27:56] [Server thread/INFO]: <Heroebrien> your trader sells efficiency 2 axe
-[15:27:59] [Server thread/INFO]: <skandarajeev> tsleep or dc
-[15:28:04] [Server thread/INFO]: <Heroebrien> sleeping
-[15:28:07] [Server thread/INFO]: <skandarajeev> yes i am combining them
-[15:28:07] [Server thread/INFO]: <Heroebrien> slept
-[15:28:13] [Server thread/INFO]: <skandarajeev> madhav and pratham
-[15:28:16] [Server thread/INFO]: <skandarajeev> sleep or dc
-[15:28:16] [Server thread/INFO]: <PrathamPM> no
-[15:28:18] [Server thread/INFO]: madhav1806 lost connection: Timed out
-[15:28:18] [Server thread/INFO]: madhav1806 left the game
-[15:28:19] [Server thread/INFO]: PrathamPM lost connection: Disconnected
-[15:28:19] [Server thread/INFO]: PrathamPM left the game
-[15:28:34] [Server thread/INFO]: PrathamPM[/26.240.55.73:54885] logged in with entity id 4017 at (-16047.600071002256, 67.0, 40895.21961989988)
-[15:28:34] [Server thread/INFO]: PrathamPM joined the game
-[15:28:43] [Server thread/INFO]: <Heroebrien> skanda you want emeralds
-[15:28:48] [Server thread/INFO]: <Heroebrien> i have 2 stacks
-[15:28:51] [Server thread/INFO]: <skandarajeev> rech
-[15:28:54] [Server thread/INFO]: madhav1806[/26.104.147.15:61723] logged in with entity id 4665 at (-454.0326080266904, 71.0, 1733.2070716145392)
-[15:28:54] [Server thread/INFO]: madhav1806 joined the game
-[15:28:57] [Server thread/INFO]: <skandarajeev> but i have a wall of emeralds
-[15:29:05] [Server thread/INFO]: <Heroebrien> come to ender chest
-[15:29:06] [Server thread/INFO]: <skandarajeev> i don't want emeralds, i will combine them usuing exp
-[15:29:12] [Server thread/INFO]: <skandarajeev> i am at the magma farm
-[15:29:16] [Server thread/INFO]: <Heroebrien> ohk'
-[15:29:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[15:29:24] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[15:29:26] [Server thread/INFO]: madhav1806 lost connection: Timed out
-[15:29:26] [Server thread/INFO]: madhav1806 left the game
-[15:29:59] [Server thread/INFO]: madhav1806[/26.104.147.15:61783] logged in with entity id 5525 at (-454.0326080266904, 71.0, 1733.2070716145392)
-[15:29:59] [Server thread/INFO]: madhav1806 joined the game
-[15:30:19] [Server thread/INFO]: <madhav1806> testing
-[15:30:22] [Server thread/INFO]: <madhav1806> yes
-[15:30:25] [Server thread/INFO]: <madhav1806> ping not bad
-[15:30:27] [Server thread/INFO]: <madhav1806> finally
-[15:31:12] [Server thread/INFO]: <madhav1806> testing
-[15:31:36] [Server thread/INFO]: <madhav1806> can you read these
-[15:31:39] [Server thread/INFO]: <madhav1806> y or n
-[15:31:39] [Server thread/INFO]: <Heroebrien> yes
-[15:31:48] [Server thread/INFO]: <madhav1806> yay
-[15:32:09] [Server thread/INFO]: PrathamPM was shot by Pillager
-[15:32:11] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$b.a(SourceFile:18) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
-[15:32:11] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$b.a(SourceFile:18) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
-[15:32:11] [Server thread/WARN]: PrathamPM moved wrongly!
-[15:33:20] [Server thread/INFO]: <PrathamPM> hey where is magma farm
-[15:33:30] [Server thread/INFO]: <madhav1806> near skende house
-[15:33:52] [Server thread/WARN]: madhav1806 moved too quickly! 0.00279781414739233,0.25799910351527444,-10.11018964987315
-[15:34:08] [Server thread/INFO]: madhav1806 lost connection: Timed out
-[15:34:08] [Server thread/INFO]: madhav1806 left the game
-[15:34:53] [Server thread/INFO]: <Heroebrien> bruh it is near mesa
-[15:35:01] [Server thread/INFO]: <Heroebrien> which is 5000 blocks away
-[15:35:20] [Server thread/INFO]: madhav1806[/26.104.147.15:58895] logged in with entity id 10423 at (-57.458927651835374, 91.41999998688698, 194.62372311762616)
-[15:35:20] [Server thread/INFO]: madhav1806 joined the game
-[15:35:33] [Server thread/INFO]: <Heroebrien> bruh magma is near mesa not skende home
-[15:35:45] [Server thread/INFO]: <madhav1806> ohh right
-[15:35:57] [Server thread/INFO]: <Heroebrien> umm skanda im near mesa, but i cant see the genrator
-[15:36:04] [Server thread/INFO]: <Heroebrien> maybe my render distance
-[15:36:06] [Server thread/INFO]: <skandarajeev> i c ame back
-[15:36:20] [Server thread/INFO]: <Heroebrien> im near emsa roof. where is magma gen
-[15:36:24] [Server thread/INFO]: <skandarajeev> i am in my house
-[15:36:37] [Server thread/INFO]: <PrathamPM> alyan comeon
-[15:36:41] [Server thread/INFO]: <Heroebrien> what
-[15:36:57] [Server thread/INFO]: <PrathamPM> tell truth
-[15:37:02] [Server thread/INFO]: <Heroebrien> what truth
-[15:37:04] [Server thread/INFO]: <Heroebrien> wtf
-[15:37:23] [Server thread/INFO]: <skandarajeev> i know the truth
-[15:37:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/13085, l='ServerLevel[world]', x=-375.17, y=84.00, z=870.17]
-[15:37:30] [Server thread/INFO]: <madhav1806> ummm
-[15:37:37] [Server thread/INFO]: <Heroebrien> ok sorry the truth is
-[15:37:39] [Server thread/INFO]: <Heroebrien> m gay
-[15:37:44] [Server thread/INFO]: <Heroebrien> :)
-[15:37:45] [Server thread/INFO]: <madhav1806> lol
-[15:37:47] [Server thread/INFO]: <PrathamPM> lol
-[15:37:57] [Server thread/INFO]: <skandarajeev> finally he said it
-[15:38:11] [Server thread/INFO]: <Heroebrien> skanda you shd also coem out with the truth
-[15:38:17] [Server thread/INFO]: <PrathamPM> t fuck who blue up my house
-[15:38:49] [Server thread/INFO]: <PrathamPM> tell truth
-[15:39:00] [Server thread/INFO]: <skandarajeev> oh that truth
-[15:39:09] [Server thread/INFO]: <PrathamPM> tell
-[15:39:12] [Server thread/INFO]: <skandarajeev> it was naman
-[15:39:17] [Server thread/INFO]: <PrathamPM> y
-[15:39:30] [Server thread/INFO]: <skandarajeev> he had tnt and he wanted to blow it up
-[15:39:37] [Server thread/INFO]: <PrathamPM> fucker
-[15:39:46] [Server thread/INFO]: <skandarajeev> ok don't take revvenge
-[15:39:48] [Server thread/INFO]: <skandarajeev> bruh wait
-[15:39:51] [Server thread/INFO]: <skandarajeev> it was not only naman
-[15:39:54] [Server thread/WARN]: madhav1806 moved too quickly! 3.15185488026691,9.54209373483637,-1.470310042129654
-[15:39:55] [Server thread/INFO]: <Heroebrien> all of us
-[15:39:57] [Server thread/INFO]: <skandarajeev> it was naman, aren
-[15:39:58] [Server thread/INFO]: <skandarajeev> shutup
-[15:40:00] [Server thread/INFO]: <PrathamPM> wth
-[15:40:00] [Server thread/INFO]: <skandarajeev> i was like don't do it
-[15:40:08] [Server thread/INFO]: <Heroebrien> shutup even madhav was there
-[15:40:10] [Server thread/INFO]: <skandarajeev> but i was mining obsidian
-[15:40:17] [Server thread/INFO]: <madhav1806> i was just standing there
-[15:40:17] [Server thread/INFO]: <skandarajeev> ok yeah, madhav, naman and heroebrien
-[15:40:19] [Server thread/INFO]: <madhav1806> i did nothing
-[15:40:25] [Server thread/INFO]: <skandarajeev> i was near obsidian farm
-[15:40:27] [Server thread/INFO]: <skandarajeev> ok don't take revenge
-[15:40:31] [Server thread/INFO]: <skandarajeev> lets discuss it like men
-[15:40:36] [Server thread/INFO]: <madhav1806> i just watched them do i
-[15:40:37] [Server thread/INFO]: <skandarajeev> for now sleep
-[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
-[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked PrathamPM: Kicked by an operator]
-[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked madhav1806: Kicked by an operator]
-[15:40:43] [Server thread/INFO]: skandarajeev lost connection: Kicked by an operator
-[15:40:43] [Server thread/INFO]: skandarajeev left the game
-[15:40:43] [Server thread/INFO]: [skandarajeev: Kicked skandarajeev: Kicked by an operator]
-[15:40:43] [Server thread/WARN]: handleDisconnection() called twice
-[15:40:43] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
-[15:40:43] [Server thread/INFO]: Heroebrien left the game
-[15:40:43] [Server thread/INFO]: PrathamPM lost connection: Kicked by an operator
-[15:40:43] [Server thread/INFO]: PrathamPM left the game
-[15:40:43] [Server thread/INFO]: madhav1806 lost connection: Kicked by an operator
-[15:40:43] [Server thread/INFO]: madhav1806 left the game
-[15:40:44] [Server thread/INFO]: skandarajeev[/127.0.0.1:52348] logged in with entity id 14922 at (-529.5, 63.5625, 1664.5)
-[15:40:44] [Server thread/INFO]: skandarajeev joined the game
-[15:40:52] [Server thread/INFO]: Heroebrien[/26.68.130.165:53056] logged in with entity id 15152 at (-236.5000897219815, 128.0, 207.78838725653938)
-[15:40:52] [Server thread/INFO]: Heroebrien joined the game
-[15:41:02] [Server thread/INFO]: <Heroebrien> that house was nothing tho
-[15:41:03] [Server thread/INFO]: PrathamPM[/26.240.55.73:55144] logged in with entity id 15328 at (-379.11192841297583, 87.0, 982.976228334597)
-[15:41:03] [Server thread/INFO]: PrathamPM joined the game
-[15:41:05] [Server thread/INFO]: <skandarajeev> umm i kicked everyone cause no one was sleeping
-[15:41:11] [Server thread/INFO]: <Heroebrien> i was in roof
-[15:41:14] [Server thread/INFO]: <Heroebrien> im lost
-[15:41:14] [Server thread/INFO]: madhav1806[/26.104.147.15:59006] logged in with entity id 15841 at (-203.5037905771612, 101.0, 876.4874546615971)
-[15:41:14] [Server thread/INFO]: madhav1806 joined the game
-[15:41:34] [Server thread/INFO]: <skandarajeev> guy wait one second creeper farm is almost done
-[15:41:37] [Server thread/INFO]: <skandarajeev> i will make a save
-[15:41:40] [Server thread/INFO]: <Heroebrien> yay
-[15:41:40] [Server thread/INFO]: <skandarajeev> pls just one minute
-[15:41:41] [Server thread/INFO]: [skandarajeev: Stopping the server]
-[15:41:41] [Server thread/INFO]: Stopping server
-[15:41:41] [Server thread/INFO]: Saving players
-[15:41:41] [Server thread/INFO]: Heroebrien lost connection: Internal Exception: java.lang.StackOverflowError
-[15:41:41] [Server thread/INFO]: Heroebrien left the game
-[15:41:41] [Server thread/INFO]: Saving worlds
-[15:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:41:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:41:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:41:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:47:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:47:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:47:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:47:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:47:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:47:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:47:07] [main/INFO]: Reloading ResourceManager: Default
+[15:47:08] [Worker-Main-6/INFO]: Loaded 7 recipes
+[15:47:08] [Worker-Main-6/INFO]: Loaded 927 advancements
+[15:47:09] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:47:09] [Server thread/INFO]: Loading properties
+[15:47:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:47:09] [Server thread/INFO]: Generating keypair
+[15:47:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:47:09] [Server thread/INFO]: Using default channel type
+[15:47:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:47:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:47:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:47:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:47:10] [Server thread/INFO]: Preparing level "world"
+[15:47:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:47:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:47:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:47:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:47:12] [Server thread/INFO]: Preparing spawn area: 83%
+[15:47:12] [Server thread/INFO]: Time elapsed: 2061 ms
+[15:47:12] [Server thread/INFO]: Done (2.173s)! For help, type "help"
+[15:47:49] [Server thread/INFO]: madhav1806[/26.104.147.15:53666] logged in with entity id 97 at (-203.28308696441619, 102.0, 878.7520107813415)
+[15:47:49] [Server thread/INFO]: madhav1806 joined the game
+[15:47:59] [Server thread/INFO]: Heroebrien[/26.68.130.165:53164] logged in with entity id 940 at (-49.129751034317536, 128.0, 212.63791854909383)
+[15:47:59] [Server thread/INFO]: Heroebrien joined the game
+[15:48:18] [Server thread/INFO]: skandarajeev[/127.0.0.1:52537] logged in with entity id 1122 at (-475.1774184443121, 63.0, 1669.9545839915904)
+[15:48:18] [Server thread/INFO]: skandarajeev joined the game
+[15:48:21] [Server thread/INFO]: PrathamPM[/26.240.55.73:55211] logged in with entity id 1433 at (-368.1462084269508, 88.0, 959.8798924790359)
+[15:48:21] [Server thread/INFO]: PrathamPM joined the game
+[15:48:48] [Server thread/INFO]: <Heroebrien> ok skanda what is left in creeper gen
+[15:49:33] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[15:49:33] [Server thread/INFO]: Heroebrien left the game
+[15:49:42] [Server thread/INFO]: Heroebrien[/26.68.130.165:53202] logged in with entity id 2353 at (-482.795677549573, 69.0, 1734.7388975876183)
+[15:49:42] [Server thread/INFO]: Heroebrien joined the game
+[15:49:42] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/2350, l='ServerLevel[world]', x=-467.56, y=69.85, z=1729.14]
+[15:49:59] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:49:59] [Server thread/INFO]: madhav1806 left the game
+[15:50:05] [Server thread/INFO]: Heroebrien lost connection: Timed out
+[15:50:05] [Server thread/INFO]: Heroebrien left the game
+[15:50:14] [Server thread/INFO]: Heroebrien[/26.68.130.165:53219] logged in with entity id 2630 at (-482.54760658548173, 69.0, 1734.7656141821146)
+[15:50:14] [Server thread/INFO]: Heroebrien joined the game
+[15:50:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Spruce Log'/2628, l='ServerLevel[world]', x=-486.38, y=96.45, z=1723.13]
+[15:50:37] [Server thread/INFO]: Heroebrien lost connection: Timed out
+[15:50:37] [Server thread/INFO]: Heroebrien left the game
+[15:50:40] [Server thread/INFO]: madhav1806[/26.104.147.15:53753] logged in with entity id 2714 at (-191.30000001192093, 76.875, 898.6555089133772)
+[15:50:40] [Server thread/INFO]: madhav1806 joined the game
+[15:50:46] [Server thread/INFO]: Heroebrien[/26.68.130.165:53253] logged in with entity id 3006 at (-482.54760658548173, 69.0, 1734.7656141821146)
+[15:50:46] [Server thread/INFO]: Heroebrien joined the game
+[15:50:59] [Server thread/INFO]: <Heroebrien> lag
+[15:51:00] [Server thread/INFO]: <Heroebrien> heave lag
+[15:51:20] [Server thread/INFO]: <Heroebrien> test
+[15:51:29] [Server thread/INFO]: <Heroebrien> ok skanda show what o do
+[15:51:40] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:51:40] [Server thread/INFO]: madhav1806 left the game
+[15:51:51] [Server thread/INFO]: <Heroebrien> xombies spawned in creppar gen
+[15:52:07] [Server thread/INFO]: madhav1806[/26.104.147.15:53784] logged in with entity id 3658 at (-147.4478951125937, 80.0, 893.7259406068176)
+[15:52:07] [Server thread/INFO]: madhav1806 joined the game
+[15:52:31] [Server thread/INFO]: <Heroebrien> skanda?
+[15:52:34] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[15:52:34] [Server thread/INFO]: madhav1806 left the game
+[15:53:18] [Server thread/INFO]: madhav1806[/26.104.147.15:53853] logged in with entity id 4482 at (-198.0855484160799, 76.875, 898.6214633917209)
+[15:53:18] [Server thread/INFO]: madhav1806 joined the game
+[15:54:11] [Server thread/WARN]: madhav1806 moved too quickly! 10.135149755481507,2.2531999805212024,-0.20016322754611338
+[15:54:42] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[15:54:42] [Server thread/INFO]: madhav1806 left the game
+[15:54:51] [Server thread/INFO]: madhav1806[/26.104.147.15:53881] logged in with entity id 5410 at (-155.21732893530745, 80.41999998688698, 893.7425862091695)
+[15:54:51] [Server thread/INFO]: madhav1806 joined the game
+[15:55:33] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:55:33] [Server thread/INFO]: madhav1806 left the game
+[15:56:29] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[15:56:29] [Server thread/INFO]: Heroebrien left the game
+[15:56:33] [Server thread/INFO]: madhav1806[/26.104.147.15:53966] logged in with entity id 6032 at (-147.05564084352764, 80.0, 893.462515534472)
+[15:56:33] [Server thread/INFO]: madhav1806 joined the game
+[15:56:34] [Server thread/INFO]: Heroebrien[/26.68.130.165:53318] logged in with entity id 6260 at (-481.93739281801874, 71.0, 1724.317373137576)
+[15:56:34] [Server thread/INFO]: Heroebrien joined the game
+[15:57:01] [Server thread/INFO]: <PrathamPM> i have no lag
+[15:57:20] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:57:20] [Server thread/INFO]: madhav1806 left the game
+[15:57:33] [Server thread/INFO]: madhav1806[/26.104.147.15:53986] logged in with entity id 6617 at (-120.19162359379993, 79.9375, 887.5850043371906)
+[15:57:33] [Server thread/INFO]: madhav1806 joined the game
+[15:57:48] [Server thread/INFO]: <skandarajeev> SLEEP OR DC
+[15:57:54] [Server thread/INFO]: PrathamPM lost connection: Disconnected
+[15:57:54] [Server thread/INFO]: PrathamPM left the game
+[15:57:58] [Server thread/INFO]: <Heroebrien> going to slep
+[15:58:14] [Server thread/INFO]: [skandarajeev] /kick Heroebrien
+[15:58:16] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[15:58:16] [Server thread/INFO]: madhav1806 left the game
+[15:58:21] [Server thread/INFO]: [skandarajeev] /ban Hereorbrien
+[15:58:24] [Server thread/INFO]: <Heroebrien> slept
+[15:58:28] [Server thread/INFO]: PrathamPM[/26.240.55.73:55350] logged in with entity id 7235 at (-475.0562288806563, 63.0, 1669.1283680712716)
+[15:58:28] [Server thread/INFO]: PrathamPM joined the game
+[15:58:48] [Server thread/INFO]: <skandarajeev> pratham is back after so many days
+[15:58:52] [Server thread/INFO]: <Heroebrien> wait you named your iron golem dinnervone?
+[15:58:58] [Server thread/INFO]: <skandarajeev> Grumm
+[15:59:04] [Server thread/INFO]: <Heroebrien> lol
+[15:59:12] [Server thread/INFO]: madhav1806[/26.104.147.15:54067] logged in with entity id 7324 at (-125.60217274995834, 79.9375, 883.8188242227791)
+[15:59:12] [Server thread/INFO]: madhav1806 joined the game
+[15:59:23] [Server thread/INFO]: <skandarajeev> creeper farm still in construction
+[15:59:35] [Server thread/INFO]: <Heroebrien> blo tell what to do in crepper farm now
+[15:59:43] [Server thread/INFO]: <PrathamPM> skanda do u have a elytra for me
+[15:59:57] [Server thread/INFO]: <Heroebrien> go kill ender dragon and get it yoruself
+[16:00:10] [Server thread/INFO]: PrathamPM was slain by Heroebrien
+[16:00:12] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:00:12] [Server thread/INFO]: madhav1806 left the game
+[16:00:12] [Server thread/INFO]: <Heroebrien> oops
+[16:00:14] [Server thread/INFO]: <Heroebrien> sorry
+[16:00:17] [Server thread/INFO]: <Heroebrien> cone fast
+[16:00:25] [Server thread/INFO]: <Heroebrien> just 2 htis to kill wow
+[16:00:55] [Server thread/INFO]: madhav1806[/26.104.147.15:54089] logged in with entity id 7976 at (-136.28609372429332, 79.9375, 880.7113913026546)
+[16:00:55] [Server thread/INFO]: madhav1806 joined the game
+[16:01:17] [Server thread/INFO]: <Heroebrien> thats it
+[16:01:17] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:01:17] [Server thread/INFO]: madhav1806 left the game
+[16:01:27] [Server thread/INFO]: madhav1806[/26.104.147.15:54095] logged in with entity id 8383 at (-136.28609372429332, 79.9375, 880.7113913026546)
+[16:01:27] [Server thread/INFO]: madhav1806 joined the game
+[16:01:30] [Server thread/INFO]: <Heroebrien> skanda help
+[16:01:34] [Server thread/INFO]: <Heroebrien> what to do in generator
+[16:01:55] [Server thread/INFO]: <Heroebrien> betreyel
+[16:02:19] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:02:19] [Server thread/INFO]: madhav1806 left the game
+[16:02:29] [Server thread/INFO]: <Heroebrien> the video says next step is to tnt the players home who is nearest to the generator
+[16:02:30] [Server thread/INFO]: madhav1806[/26.104.147.15:54102] logged in with entity id 8957 at (-129.84500898492854, 79.9375, 879.4825586216505)
+[16:02:30] [Server thread/INFO]: madhav1806 joined the game
+[16:02:34] [Server thread/INFO]: <Heroebrien> hmm
+[16:03:30] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:03:30] [Server thread/INFO]: madhav1806 left the game
+[16:03:42] [Server thread/INFO]: madhav1806[/26.104.147.15:54115] logged in with entity id 9473 at (-126.86861009040368, 79.9375, 883.6121660566238)
+[16:03:42] [Server thread/INFO]: madhav1806 joined the game
+[16:04:11] [Server thread/INFO]: <skandarajeev> make trap doors using wood
+[16:04:18] [Server thread/INFO]: <Heroebrien> ok
+[16:04:29] [Server thread/INFO]: <skandarajeev> the wood is in the chest
+[16:04:34] [Server thread/INFO]: <skandarajeev> in wood generator
+[16:04:34] [Server thread/INFO]: <Heroebrien> trapdoor or febnce gate?
+[16:04:35] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:04:35] [Server thread/INFO]: madhav1806 left the game
+[16:04:49] [Server thread/INFO]: madhav1806[/26.104.147.15:54119] logged in with entity id 9912 at (-130.21331120383041, 79.9375, 885.5337755073385)
+[16:04:49] [Server thread/INFO]: madhav1806 joined the game
+[16:05:44] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:05:44] [Server thread/INFO]: madhav1806 left the game
+[16:06:12] [Server thread/INFO]: madhav1806[/26.104.147.15:54137] logged in with entity id 11172 at (-117.3785115689747, 79.9375, 888.4787529489266)
+[16:06:12] [Server thread/INFO]: madhav1806 joined the game
+[16:06:42] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:06:42] [Server thread/INFO]: madhav1806 left the game
+[16:06:42] [Server thread/INFO]: madhav1806[/26.104.147.15:54191] logged in with entity id 11438 at (-117.3785115689747, 79.9375, 888.4787529489266)
+[16:06:42] [Server thread/INFO]: madhav1806 joined the game
+[16:07:13] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:07:13] [Server thread/INFO]: madhav1806 left the game
+[16:08:31] [Server thread/INFO]: madhav1806[/26.104.147.15:54292] logged in with entity id 12257 at (-117.3785115689747, 79.9375, 888.4787529489266)
+[16:08:31] [Server thread/INFO]: madhav1806 joined the game
+[16:08:51] [Server thread/INFO]: <Heroebrien> ok i made trapdoor
+[16:08:52] [Server thread/INFO]: <Heroebrien> now
+[16:09:31] [Server thread/INFO]: <Heroebrien> light it up
+[16:09:36] [Server thread/INFO]: <skandarajeev> no
+[16:09:47] [Server thread/INFO]: <Heroebrien> i cant see where trapddor notplaced
+[16:09:50] [Server thread/INFO]: <skandarajeev> put trapdoor in dispendson
+[16:09:53] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:09:53] [Server thread/INFO]: madhav1806 left the game
+[16:10:03] [Server thread/INFO]: <skandarajeev> aren you are running optifine right
+[16:10:07] [Server thread/INFO]: <Heroebrien> yes
+[16:10:12] [Server thread/INFO]: <skandarajeev> open settings
+[16:10:17] [Server thread/INFO]: madhav1806[/26.104.147.15:54367] logged in with entity id 13091 at (-185.79429564652582, 77.0, 914.1040388933637)
+[16:10:17] [Server thread/INFO]: madhav1806 joined the game
+[16:10:19] [Server thread/INFO]: <skandarajeev> go to video setings
+[16:10:22] [Server thread/INFO]: <Heroebrien> then?
+[16:10:27] [Server thread/INFO]: <skandarajeev> and turn on dynamic fov
+[16:11:04] [Server thread/INFO]: <Heroebrien> it was always on
+[16:11:09] [Server thread/INFO]: <skandarajeev> dynamic fov??
+[16:11:11] [Server thread/INFO]: <Heroebrien> yes
+[16:11:16] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:11:16] [Server thread/INFO]: madhav1806 left the game
+[16:11:19] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:11:19] [Server thread/INFO]: skandarajeev left the game
+[16:11:32] [Server thread/INFO]: <Heroebrien> creeper
+[16:11:33] [Server thread/INFO]: <Heroebrien> run
+[16:11:38] [Server thread/INFO]: skandarajeev[/127.0.0.1:54802] logged in with entity id 13882 at (-437.3589706255818, 76.0, 1735.439138550739)
+[16:11:38] [Server thread/INFO]: skandarajeev joined the game
+[16:11:44] [Server thread/INFO]: <skandarajeev> oh sorry i meant dynamic light
+[16:11:46] [Server thread/INFO]: <Heroebrien> sleep
+[16:11:46] [Server thread/INFO]: <skandarajeev> not fov
+[16:11:48] [Server thread/INFO]: <Heroebrien> crepper
+[16:11:55] [Server thread/INFO]: madhav1806[/26.104.147.15:54388] logged in with entity id 13950 at (-194.35007755417956, 76.0, 898.5467093491346)
+[16:11:55] [Server thread/INFO]: madhav1806 joined the game
+[16:12:10] [Server thread/INFO]: <skandarajeev> turn on dynamic light
+[16:12:16] [Server thread/INFO]: <skandarajeev> wait turn on dynamic light
+[16:12:23] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[16:12:23] [Server thread/INFO]: Heroebrien left the game
+[16:12:28] [Server thread/INFO]: madhav1806 lost connection: You logged in from another location
+[16:12:28] [Server thread/INFO]: madhav1806 left the game
+[16:12:28] [Server thread/INFO]: madhav1806[/26.104.147.15:54455] logged in with entity id 14377 at (-194.35007755417956, 76.0, 898.5467093491346)
+[16:12:28] [Server thread/INFO]: madhav1806 joined the game
+[16:12:31] [Server thread/INFO]: <skandarajeev> PrathamPM
+[16:12:33] [Server thread/INFO]: <skandarajeev> madhav1806
+[16:12:36] [Server thread/INFO]: <skandarajeev> skandarajeev
+[16:12:39] [Server thread/INFO]: <skandarajeev> PrathamPM
+[16:12:42] [Server thread/INFO]: <skandarajeev> sleep or dc
+[16:12:49] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:12:49] [Server thread/INFO]: madhav1806 left the game
+[16:12:52] [Server thread/INFO]: <skandarajeev> pratham
+[16:12:57] [Server thread/INFO]: <skandarajeev> sleep or dc
+[16:12:58] [Server thread/INFO]: <skandarajeev> pratham
+[16:13:01] [Server thread/INFO]: <skandarajeev> ahh i think he is afk
+[16:13:05] [Server thread/INFO]: [skandarajeev: Kicked PrathamPM: Kicked by an operator]
+[16:13:05] [Server thread/INFO]: PrathamPM lost connection: Kicked by an operator
+[16:13:05] [Server thread/INFO]: PrathamPM left the game
+[16:13:18] [Server thread/INFO]: PrathamPM[/26.240.55.73:55512] logged in with entity id 14640 at (-304.0549744500613, 11.0, 531.9939187802347)
+[16:13:18] [Server thread/INFO]: PrathamPM joined the game
+[16:13:23] [Server thread/INFO]: madhav1806[/26.104.147.15:54544] logged in with entity id 14746 at (-194.35007755417956, 76.0, 898.5467093491346)
+[16:13:23] [Server thread/INFO]: madhav1806 joined the game
+[16:13:47] [Server thread/INFO]: Heroebrien[/26.68.130.165:53462] logged in with entity id 15266 at (-495.5, 53.5625, 1671.5)
+[16:13:47] [Server thread/INFO]: Heroebrien joined the game
+[16:13:59] [Server thread/INFO]: <Heroebrien> i got dc
+[16:14:12] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:14:12] [Server thread/INFO]: madhav1806 left the game
+[16:14:32] [Server thread/INFO]: <Heroebrien> ok i did dynamic light
+[16:14:59] [Server thread/INFO]: madhav1806[/26.104.147.15:54577] logged in with entity id 15657 at (-183.7099956289144, 76.0, 893.9586078033523)
+[16:14:59] [Server thread/INFO]: madhav1806 joined the game
+[16:15:23] [Server thread/INFO]: <skandarajeev> now see me
+[16:15:29] [Server thread/INFO]: <Heroebrien> yes
+[16:15:56] [Server thread/INFO]: <skandarajeev> don't do for the one right here
+[16:15:57] [Server thread/INFO]: <PrathamPM> where is obsidian farm plz
+[16:15:59] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:15:59] [Server thread/INFO]: madhav1806 left the game
+[16:16:02] [Server thread/INFO]: <Heroebrien> ok
+[16:16:06] [Server thread/INFO]: <skandarajeev> umm go to end
+[16:16:11] [Server thread/INFO]: madhav1806[/26.104.147.15:54583] logged in with entity id 16243 at (-198.49930360149477, 76.875, 898.4491640616534)
+[16:16:11] [Server thread/INFO]: madhav1806 joined the game
+[16:16:43] [Server thread/INFO]: <skandarajeev> we need more scalfolding
+[16:16:47] [Server thread/INFO]: <Heroebrien> fynamic light is on
+[16:16:55] [Server thread/INFO]: <Heroebrien> but no difference
+[16:17:05] [Server thread/INFO]: <skandarajeev> by putting trap doors, zombies dont' spawn
+[16:17:09] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:17:09] [Server thread/INFO]: madhav1806 left the game
+[16:17:16] [Server thread/INFO]: <Heroebrien> big brain
+[16:17:32] [Server thread/INFO]: <skandarajeev> wow 36 gun powder alkready
+[16:17:39] [Server thread/INFO]: <Heroebrien> reich
+[16:18:01] [Server thread/INFO]: madhav1806[/26.104.147.15:54643] logged in with entity id 17173 at (-198.95015408265704, 76.64136799395752, 897.3621887680308)
+[16:18:01] [Server thread/INFO]: madhav1806 joined the game
+[16:18:29] [Server thread/INFO]: <Heroebrien> i have 64 scaffold
+[16:18:36] [Server thread/INFO]: <skandarajeev> give me
+[16:18:37] [Server thread/INFO]: PrathamPM lost connection: Disconnected
+[16:18:37] [Server thread/INFO]: PrathamPM left the game
+[16:19:01] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:19:01] [Server thread/INFO]: madhav1806 left the game
+[16:19:20] [Server thread/INFO]: <skandarajeev> sorry
+[16:19:24] [Server thread/INFO]: <Heroebrien> netherite armor flex
+[16:19:53] [Server thread/INFO]: madhav1806[/26.104.147.15:54753] logged in with entity id 17821 at (-198.29475871776444, 77.130469548185, 897.1429302461581)
+[16:19:53] [Server thread/INFO]: madhav1806 joined the game
+[16:20:19] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:20:19] [Server thread/INFO]: madhav1806 left the game
+[16:20:29] [Server thread/INFO]: madhav1806[/26.104.147.15:54773] logged in with entity id 18297 at (-191.30000001192093, 76.0, 897.7624999880791)
+[16:20:29] [Server thread/INFO]: madhav1806 joined the game
+[16:21:23] [Server thread/INFO]: madhav1806 lost connection: Disconnected
+[16:21:23] [Server thread/INFO]: madhav1806 left the game
+[16:21:47] [Server thread/INFO]: madhav1806[/26.104.147.15:54837] logged in with entity id 18833 at (-159.43645931751882, 69.0, 913.8314939218999)
+[16:21:47] [Server thread/INFO]: madhav1806 joined the game
+[16:22:15] [Server thread/INFO]: <skandarajeev> done next level
+[16:22:45] [Server thread/INFO]: <madhav1806> testing
+[16:23:47] [Server thread/INFO]: <skandarajeev> can you give some trapdoor
+[16:23:56] [Server thread/INFO]: <Heroebrien> i have only 4 left
+[16:24:02] [Server thread/INFO]: madhav1806 lost connection: Timed out
+[16:24:02] [Server thread/INFO]: madhav1806 left the game
+[16:24:08] [Server thread/INFO]: <Heroebrien> sleep
+[16:24:38] [Server thread/INFO]: <Heroebrien> slept
+[16:26:08] [Server thread/INFO]: <Heroebrien> i got 5 stacks trapdoor come
+[16:26:48] [Server thread/INFO]: <skandarajeev> lets place and then remove
+[16:26:54] [Server thread/INFO]: <skandarajeev> so we don't ahve water problems
+[16:26:59] [Server thread/INFO]: <Heroebrien> ohk
+[16:27:41] [Server thread/INFO]: <Heroebrien> done
+[16:27:53] [Server thread/INFO]: <skandarajeev> final level
+[16:27:57] [Server thread/INFO]: <Heroebrien> :)
+[16:29:48] [Server thread/INFO]: <skandarajeev> wait it is done
+[16:29:53] [Server thread/INFO]: <skandarajeev> where creeper
+[16:29:53] [Server thread/INFO]: <Heroebrien> we won mr stark
+[16:30:41] [Server thread/INFO]: <skandarajeev> come down
+[16:30:59] [Server thread/INFO]: <Heroebrien> again you did the most staisfying thing :)
+[16:31:05] [Server thread/INFO]: <Heroebrien> breaking scafold
+[16:31:09] [Server thread/INFO]: <skandarajeev> lol
+[16:31:45] [Server thread/INFO]: <skandarajeev> now we have to stay 30 blocks away
+[16:32:03] [Server thread/INFO]: <skandarajeev> just go away
+[16:32:17] [Server thread/INFO]: <skandarajeev> wait why is there nether portal here
+[16:32:29] [Server thread/INFO]: <skandarajeev> all skem
+[16:33:06] [Server thread/INFO]: <skandarajeev> now we just go on with our daily life
+[16:33:12] [Server thread/INFO]: <skandarajeev> and come back and check in 20 minute or so
+[16:33:18] [Server thread/INFO]: <Heroebrien> oh
+[16:33:27] [Server thread/INFO]: <skandarajeev> its not the fastest
+[16:33:32] [Server thread/INFO]: <skandarajeev> but the reason we did this is as this is always working
+[16:33:33] [Server thread/INFO]: <Heroebrien> :')
+[16:33:45] [Server thread/INFO]: <skandarajeev> the artificial mob spawner is the fastest
+[16:33:50] [Server thread/INFO]: <skandarajeev> but it only works when someone is t her
+[16:33:59] [Server thread/INFO]: <Heroebrien> oh
+[16:34:09] [Server thread/INFO]: [skandarajeev: Set Heroebrien's game mode to Spectator Mode]
+[16:34:17] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[16:34:17] [Server thread/INFO]: Heroebrien left the game
+[16:34:17] [Server thread/INFO]: <skandarajeev> press 1
+[16:34:24] [Server thread/INFO]: Heroebrien[/26.68.130.165:53578] logged in with entity id 21307 at (-344.84759473803257, 64.815153608495, 1702.8990810530934)
+[16:34:24] [Server thread/INFO]: Heroebrien joined the game
+[16:34:35] [Server thread/INFO]: <skandarajeev> press 1
+[16:34:42] [Server thread/INFO]: <Heroebrien> woah
+[16:34:46] [Server thread/INFO]: <Heroebrien> i was like lag
+[16:34:51] [Server thread/INFO]: <skandarajeev> you can teloport to me
+[16:34:54] [Server thread/INFO]: <skandarajeev> just press 1
+[16:35:10] [Server thread/INFO]: <skandarajeev> ok are you high in the air, i will turn it back to suvival
+[16:35:13] [Server thread/INFO]: <skandarajeev> come to a safe placew
+[16:35:24] [Server thread/INFO]: <Heroebrien> wait how am i moving without moving
+[16:35:40] [Server thread/INFO]: <Heroebrien> oh i was you
+[16:35:43] [Server thread/INFO]: [skandarajeev: Set Heroebrien's game mode to Survival Mode]
+[16:35:58] [Server thread/INFO]: <skandarajeev> thats how being server lord feels like
+[16:35:59] [Server thread/INFO]: <Heroebrien> this was adventure mde right?
+[16:36:04] [Server thread/INFO]: <skandarajeev> spectator
+[16:36:08] [Server thread/INFO]: <Heroebrien> oh nice
+[16:36:11] [Server thread/INFO]: <skandarajeev> server lord is always in spectator
+[16:36:17] [Server thread/INFO]: <Heroebrien> simp
+[16:36:23] [Server thread/INFO]: <skandarajeev> only comes to survival to hit naman
+[16:36:30] [Server thread/INFO]: <Heroebrien> klol
+[16:36:37] [Server thread/INFO]: <skandarajeev> fun fact : the reason i did survival lord account was so everyone can use it
+[16:36:43] [Server thread/INFO]: <skandarajeev> whereas i am the only one using it
+[16:36:53] [Server thread/INFO]: <skandarajeev> just change your name to serverlord while joining the game
+[16:36:53] [Server thread/INFO]: <Heroebrien> i forgot about it
+[16:37:12] [Server thread/INFO]: [skandarajeev: Kicked Heroebrien: Kicked by an operator]
+[16:37:12] [Server thread/INFO]: Heroebrien lost connection: Kicked by an operator
+[16:37:12] [Server thread/INFO]: Heroebrien left the game
+[16:37:21] [Server thread/INFO]: Heroebrien[/26.68.130.165:53594] logged in with entity id 21681 at (-500.6633663153304, 63.0, 1682.8792004850218)
+[16:37:21] [Server thread/INFO]: Heroebrien joined the game
+[16:37:27] [Server thread/INFO]: <skandarajeev> you drank poison
+[16:37:32] [Server thread/INFO]: <Heroebrien> ok lets see how much gunpowder
+[16:37:38] [Server thread/INFO]: <skandarajeev> tomorrow morning
+[16:37:46] [Server thread/INFO]: <skandarajeev> sleep or dc
+[16:37:47] [Server thread/INFO]: <Heroebrien> that was suspicios stew
+[16:37:52] [Server thread/INFO]: <skandarajeev> oh lol
+[16:37:53] [Server thread/INFO]: <skandarajeev> dc
+[16:37:54] [Server thread/INFO]: <skandarajeev> dc
+[16:38:34] [Server thread/INFO]: <skandarajeev> 45
+[16:38:39] [Server thread/INFO]: <Heroebrien> reich
+[16:38:49] [Server thread/INFO]: <skandarajeev> it was 30 when we left
+[16:38:53] [Server thread/INFO]: <Heroebrien> -__-
+[16:38:56] [Server thread/INFO]: <skandarajeev> so 15
+[16:39:05] [Server thread/INFO]: <skandarajeev> pour
+[16:39:16] [Server thread/INFO]: <Heroebrien> why are spiders swaning
+[16:39:23] [Server thread/INFO]: <skandarajeev> umm it is creeper and spider
+[16:39:34] [Server thread/INFO]: <Heroebrien> oh
+[16:39:49] [Server thread/INFO]: <skandarajeev> 35 strings
+[16:39:50] [Server thread/INFO]: <skandarajeev> rich
+[16:39:56] [Server thread/INFO]: <Heroebrien> reeich
+[16:39:59] [Server thread/INFO]: <skandarajeev> definetly not kept by me
+[16:40:11] [Server thread/INFO]: <Heroebrien> -_-
+[16:40:25] [Server thread/INFO]: <skandarajeev> ok i will stop the server ( turn of radmin and afk to see how good it is)
+[16:40:28] [Server thread/INFO]: <skandarajeev> bye
+[16:40:32] [Server thread/INFO]: <Heroebrien> bye
+[16:40:33] [Server thread/INFO]: Heroebrien lost connection: Disconnected
+[16:40:33] [Server thread/INFO]: Heroebrien left the game
+[16:54:46] [Server thread/INFO]: <skandarajeev> -435
+[16:54:54] [Server thread/INFO]: <skandarajeev> 1730
+[17:24:05] [Server thread/INFO]: [skandarajeev: Stopping the server]
+[17:24:05] [Server thread/INFO]: Stopping server
+[17:24:05] [Server thread/INFO]: Saving players
+[17:24:05] [Server thread/INFO]: Saving worlds
+[17:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
