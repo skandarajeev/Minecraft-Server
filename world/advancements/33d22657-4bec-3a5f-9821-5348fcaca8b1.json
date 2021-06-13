@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-05-13 16:48:33 +0530",
+      "minecraft:taiga_hills": "2021-05-13 16:48:59 +0530",
+      "minecraft:river": "2021-05-13 16:47:13 +0530",
+      "minecraft:savanna": "2021-05-13 16:48:23 +0530",
+      "minecraft:plains": "2021-05-13 16:45:58 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

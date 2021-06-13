@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-01-31 14:13:47 +0530"
@@ -134,6 +140,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2021-03-26 14:30:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-05-17 16:01:11 +0530"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-02-17 16:39:17 +0530"
@@ -591,7 +609,10 @@
     "criteria": {
       "minecraft:pillager": "2021-05-12 15:30:28 +0530",
       "minecraft:skeleton": "2021-02-17 16:08:16 +0530",
+      "minecraft:ghast": "2021-05-17 14:30:35 +0530",
+      "minecraft:magma_cube": "2021-05-17 15:32:39 +0530",
       "minecraft:spider": "2021-02-25 09:40:17 +0530",
+      "minecraft:creeper": "2021-05-20 15:27:17 +0530",
       "minecraft:husk": "2021-01-31 14:23:59 +0530",
       "minecraft:zombie": "2021-02-17 15:47:53 +0530"
     },
@@ -1494,6 +1515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-05-17 14:35:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2021-01-31 14:17:44 +0530"
@@ -1638,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2021-02-17 17:21:29 +0530"
@@ -1681,6 +1714,7 @@
       "cooked_mutton": "2021-03-26 14:21:02 +0530",
       "cooked_beef": "2021-01-29 15:35:00 +0530",
       "baked_potato": "2021-03-26 14:14:24 +0530",
+      "porkchop": "2021-05-17 16:02:34 +0530",
       "apple": "2021-05-12 15:50:57 +0530",
       "potato": "2021-01-29 15:34:39 +0530",
       "cooked_cod": "2021-04-15 13:14:26 +0530",
@@ -1853,6 +1887,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-02-17 16:16:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
     },
     "done": true
   },
@@ -2487,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-05-22 15:07:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2021-01-31 13:52:06 +0530"
@@ -2583,6 +2629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-17 16:24:26 +0530"
@@ -2670,6 +2722,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2021-01-29 13:59:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2021-05-13 14:47:05 +0530"
     },
     "done": true
   },
