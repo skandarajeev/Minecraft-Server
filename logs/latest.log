@@ -1,170 +1,221 @@
-[13:56:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:56:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:56:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:56:53] [main/INFO]: Reloading ResourceManager: Default
-[13:56:54] [Worker-Main-8/INFO]: Loaded 7 recipes
-[13:56:55] [Worker-Main-8/INFO]: Loaded 927 advancements
-[13:56:55] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[13:56:55] [Server thread/INFO]: Loading properties
-[13:56:55] [Server thread/INFO]: Default game type: SURVIVAL
-[13:56:55] [Server thread/INFO]: Generating keypair
-[13:56:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:56:56] [Server thread/INFO]: Using default channel type
-[13:56:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:56:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:56:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:56:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:56:56] [Server thread/INFO]: Preparing level "world"
-[13:56:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:56:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:56:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:56:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:56:58] [Server thread/INFO]: Preparing spawn area: 0%
-[13:56:58] [Server thread/INFO]: Preparing spawn area: 47%
-[13:56:59] [Server thread/INFO]: Time elapsed: 2779 ms
-[13:56:59] [Server thread/INFO]: Done (2.872s)! For help, type "help"
-[13:57:11] [Server thread/INFO]: ServerLord[/127.0.0.1:53700] logged in with entity id 104 at (-755.4904501085864, 281.68544221334156, 147.01177516641116)
-[13:57:12] [Server thread/INFO]: ServerLord joined the game
-[13:59:06] [Server thread/INFO]: skandarajeev[/127.0.0.1:53745] logged in with entity id 482 at (-765.4875000119209, 236.0, 147.30000001192093)
-[13:59:06] [Server thread/INFO]: skandarajeev joined the game
-[14:00:08] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:00:08] [Server thread/INFO]: skandarajeev left the game
-[14:00:22] [Server thread/INFO]: skandarajeev[/127.0.0.1:53823] logged in with entity id 660 at (-762.8615304622028, 202.56253421615892, 56.39695071232785)
-[14:00:22] [Server thread/INFO]: skandarajeev joined the game
-[14:02:00] [Server thread/WARN]: skandarajeev moved too quickly! -0.4585870159407719,3.437037131311911,17.74329326040658
-[14:07:45] [Server thread/INFO]: Heroebrien[/26.68.130.165:61483] logged in with entity id 2103 at (-347.5657401292061, 128.0, 214.98323181736853)
-[14:07:45] [Server thread/INFO]: Heroebrien joined the game
-[14:09:54] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:09:54] [Server thread/INFO]: Heroebrien left the game
-[14:10:06] [Server thread/INFO]: Heroebrien[/26.68.130.165:61522] logged in with entity id 2778 at (-57.45370766921726, 91.0, 198.42919164451243)
-[14:10:06] [Server thread/INFO]: Heroebrien joined the game
-[14:10:13] [Server thread/INFO]: <Heroebrien> sad 69 noises
-[14:10:49] [Server thread/INFO]: nm694752[/26.47.66.184:65000] logged in with entity id 2924 at (-664.468586887063, 128.0, -305.39580251809343)
-[14:10:49] [Server thread/INFO]: nm694752 joined the game
-[14:11:28] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:11:28] [Server thread/INFO]: nm694752 left the game
-[14:11:38] [Server thread/INFO]: nm694752[/26.47.66.184:65443] logged in with entity id 3148 at (-655.3256713772324, 128.53846426803403, -312.62467638162303)
-[14:11:38] [Server thread/INFO]: nm694752 joined the game
-[14:11:51] [Server thread/INFO]: <nm694752> me and skende both got pc unexpectedly
-[14:11:57] [Server thread/INFO]: <Heroebrien> skem
-[14:12:28] [Server thread/WARN]: nm694752 moved too quickly! 17.16961738583325,-2.740373627246811,-0.14366088502453067
-[14:13:00] [Server thread/WARN]: nm694752 moved too quickly! -8.673958560906186,0.0,5.268477878692693
-[14:13:31] [Server thread/INFO]: <skandarajeev> HE ASKED AREN, SAD SKANDA NOISES
-[14:13:35] [Server thread/INFO]: <Heroebrien> -_-
-[14:13:42] [Server thread/INFO]: <Heroebrien> the only one who talks to me
-[14:13:44] [Server thread/INFO]: <Heroebrien> UwU
-[14:14:02] [Server thread/WARN]: Heroebrien moved too quickly! -3.121593091082289,-0.5800000131130219,-9.711280975017218
-[14:15:46] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[14:15:46] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[14:16:23] [Server thread/WARN]: nm694752 moved too quickly! -17.062080588629968,-4.341418866594893,0.01741458601404844
-[14:18:07] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[14:18:07] [Server thread/INFO]: Heroebrien left the game
-[14:18:19] [Server thread/INFO]: Heroebrien[/26.68.130.165:61639] logged in with entity id 5880 at (-24.017472405244604, 65.0, 28.628237622672252)
-[14:18:19] [Server thread/INFO]: Heroebrien joined the game
-[14:21:14] [Server thread/INFO]: nm694752 was slain by Enderman
-[14:22:30] [Server thread/WARN]: nm694752 moved too quickly! 1.9122949073737345,9.965201523954832,1.2889766629210726
-[14:23:06] [Server thread/INFO]: <Heroebrien> i will get level 35 and rename my sword pp
-[14:23:13] [Server thread/INFO]: <skandarajeev> this is how i made madhavs armor
-[14:23:35] [Server thread/WARN]: nm694752 moved too quickly! -2.879826632820283,-9.623229159753834,-3.2657062152356957
-[14:23:39] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:24:09] [Server thread/INFO]: nm694752 fell from a high place
-[14:24:12] [Server thread/WARN]: nm694752 moved too quickly! 1.7025887683284964,10.073214309238793,1.2011367995031605
-[14:24:19] [Server thread/INFO]: nm694752 fell from a high place
-[14:25:16] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:25:27] [Server thread/INFO]: nm694752 fell from a high place
-[14:25:29] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
-[14:25:34] [Server thread/INFO]: nm694752 fell from a high place
-[14:25:38] [Server thread/INFO]: nm694752 fell from a high place
-[14:25:48] [Server thread/INFO]: nm694752 fell from a high place
-[14:25:56] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:26:04] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:26:10] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[14:26:10] [Server thread/INFO]: Heroebrien left the game
-[14:26:12] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:26:19] [Server thread/INFO]: Heroebrien[/26.68.130.165:61672] logged in with entity id 12726 at (-351.64571967207235, 70.0, 513.06181016405)
-[14:26:19] [Server thread/INFO]: Heroebrien joined the game
-[14:26:25] [Server thread/INFO]: nm694752 fell from a high place
-[14:26:30] [Server thread/INFO]: nm694752 fell from a high place
-[14:26:40] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:26:43] [Server thread/INFO]: Heroebrien lost connection: Timed out
-[14:26:43] [Server thread/INFO]: Heroebrien left the game
-[14:26:51] [Server thread/INFO]: Heroebrien[/26.68.130.165:61674] logged in with entity id 13605 at (-316.8202884259469, 71.00133597911214, 515.1041849281396)
-[14:26:51] [Server thread/INFO]: Heroebrien joined the game
-[14:26:52] [Server thread/INFO]: <nm694752> i am level 40 i am level 30 me i am gay
-[14:26:56] [Server thread/INFO]: nm694752 fell from a high place
-[14:27:01] [Server thread/INFO]: <skandarajeev> sod
-[14:27:05] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:27:06] [Server thread/INFO]: Heroebrien lost connection: Disconnected
-[14:27:06] [Server thread/INFO]: Heroebrien left the game
-[14:27:07] [Server thread/INFO]: <skandarajeev> sleep or dc
-[14:27:10] [Server thread/INFO]: nm694752 fell from a high place
-[14:27:15] [Server thread/INFO]: <skandarajeev> sleep or dc
-[14:27:57] [Server thread/WARN]: nm694752 moved too quickly! 0.17374652472176422,1.252203340253729,-10.237874300383737
-[14:28:15] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:28:25] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:28:32] [Server thread/WARN]: nm694752 moved too quickly! -2.588274740963641,-10.218866806790118,-2.700792457259581
-[14:28:35] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:28:39] [Server thread/INFO]: nm694752 fell from a high place
-[14:28:44] [Server thread/INFO]: nm694752 fell from a high place
-[14:28:51] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:29:01] [Server thread/INFO]: nm694752 fell from a high place
-[14:29:06] [Server thread/WARN]: nm694752 moved too quickly! 0.2155982951567239,-9.10456724457589,-5.548312915912902
-[14:29:11] [Server thread/INFO]: nm694752 was shot by skandarajeev using [BOW JOB]
-[14:29:23] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:29:34] [Server thread/INFO]: nm694752 tried to swim in lava
-[14:29:41] [Server thread/INFO]: nm694752 was shot by skandarajeev using [BOW JOB]
-[14:29:58] [Server thread/INFO]: nm694752 lost connection: Disconnected
-[14:29:58] [Server thread/INFO]: nm694752 left the game
-[14:30:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/16606, l='ServerLevel[world]', x=-375.17, y=84.00, z=870.17]
-[14:33:18] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:33:18] [Server thread/INFO]: skandarajeev left the game
-[14:33:39] [Server thread/INFO]: skandarajeev[/127.0.0.1:50205] logged in with entity id 17357 at (-372.69999998807907, 80.0, 882.7206390559265)
-[14:33:39] [Server thread/INFO]: skandarajeev joined the game
-[14:37:37] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:37:37] [Server thread/INFO]: skandarajeev left the game
-[14:39:48] [Server thread/INFO]: skandarajeev[/127.0.0.1:50286] logged in with entity id 20306 at (-477.5443081696896, 64.06557777178718, 1668.3049712423042)
-[14:39:48] [Server thread/INFO]: skandarajeev joined the game
-[14:41:38] [Server thread/INFO]: skandarajeev lost connection: Disconnected
-[14:41:38] [Server thread/INFO]: skandarajeev left the game
-[14:43:48] [Server thread/INFO]: PrathamPM[/26.240.55.73:65057] logged in with entity id 21044 at (-499.3117971862521, 63.0, 1681.0893548371762)
-[14:43:48] [Server thread/INFO]: PrathamPM joined the game
-[14:44:49] [Server thread/INFO]: PrathamPM lost connection: Disconnected
-[14:44:49] [Server thread/INFO]: PrathamPM left the game
-[14:47:38] [Server thread/INFO]: ServerLord lost connection: Disconnected
-[14:47:38] [Server thread/INFO]: ServerLord left the game
-[14:47:48] [Server thread/INFO]: Stopping the server
-[14:47:48] [Server thread/INFO]: Stopping server
-[14:47:48] [Server thread/INFO]: Saving players
-[14:47:48] [Server thread/INFO]: Saving worlds
-[14:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:11:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:11:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:11:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:11:45] [main/INFO]: Reloading ResourceManager: Default
+[15:11:46] [Worker-Main-10/INFO]: Loaded 7 recipes
+[15:11:47] [Worker-Main-10/INFO]: Loaded 927 advancements
+[15:11:48] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:11:48] [Server thread/INFO]: Loading properties
+[15:11:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:11:48] [Server thread/INFO]: Generating keypair
+[15:11:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:11:48] [Server thread/INFO]: Using default channel type
+[15:11:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:11:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:11:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:11:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:11:49] [Server thread/INFO]: Preparing level "world"
+[15:11:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:11:50] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:50] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:50] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:50] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:51] [Server thread/INFO]: Preparing spawn area: 0%
+[15:11:52] [Server thread/INFO]: Time elapsed: 3404 ms
+[15:11:52] [Server thread/INFO]: Done (3.489s)! For help, type "help"
+[15:12:24] [Server thread/INFO]: skandarajeev[/127.0.0.1:57707] logged in with entity id 103 at (-520.486475580513, 63.92715838739336, 1653.187120671945)
+[15:12:24] [Server thread/INFO]: skandarajeev joined the game
+[15:13:09] [Server thread/INFO]: Spidermonish[/[0:0:0:0:0:0:0:1]:57726] logged in with entity id 372 at (-339.5, 67.0, 506.5)
+[15:13:09] [Server thread/INFO]: Spidermonish joined the game
+[15:14:56] [Server thread/INFO]: Spidermonish lost connection: Disconnected
+[15:14:56] [Server thread/INFO]: Spidermonish left the game
+[15:14:57] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[15:14:57] [Server thread/INFO]: skandarajeev left the game
+[15:22:21] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:65454] logged in with entity id 1444 at (-358.5, 69.0, 510.5)
+[15:22:21] [Server thread/INFO]: batmonish joined the game
+[15:22:59] [Server thread/INFO]: skandarajeev[/127.0.0.1:65459] logged in with entity id 1536 at (-350.8371290158024, 70.0, 500.2725276399069)
+[15:22:59] [Server thread/INFO]: skandarajeev joined the game
+[15:23:13] [Server thread/INFO]: <skandarajeev> follow me
+[15:23:17] [Server thread/INFO]: <batmonish> show hous
+[15:23:30] [Server thread/INFO]: <skandarajeev> join voice chat
+[15:23:32] [Server thread/INFO]: <skandarajeev> only I will speak
+[15:23:35] [Server thread/INFO]: <skandarajeev> you can stay on mute
+[15:23:46] [Server thread/INFO]: <skandarajeev> too much history
+[15:23:50] [Server thread/INFO]: <skandarajeev> i have to explain a lot
+[15:23:56] [Server thread/INFO]: <batmonish> okay joined
+[15:24:19] [Server thread/INFO]: <batmonish> how r u flying????
+[15:24:34] [Server thread/INFO]: <batmonish> what should i do ??
+[15:24:43] [Server thread/INFO]: batmonish lost connection: Disconnected
+[15:24:43] [Server thread/INFO]: batmonish left the game
+[15:24:54] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:51846] logged in with entity id 2213 at (-319.57598996001155, 69.0, 511.6999999880792)
+[15:24:54] [Server thread/INFO]: batmonish joined the game
+[15:25:21] [Server thread/INFO]: <batmonish> where r u ?
+[15:25:28] [Server thread/INFO]: <batmonish> dude teach me how to fly
+[15:25:48] [Server thread/WARN]: batmonish moved too quickly! 5.619196407359425,-1.0,8.295077956936893
+[15:25:58] [Server thread/INFO]: batmonish has made the advancement [We Need to Go Deeper]
+[15:26:18] [Server thread/WARN]: batmonish moved too quickly! -8.273373086530633,-2.0,-5.521530595631575
+[15:26:19] [Server thread/INFO]: <batmonish> wow
+[15:27:01] [Server thread/WARN]: batmonish moved too quickly! -1.0484277327736748,-0.49520087700591375,-10.213140190760654
+[15:27:33] [Server thread/INFO]: <batmonish> ah dam
+[15:27:45] [Server thread/INFO]: <batmonish> where r u
+[15:27:47] [Server thread/INFO]: <batmonish> where did u go
+[15:27:51] [Server thread/INFO]: <batmonish> me too
+[15:27:55] [Server thread/INFO]: <batmonish> but i am still here
+[15:28:15] [Server thread/INFO]: <batmonish> i came
+[15:28:30] [Server thread/INFO]: <batmonish> throught the portle
+[15:29:20] [Server thread/WARN]: batmonish moved too quickly! -6.0490624352750615,3.0,-7.516570776647242
+[15:29:59] [Server thread/INFO]: <batmonish> lol
+[15:30:53] [Server thread/INFO]: <batmonish> bro where did u go
+[15:31:14] [Server thread/INFO]: <batmonish> is itsafe
+[15:32:31] [Server thread/INFO]: <batmonish> minecraft is so good
+[15:32:43] [Server thread/INFO]: <batmonish> why didnt we do this before
+[15:32:50] [Server thread/INFO]: <batmonish> shell ask in middle
+[15:32:53] [Server thread/INFO]: <batmonish> she asking evryone
+[15:32:58] [Server thread/INFO]: <batmonish> riks
+[15:33:12] [Server thread/INFO]: <batmonish> dude how r u flying
+[15:33:25] [Server thread/INFO]: <batmonish> ah
+[15:34:01] [Server thread/INFO]: <batmonish> damn
+[15:34:36] [Server thread/WARN]: batmonish moved too quickly! 4.500319728262639,-1.189703340253729,-9.13774357168586
+[15:34:58] [Server thread/INFO]: <batmonish> oke
+[15:35:11] [Server thread/INFO]: <batmonish> how should i sleep?
+[15:35:20] [Server thread/INFO]: <batmonish> bruh
+[15:35:30] [Server thread/INFO]: <batmonish> let me in house
+[15:36:10] [Server thread/INFO]: <batmonish> oh dang
+[15:36:15] [Server thread/INFO]: <batmonish> i am in house
+[15:36:19] [Server thread/INFO]: <batmonish> nearby
+[15:36:44] [Server thread/INFO]: batmonish lost connection: Disconnected
+[15:36:44] [Server thread/INFO]: batmonish left the game
+[15:36:47] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:55189] logged in with entity id 5241 at (69.72348605341031, 72.0, -146.51472585267192)
+[15:36:47] [Server thread/INFO]: batmonish joined the game
+[15:37:05] [Server thread/INFO]: <batmonish> ah i see
+[15:37:09] [Server thread/INFO]: <batmonish> where r u
+[15:37:53] [Server thread/INFO]: <batmonish> where
+[15:38:00] [Server thread/INFO]: <batmonish> i am back
+[15:38:16] [Server thread/INFO]: <batmonish> ooo
+[15:38:23] [Server thread/WARN]: batmonish moved too quickly! 9.705979949852846,-3.0,0.1287782348566111
+[15:38:39] [Server thread/INFO]: <batmonish> lol
+[15:38:43] [Server thread/INFO]: <batmonish> where totches
+[15:38:45] [Server thread/INFO]: <batmonish> orches
+[15:38:49] [Server thread/INFO]: <batmonish> orches
+[15:38:50] [Server thread/INFO]: <batmonish> torches
+[15:39:00] [Server thread/INFO]: <batmonish> i got distacted
+[15:39:39] [Server thread/WARN]: batmonish moved too quickly! -9.802559591950441,0.623264386218267,2.480820884945615
+[15:39:46] [Server thread/WARN]: batmonish moved too quickly! -8.45616376013787,0.6883129212553172,5.424280643086547
+[15:40:04] [Server thread/INFO]: <batmonish> ummm
+[15:40:21] [Server thread/INFO]: <batmonish> oke
+[15:40:29] [Server thread/WARN]: batmonish moved too quickly! -1.4271063651799416,1.0,9.994826320806638
+[15:40:36] [Server thread/INFO]: <batmonish> bro wait
+[15:41:32] [Server thread/INFO]: <batmonish> icame
+[15:42:37] [Server thread/WARN]: batmonish moved too quickly! -2.618113579166806,2.796735600668711,9.362200163089483
+[15:43:02] [Server thread/WARN]: batmonish moved too quickly! -7.261771724004756,5.247851099632541,4.570619862447373
+[15:43:17] [Server thread/WARN]: batmonish moved too quickly! 6.871649001804822,0.9769118908984495,7.427320687995433
+[15:43:23] [Server thread/INFO]: <batmonish> bro i came up now
+[15:43:29] [Server thread/INFO]: <batmonish> i was cmibing
+[15:43:31] [Server thread/INFO]: <batmonish> climbing
+[15:44:08] [Server thread/WARN]: batmonish moved too quickly! -8.293562635549959,-3.0,-5.06937209365212
+[15:44:54] [Server thread/INFO]: <batmonish> lol
+[15:45:02] [Server thread/INFO]: <batmonish> i will die if i fall
+[15:45:18] [Server thread/INFO]: <batmonish> now what ???
+[15:45:21] [Server thread/INFO]: <batmonish> where
+[15:45:46] [Server thread/WARN]: batmonish moved too quickly! -3.7620360647269706,-4.831599982047081,-8.074526462365839
+[15:46:05] [Server thread/WARN]: batmonish moved too quickly! -10.050090977017248,0.0,-0.42370377016889904
+[15:46:33] [Server thread/WARN]: batmonish moved too quickly! -2.9947925690290447,-8.865148067891624,4.335916951689256
+[15:46:35] [Server thread/INFO]: [skandarajeev: Set the time to 1000]
+[15:46:40] [Server thread/WARN]: batmonish moved too quickly! -1.384367358735858,-1.57573246410945,9.80457640824119
+[15:46:46] [Server thread/INFO]: <batmonish> i am under brig\dgw
+[15:46:49] [Server thread/INFO]: <batmonish> bridge
+[15:47:03] [Server thread/INFO]: <batmonish> near water
+[15:47:57] [Server thread/INFO]: <batmonish> lol
+[15:48:33] [Server thread/WARN]: batmonish moved too quickly! -9.993527666517025,0.0,-1.84560945412629
+[15:48:46] [Server thread/INFO]: <batmonish> where tortoise
+[15:48:57] [Server thread/INFO]: <batmonish> wow
+[15:49:58] [Server thread/INFO]: <batmonish> dang
+[15:50:18] [Server thread/INFO]: <batmonish> when do i get my house
+[15:50:44] [Server thread/INFO]: <batmonish> ah okay , i mean isnt there a shortcut?? cant i just buy
+[15:50:56] [Server thread/WARN]: batmonish moved too quickly! -6.154262884237596,0.0,7.902738890324088
+[15:51:02] [Server thread/WARN]: batmonish moved too quickly! -6.598267449902664,-2.419999986886978,7.2130769946732585
+[15:51:31] [Server thread/WARN]: batmonish moved too quickly! -9.350768705595215,-4.0,-0.24007560307734366
+[15:52:14] [Server thread/INFO]: <batmonish> wait i got stuck
+[15:52:55] [Server thread/INFO]: <skandarajeev> a girl skin
+[15:53:03] [Server thread/INFO]: <batmonish> ah loll
+[15:53:12] [Server thread/INFO]: <batmonish> lol
+[15:53:45] [Server thread/INFO]: <batmonish> ah makes sense
+[15:54:10] [Server thread/INFO]: <batmonish> war flashbacks
+[15:54:33] [Server thread/WARN]: batmonish moved too quickly! 8.001089081070063,1.747796659746271,5.959589434734141
+[15:55:21] [Server thread/INFO]: <batmonish> ahhh
+[15:55:39] [Server thread/INFO]: <batmonish> inside??
+[15:55:41] [Server thread/INFO]: <batmonish> oke
+[15:56:18] [Server thread/INFO]: <batmonish> got it
+[15:56:44] [Server thread/INFO]: <batmonish> its night
+[15:56:48] [Server thread/INFO]: batmonish lost connection: Disconnected
+[15:56:48] [Server thread/INFO]: batmonish left the game
+[15:56:51] [Server thread/INFO]: [skandarajeev: Set the time to 1000]
+[15:56:56] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:53032] logged in with entity id 9063 at (-438.0923757032654, 66.0, 420.67237798046244)
+[15:56:56] [Server thread/INFO]: batmonish joined the game
+[15:57:57] [Server thread/INFO]: <batmonish> i dont have food
+[15:58:02] [Server thread/INFO]: <batmonish> i just have the steaks
+[15:58:16] [Server thread/INFO]: <batmonish> got it
+[15:58:33] [Server thread/INFO]: <batmonish> done
+[15:59:08] [Server thread/INFO]: <batmonish> umm
+[15:59:09] [Server thread/INFO]: <batmonish> oke
+[15:59:14] [Server thread/INFO]: <batmonish> it broke
+[15:59:15] [Server thread/INFO]: <batmonish> umm
+[15:59:37] [Server thread/INFO]: batmonish has made the advancement [Acquire Hardware]
+[15:59:41] [Server thread/INFO]: <batmonish> oke done
+[15:59:55] [Server thread/INFO]: <batmonish> bro elp
+[16:00:04] [Server thread/INFO]: <batmonish> something scary
+[16:00:11] [Server thread/INFO]: <batmonish> what was that
+[16:00:52] [Server thread/INFO]: <batmonish> bro soemthing on fire
+[16:01:58] [Server thread/INFO]: <batmonish> nope
+[16:05:54] [Server thread/INFO]: batmonish has made the advancement [Suit Up]
+[16:06:50] [Server thread/WARN]: batmonish moved too quickly! 2.311750962271958,0.0,9.813437148018693
+[16:09:40] [Server thread/WARN]: batmonish moved too quickly! 3.414387264479842,1.0,-9.38505068051461
+[16:13:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11721, l='ServerLevel[world]', x=-375.17, y=84.00, z=870.17]
+[16:13:15] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/11721, l='ServerLevel[world]', x=-375.17, y=84.00, z=870.17]
+[16:14:32] [Server thread/INFO]: batmonish has made the advancement [Sweet Dreams]
+[16:14:34] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:14:34] [Server thread/INFO]: skandarajeev left the game
+[16:14:42] [Server thread/INFO]: skandarajeev[/127.0.0.1:62346] logged in with entity id 11966 at (-382.6918976338968, 91.0, 857.3904854878688)
+[16:14:42] [Server thread/INFO]: skandarajeev joined the game
+[16:15:50] [Server thread/WARN]: batmonish moved too quickly! 0.2302586406756859,-10.277411153802255,0.06104346746326428
+[16:16:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12295, l='ServerLevel[world]', x=-373.82, y=84.00, z=856.63]
+[16:16:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/12295, l='ServerLevel[world]', x=-373.82, y=84.00, z=856.63]
+[16:25:07] [Server thread/WARN]: batmonish moved too quickly! 6.840630927536978,-0.34636800707053794,7.72053867712134
+[16:26:31] [Server thread/INFO]: batmonish lost connection: Disconnected
+[16:26:31] [Server thread/INFO]: batmonish left the game
+[16:26:38] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:64077] logged in with entity id 14317 at (185.80328012781086, 67.0, 1086.8709993002878)
+[16:26:38] [Server thread/INFO]: batmonish joined the game
+[16:30:06] [Server thread/INFO]: batmonish has made the advancement [Stone Age]
+[16:33:19] [Server thread/WARN]: batmonish moved too quickly! -10.098611954859273,0.0,-0.6317910839811987
+[16:34:14] [Server thread/INFO]: <skandarajeev> anime girl skin once
+[16:34:18] [Server thread/INFO]: <skandarajeev> we all loved him back then
+[16:34:28] [Server thread/INFO]: <skandarajeev> brother right in front of me
+[16:39:33] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[16:39:33] [Server thread/INFO]: skandarajeev left the game
+[16:39:38] [Server thread/INFO]: skandarajeev[/127.0.0.1:65268] logged in with entity id 16196 at (-523.636767134777, 63.0, 1665.1156001569504)
+[16:39:38] [Server thread/INFO]: skandarajeev joined the game
+[16:49:09] [Server thread/INFO]: batmonish lost connection: Disconnected
+[16:49:09] [Server thread/INFO]: batmonish left the game
+[16:54:18] [Server thread/INFO]: batmonish[/[0:0:0:0:0:0:0:1]:52641] logged in with entity id 21066 at (-475.86243554149996, 63.0, 1670.3628358379538)
+[16:54:18] [Server thread/INFO]: batmonish joined the game
+[16:54:23] [Server thread/INFO]: batmonish lost connection: Disconnected
+[16:54:23] [Server thread/INFO]: batmonish left the game
+[16:55:28] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:55:28] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:00:29] [Server thread/INFO]: [skandarajeev: Stopping the server]
+[17:00:29] [Server thread/INFO]: Stopping server
+[17:00:29] [Server thread/INFO]: Saving players
+[17:00:29] [Server thread/INFO]: skandarajeev lost connection: Disconnected
+[17:00:29] [Server thread/INFO]: skandarajeev left the game
+[17:00:29] [Server thread/INFO]: Saving worlds
+[17:00:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:00:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
